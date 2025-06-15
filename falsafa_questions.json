@@ -1,0 +1,3345 @@
+[
+  {
+    "question": "Falsafa so’zining lug’aviy ma’nosini toping",
+    "answers": [
+      {
+        "text": "Donishmandlikni sevaman",
+        "correct": true
+      },
+      {
+        "text": "Fikrlayman",
+        "correct": false
+      },
+      {
+        "text": "O’zlikni anglamoq",
+        "correct": false
+      },
+      {
+        "text": "Donishmandlik sirlari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Falsafada bilish nazariyasini ifoda etuvchi tushuncha",
+    "answers": [
+      {
+        "text": "Ontologiya",
+        "correct": false
+      },
+      {
+        "text": "Akseologiya",
+        "correct": false
+      },
+      {
+        "text": "Gnoseologiya",
+        "correct": true
+      },
+      {
+        "text": "Praksiologiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"Men bilmasligimni bilaman\" – deb aytgan faylasuf kim",
+    "answers": [
+      {
+        "text": "Demokrit",
+        "correct": false
+      },
+      {
+        "text": "Empedokl",
+        "correct": false
+      },
+      {
+        "text": "Anakvagor",
+        "correct": false
+      },
+      {
+        "text": "Suqrot",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Falsafiy tafakkur qanday manfaatlarni ifoda etishi zarur====",
+    "answers": [
+      {
+        "text": "umuminsoniy",
+        "correct": true
+      },
+      {
+        "text": "milliy-mintaqaviy",
+        "correct": false
+      },
+      {
+        "text": "Sinfiy",
+        "correct": false
+      },
+      {
+        "text": "iqtisodiy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Muso al-Xorazmiyning jaxon fani taraqqiyotiga qo’shgan xissasi nimalardan iborat",
+    "answers": [
+      {
+        "text": "Fan tarixida birinchi astronomik jadvalning asoschisi",
+        "correct": false
+      },
+      {
+        "text": "Xind, Ivrit, Yunon, Lotin tillaridan to’plagan asarlarni tarjima qilgan",
+        "correct": false
+      },
+      {
+        "text": "Geotsentrik nazariyaning asoschisi, yerning globusini kashf etgan kashfiyotchi",
+        "correct": false
+      },
+      {
+        "text": "O’nlik sanoq sistemasi, arifmetik ilm amallari, algoritmlar nazariyasi va Algebra fanining asoschisi",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Tasavvuf ta’limoti va uning Markaziy Osiyodagi tariqatlari",
+    "answers": [
+      {
+        "text": "Xamadoniy, Arslonbob, Xo’ja Axror",
+        "correct": false
+      },
+      {
+        "text": "Maxdumi A’zam, Boxarziy, Said Kulol",
+        "correct": false
+      },
+      {
+        "text": "Naqshbandiya, Yassaviya, Kubroviya",
+        "correct": true
+      },
+      {
+        "text": "Xojagoniy, Zikri-Xufiya, Mavlaviya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "XIX asr oxiri XX asr birinchi choragida keng quloch yoygan jadidlar xarakatining tub maqsadi nima bo’lgan",
+    "answers": [
+      {
+        "text": "dinni islox qilish orqali jamiyatni yangilash",
+        "correct": false
+      },
+      {
+        "text": "maorifda yevropacha o’qitish uslubiga o’tish orqali xalqni tez va keng  qatlamlarini  ma’rifatli qilish",
+        "correct": true
+      },
+      {
+        "text": "====                                                                                                                                mustamlakachilik va sinfiy zulmdan xalqni ozodlikka olib chiqish uchun kurashganlar",
+        "correct": false
+      },
+      {
+        "text": "xalqning siyosiy ongini oshirish orqali qullikdan ozod bo’lishini maqsad qilib qo’yganlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Falsafaning mustaqil ijtimoiy ong shakli bo’lib shakllanishida xal qiluvchi omil nima",
+    "answers": [
+      {
+        "text": "uning ilmiy ob’ektivligi",
+        "correct": false
+      },
+      {
+        "text": "uning dunyoqarash xarakteri",
+        "correct": true
+      },
+      {
+        "text": "uning ijtimoiy-tarixiy xarakteri",
+        "correct": false
+      },
+      {
+        "text": "uning madaniy-ma’naviy tizimdagi aloxida o’rni va roli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Eng qadimgi ilk dunyoqarash shakli",
+    "answers": [
+      {
+        "text": "siyosiy va xuquqiy",
+        "correct": false
+      },
+      {
+        "text": "axloqiy va badiiy",
+        "correct": false
+      },
+      {
+        "text": "diniy va falsafiy",
+        "correct": false
+      },
+      {
+        "text": "diniy-mifologik",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Inson bilishining umumiy qonuniyatlarini falsafaning qaysi qismi o’rganadi",
+    "answers": [
+      {
+        "text": "Ontologiya",
+        "correct": false
+      },
+      {
+        "text": "Sotsiologiya",
+        "correct": false
+      },
+      {
+        "text": "Gnoseologiya",
+        "correct": true
+      },
+      {
+        "text": "aksiologiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Borliq tushunchasining falsafiy mazmuni nima",
+    "answers": [
+      {
+        "text": "ma’naviy reallikning yig’indisi",
+        "correct": false
+      },
+      {
+        "text": "xudoni bilishning aloxida yo’li",
+        "correct": false
+      },
+      {
+        "text": "ob’ektiv va sub’ektiv reallikning yaxlitligi",
+        "correct": true
+      },
+      {
+        "text": "dunyoning ziddiyatli xolati",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Borliqning «birinchi tabiati» va borliqning «ikkinchi tabiati» ko’rinishining o’zaro farqlari nimada",
+    "answers": [
+      {
+        "text": "birinchi tabiat ko’rinishi ijtimoiy borliq bilan bog’liqdir",
+        "correct": false
+      },
+      {
+        "text": "ikkinchi tabiat ko’rinishi ijtimoiy borliq bilan bog’liqdir",
+        "correct": false
+      },
+      {
+        "text": "birinchisi ikkinchisining xosilasidir",
+        "correct": false
+      },
+      {
+        "text": "ikkinchisi birinchisining xosilasidir",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Monistik ta’limotlarning tub mohiyati nimadan iborat",
+    "answers": [
+      {
+        "text": "olamning birligi to’g’risidagi qarashlarning to’g’riligiga ishonchda",
+        "correct": false
+      },
+      {
+        "text": "olamning birligini inkor etuvchi qarashlar",
+        "correct": false
+      },
+      {
+        "text": "olamning birligini bir substantsiyadan tarkib topadi degan qarash",
+        "correct": true
+      },
+      {
+        "text": "olam ikki yoki ko’p substantsiyalardan tarkib topadi degan qarashlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Eng murakkab harakat shakli",
+    "answers": [
+      {
+        "text": "ijtimoiy",
+        "correct": true
+      },
+      {
+        "text": "Ximiyaviy",
+        "correct": false
+      },
+      {
+        "text": "Biologik",
+        "correct": false
+      },
+      {
+        "text": "mexanik va fizik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kishining o’z-o’ziga bo’lgan munosabatlarida nima belgilovchi rol o’ynaydi",
+    "answers": [
+      {
+        "text": "o’z-o’zini anglash",
+        "correct": true
+      },
+      {
+        "text": "Iroda",
+        "correct": false
+      },
+      {
+        "text": "Xotira",
+        "correct": false
+      },
+      {
+        "text": "Tasavvur",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Falsafiy kategoriyalar deb nimaga aytiladi",
+    "answers": [
+      {
+        "text": "fan va falsafadagi xar qanday umumiy tushunchalar",
+        "correct": false
+      },
+      {
+        "text": "ob’ektiv va sub’ektiv reallikdagi xodisalarni aniq ifoda etuvchi tushunchalar",
+        "correct": false
+      },
+      {
+        "text": "ob’ektning sub’ekt ongidagi in’ikosini aks etdiruvchi tushunchalar",
+        "correct": false
+      },
+      {
+        "text": "mazmunan kengaytirib bo’lmaydigan eng umumiy tushunchalar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ilmiy bilishning tub moxiyatini o’zida mujassamlash-tiruvchi asosiy belgi nima",
+    "answers": [
+      {
+        "text": "Manfaat",
+        "correct": false
+      },
+      {
+        "text": "Tajriba",
+        "correct": true
+      },
+      {
+        "text": "E’tiqod",
+        "correct": false
+      },
+      {
+        "text": "Mantiq",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agnostitsizm nima?",
+    "answers": [
+      {
+        "text": "dunyoni bilishni inkor etuvchi ta’limot",
+        "correct": true
+      },
+      {
+        "text": "insonning kelib chiqishida tabiiy omilning xal qiluvchi axamiyatini inkor etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "insonning kelib chiqishida ijtimoiy omilning xal etuvchi axamiyatini e’tirof etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "borliq haqidagi ta’limot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ratsionalizm ta’limotining tub moxiyati nima",
+    "answers": [
+      {
+        "text": "bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot",
+        "correct": true
+      },
+      {
+        "text": "bilishda sezgi a’zolarini xal qiluvchi axamiyatini e’tirof etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "dunyoni bilish mumkin deb xisoblaydigan ta’limot",
+        "correct": false
+      },
+      {
+        "text": "umuminsoniy manfaatlarning ustuvorligini tan oluvchi ta’limot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sensualizm va uning moxiyati nima",
+    "answers": [
+      {
+        "text": "bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "bilishda sezgi a’zolarining xal qiluvchi axamiyatini e’tirof  etuvchi ta’limot",
+        "correct": true
+      },
+      {
+        "text": "dunyoni bilish mumkinligini inkor etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "milliy va umuminsoniy manfaatlarning mushtarakligi xamda ularning ustuvorligini tan oluvchi ta’limot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jamiyatning tabiatdan farq qilishiga sabab bo’luvchi eng asosiy omil nimada",
+    "answers": [
+      {
+        "text": "ijtimoiy taraqqiyotning o’ta noyobligida",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy qonunlar asosida rivojlanishida",
+        "correct": true
+      },
+      {
+        "text": "tabiiy qonunlardan mustaqil bo’lganligida",
+        "correct": false
+      },
+      {
+        "text": "tabiatdan tashqari kuchlarning irodasi bilan rivojlanishida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aksiologiya nima",
+    "answers": [
+      {
+        "text": "inson bilishining umumiy qonuniyatlarini o’rganuvchi falsafaning bir bo’lagi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy taraqqiyot qonuniyatlarini o’rganuvchi falsafaning bir qismi",
+        "correct": false
+      },
+      {
+        "text": "falsafaning qadriyatlar soxasini o’rganuvchi soxasi",
+        "correct": true
+      },
+      {
+        "text": "falsafaning sinflar va siyosiy partiyalarning o’zaro aloqadorligini o’rganuvchi soxasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«Ijtimoiy borliq» tushunchasi nimani anglatadi",
+    "answers": [
+      {
+        "text": "ishlab chiqarish munosabatlari yig’indisi",
+        "correct": false
+      },
+      {
+        "text": "kishilar o’rtasida shakllangan o’zaro aloqadorliklar tizimi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy sinflar va tabaqalar yig’indisi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy taraqqiyotning muayyan bosqichidagi kishilar o’rtasidagi barcha          ijtimoiy munosabatlar majmuasi",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Huquq nima",
+    "answers": [
+      {
+        "text": "jamiyatda shaxs erkinligini ta’minlovchi tadbirlar",
+        "correct": false
+      },
+      {
+        "text": "kishilarning jamiyatda o’z o’rinlarini aniq belgilab olish uchun belgilab qo’yilgan hatti-harakatlar normasi",
+        "correct": false
+      },
+      {
+        "text": "kishilar o’rtasidagi munosabatlarni tartibga solish uchun siyosiy hokimiyat tomonidan belgilangan zaruriy hatti-harakatlar dasturi",
+        "correct": true
+      },
+      {
+        "text": "hukmron siyosiy kuchlarning qonun darajasiga ko’tarilgan irodasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Huquqiy davlat nima",
+    "answers": [
+      {
+        "text": "muayyan ijtimoiy sinflar yoki tabaqalar irodasining qonun darajasiga ko’tarilishi",
+        "correct": false
+      },
+      {
+        "text": "qonun ustuvorligi ta’minlangan jamiyat",
+        "correct": true
+      },
+      {
+        "text": "shaxs erkinligini qonunlar bilan chegaralab qo’yadigan jamiyat",
+        "correct": false
+      },
+      {
+        "text": "xalq irodasini inkor etuvchi jamiyat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jamiyat taraqqiyotining qaysi bosqichida kishilarda ahloq normalari shakllangan",
+    "answers": [
+      {
+        "text": "kishilik jamiyatining ilk bosqichlarida",
+        "correct": true
+      },
+      {
+        "text": "eng qadimgi va qadimgi davrlarda",
+        "correct": false
+      },
+      {
+        "text": "dunyoviy dinlar vujudga kelgandan keyin",
+        "correct": false
+      },
+      {
+        "text": "ibtidoiy davrning o’rta va so’nggi davrlarida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "XVII-XVIII asr fransuz mutafakkirlari ijtimoiy taraqqiyot mezoni deb nimani tushunganlar",
+    "answers": [
+      {
+        "text": "diniy tasavvurlar",
+        "correct": false
+      },
+      {
+        "text": "ilm - ma’rifat",
+        "correct": true
+      },
+      {
+        "text": "falsafiy dunyoqarash",
+        "correct": false
+      },
+      {
+        "text": "jangovor «xur fikrlilik»",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qadimgi Yunon falsafasida atomlar nazariyasining asoschisi kim",
+    "answers": [
+      {
+        "text": "Levkipp",
+        "correct": false
+      },
+      {
+        "text": "Lukretsiy",
+        "correct": false
+      },
+      {
+        "text": "Epikur",
+        "correct": false
+      },
+      {
+        "text": "Demokrit",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Xorazm Ma’mun akademiyasining eng buyuk tabiatshunos olimi kim edi",
+    "answers": [
+      {
+        "text": "Abu Abdulloh Xorazmiy",
+        "correct": false
+      },
+      {
+        "text": "Ahmad ibn Abdullo Marvaziy",
+        "correct": false
+      },
+      {
+        "text": "Abu Rayhon Beruniy",
+        "correct": true
+      },
+      {
+        "text": "Abbos Javhariy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Beruninyning fan tarixiga doir qanday asari bor",
+    "answers": [
+      {
+        "text": "“Saydana”",
+        "correct": false
+      },
+      {
+        "text": "“Geodeziya”",
+        "correct": false
+      },
+      {
+        "text": "“Mineralogiya”",
+        "correct": false
+      },
+      {
+        "text": "“Qadimgi halqlardan qolgan yodgorliklar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ibn Sino o’zining qaysi asari bilan shuhrat qozongan",
+    "answers": [
+      {
+        "text": "“Donishnoma”",
+        "correct": false
+      },
+      {
+        "text": "“Mantiq”",
+        "correct": false
+      },
+      {
+        "text": "“Qonunlar”",
+        "correct": false
+      },
+      {
+        "text": "“Al qonun fi tibb” –Tabobat qonuni",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Lotinlashtirilgan nomi”Alfrganus” bo’lgan Markaziy Osiyolik faylasuf kim edi",
+    "answers": [
+      {
+        "text": "Al Xorazmiy",
+        "correct": false
+      },
+      {
+        "text": "Al Farg’oniy",
+        "correct": true
+      },
+      {
+        "text": "Ibn Sino",
+        "correct": false
+      },
+      {
+        "text": "Abu Nasr Farobiy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi alloma―Sharq Arastusi ―Muallim us-soniy, degan yuksak nomga sazovor bo’lgan",
+    "answers": [
+      {
+        "text": "Abu Nasr Forobiy",
+        "correct": true
+      },
+      {
+        "text": "Abu Rayhon Beruniy",
+        "correct": false
+      },
+      {
+        "text": "Ibn Sino",
+        "correct": false
+      },
+      {
+        "text": "Ali Qushchi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mirzo Ulug’bekning astronomiya haqidagi asosiy asari qaysi bandda ko’rsatilgan",
+    "answers": [
+      {
+        "text": "Ziji Ko’ragoniy",
+        "correct": true
+      },
+      {
+        "text": "Astronomik jadvallar",
+        "correct": false
+      },
+      {
+        "text": "Samo haqida risola",
+        "correct": false
+      },
+      {
+        "text": "Samoviy sferalarning aylanishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Teologiya bu nima",
+    "answers": [
+      {
+        "text": "Xudo haqidagi ta’limot",
+        "correct": true
+      },
+      {
+        "text": "Xudolarning kelib chikishi",
+        "correct": false
+      },
+      {
+        "text": "Odamlar haqidagi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "Jon haqidagi ta’limot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Panteizm bu…",
+    "answers": [
+      {
+        "text": "Xudoning barcha narsalarda mavjudligi",
+        "correct": true
+      },
+      {
+        "text": "Materiyaning ongga nisbatan birligi haqida",
+        "correct": false
+      },
+      {
+        "text": "Akl- bilishning asosiy kuroli haqidagi qarashlar",
+        "correct": false
+      },
+      {
+        "text": "Inson haqidagi ta’limot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Gumanistlar ta’kidicha....",
+    "answers": [
+      {
+        "text": "Inson eng oliy mo’jiza",
+        "correct": true
+      },
+      {
+        "text": "Tushunish uchun e’tiqod qil",
+        "correct": false
+      },
+      {
+        "text": "Xudo mavjudligi besh yo’l orqali isbotlanishi mumkin",
+        "correct": false
+      },
+      {
+        "text": "Dunyoni bilish mumkin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uyg’nish davri tabiiyshunos falsafasining asoschisi kim bo’lgan",
+    "answers": [
+      {
+        "text": "Leonardo da Vinchi",
+        "correct": true
+      },
+      {
+        "text": "Petrarka",
+        "correct": false
+      },
+      {
+        "text": "Dante",
+        "correct": false
+      },
+      {
+        "text": "Sokrat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dunyoning geliotsentrik sistemasining asoschisi kim bo’lgan",
+    "answers": [
+      {
+        "text": "Ptolemey",
+        "correct": false
+      },
+      {
+        "text": "Foma Akvinskiy",
+        "correct": false
+      },
+      {
+        "text": "Nikolay Kopernik",
+        "correct": true
+      },
+      {
+        "text": "Aristotel",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "“Utopiya ” asarining muallifi kim",
+    "answers": [
+      {
+        "text": "SHekspir",
+        "correct": false
+      },
+      {
+        "text": "Tomos Mor",
+        "correct": true
+      },
+      {
+        "text": "Dante",
+        "correct": false
+      },
+      {
+        "text": "Petrarka",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "T Mor o’zining “Utopiya” asarida qanday jamiyatni tasvirlab beradi",
+    "answers": [
+      {
+        "text": "Afsonaviy",
+        "correct": false
+      },
+      {
+        "text": "Ideal",
+        "correct": true
+      },
+      {
+        "text": "Fantastik",
+        "correct": false
+      },
+      {
+        "text": "qadimiy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jordano Bruno kaysi davlatda tugilgan",
+    "answers": [
+      {
+        "text": "Italiyada",
+        "correct": true
+      },
+      {
+        "text": "Germaniyada",
+        "correct": false
+      },
+      {
+        "text": "Frantsiyada",
+        "correct": false
+      },
+      {
+        "text": "Angliyada",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kompanellaning kanday asari asosiydir",
+    "answers": [
+      {
+        "text": "Quyosh shaxri",
+        "correct": true
+      },
+      {
+        "text": "Organon",
+        "correct": false
+      },
+      {
+        "text": "Yangi Organon",
+        "correct": false
+      },
+      {
+        "text": "Kritiy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aflotun kimning shogirdi bo’lgan",
+    "answers": [
+      {
+        "text": "Suqrotning shogirdi bo’lgan",
+        "correct": true
+      },
+      {
+        "text": "Demokritning shogirdi bo’lgan",
+        "correct": false
+      },
+      {
+        "text": "Pifagorning shogirdi bo’lgan",
+        "correct": false
+      },
+      {
+        "text": "Diogenning shogirdi bo’lgan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«O’z-o’zingni bil!» degan mashhur hikmatli iborasi kimga tegishli?",
+    "answers": [
+      {
+        "text": "Suqrotga",
+        "correct": true
+      },
+      {
+        "text": "Aflotun",
+        "correct": false
+      },
+      {
+        "text": "Aristotelga",
+        "correct": false
+      },
+      {
+        "text": "I. Kantga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Geraklit  to’xtovsiz o’zgarishlarning asosiy sababini tabiatdagi nimada  deb biladi?",
+    "answers": [
+      {
+        "text": "Qarama qarshilik",
+        "correct": true
+      },
+      {
+        "text": "Xudoga",
+        "correct": false
+      },
+      {
+        "text": "Tabiyatga",
+        "correct": false
+      },
+      {
+        "text": "Insonga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Olamning asosiga “appeyron”ni qo’ygan faylasuf kim edi?",
+    "answers": [
+      {
+        "text": "Anaksimandr",
+        "correct": true
+      },
+      {
+        "text": "Fales",
+        "correct": false
+      },
+      {
+        "text": "Pifagor",
+        "correct": false
+      },
+      {
+        "text": "Aflotun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Milet maktabi namoyondalariga kimlar kiradi?",
+    "answers": [
+      {
+        "text": "Pifagor, Fales",
+        "correct": false
+      },
+      {
+        "text": "Fales, Anaksimandr, Anaksimen",
+        "correct": true
+      },
+      {
+        "text": "Fales. Anaksimen",
+        "correct": false
+      },
+      {
+        "text": "Geraklit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "SHaxs deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "shaxs - bu xar qanday aloxida olingan kishi",
+        "correct": false
+      },
+      {
+        "text": "shaxs - bu boshqalarni o’ziga bo’ysundira oladigan kishi",
+        "correct": false
+      },
+      {
+        "text": "shaxs - barcha ijtimoiy munosabatlar majmuasi",
+        "correct": true
+      },
+      {
+        "text": "shaxs - bu o’ta qobiliyatli, bilimli va ziyoli odam",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "SHaxs erkinligi nima?",
+    "answers": [
+      {
+        "text": "o’zining konstitutsion xuquqlarini anglash;",
+        "correct": false
+      },
+      {
+        "text": "kishining ichki dunyosi;",
+        "correct": false
+      },
+      {
+        "text": "kishi faoliyati uchun cheklanmagan imkoniyat;",
+        "correct": false
+      },
+      {
+        "text": "kishilar tomonidan anglab olingan zarurat.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Global muammolar qanday turkumlashtiriladi?",
+    "answers": [
+      {
+        "text": "milliy, sinfiy, umuminsoniyat miqyosda;",
+        "correct": false
+      },
+      {
+        "text": "mahalliy, mintaqaviy, umumbashariy miqyosda;",
+        "correct": true
+      },
+      {
+        "text": "diniy, madaniy, ilmiy tafakkur doirasida;",
+        "correct": false
+      },
+      {
+        "text": "rivojlangan, o’rtacha va kam taraqqiy etgan mamlakatlar doirasida.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ongning kelib chiqishida tabiiy va ijtimoiy omillari ...",
+    "answers": [
+      {
+        "text": "Ong - kishi miyasining maxsuli ekanligi",
+        "correct": false
+      },
+      {
+        "text": "Ong - ijtimoiy muxit maxsuli ekanligi",
+        "correct": false
+      },
+      {
+        "text": "Ong - xam biologik, xam ijtimoiy taraqqiyot maxsuli ekanligi",
+        "correct": true
+      },
+      {
+        "text": "Ong - bu kishi tarbiyasining maxsuli ekanligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fatalizm – bu………..",
+    "answers": [
+      {
+        "text": "tabiat ruxning moddiy ko‘rinishi deb targ‘ib etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "dunyo, kishilarning kelajak taqdiri oldindan belgilab qo‘yiladi deb tushinadigan ta’limot",
+        "correct": true
+      },
+      {
+        "text": "narsa va xodisalar o‘rtasida sababiy bog‘lanishlar-nigina tan oluvchi oqim",
+        "correct": false
+      },
+      {
+        "text": "zulmga qarshi, erkni kuylovchi inqilobiy qarashlarni o‘zida mujassam etuvchi mafkura",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Falsafiy kategoriyalar deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "fan va falsafadagi xar qanday umumiy tushunchalar",
+        "correct": false
+      },
+      {
+        "text": "ob’yektiv va sub’yektiv reallikdagi xodisalarni aniq ifoda etuvchi tushunchalar",
+        "correct": false
+      },
+      {
+        "text": "ob’yektning sub’yekt ongidagi in’ikosini aks etdiruvchi tushunchalar",
+        "correct": false
+      },
+      {
+        "text": "mazmunan kengaytirib bo‘lmaydigan eng umumiy tushunchalar",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Faqat sababiy bog‘lanishlar orqali dunyoning falsafiy manzarasini yoritib beruvchi oqim nima deb nomlanadi?",
+    "answers": [
+      {
+        "text": "Fatalism",
+        "correct": false
+      },
+      {
+        "text": "Nigilizm",
+        "correct": false
+      },
+      {
+        "text": "Anarxizm",
+        "correct": false
+      },
+      {
+        "text": "Determinizm",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Faqat zaruratlikni e’tirof etib, tasodiflikni inkor etuvchi falsafiy ta’limot.",
+    "answers": [
+      {
+        "text": "fatalizm",
+        "correct": true
+      },
+      {
+        "text": "agnostisizm",
+        "correct": false
+      },
+      {
+        "text": "anarxizm",
+        "correct": false
+      },
+      {
+        "text": "determinizm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mazmun deb nimaga aytiladi",
+    "answers": [
+      {
+        "text": "predmet yoki xodisalarning aynan shy predmet yoki xodisa bo‘lishi uchun zapyp bo‘lgan belgilar yig‘indisiga",
+        "correct": false
+      },
+      {
+        "text": "predmet yoki xodisani tashkil etuvchi barcha belgilar yig‘indisiga",
+        "correct": false
+      },
+      {
+        "text": "shaklni ifoda etuvchi ichki zaruriy bog‘lanishlarga",
+        "correct": true
+      },
+      {
+        "text": "predmetlarni tashqi xodisalar bilan munosabatiga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Moxiyat deb nimaga aytiladi",
+    "answers": [
+      {
+        "text": "xodisalar orqali yuzaga chiquvchi ichki zaruriy aloqadorliklarga",
+        "correct": false
+      },
+      {
+        "text": "predmet yoki xodisani tashkil etuvchi barcha belgilar yig‘indisiga",
+        "correct": false
+      },
+      {
+        "text": "predmet yoki xodisalarning aynan shu predmet yoki xodisa bo‘lishi uchun zarur bo‘lgan eng muxim belgilar yig‘indisiga",
+        "correct": false
+      },
+      {
+        "text": "xodisalar orqali ifoda etiluvchi mazmunga",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Me’yor kategoriyasining falsafiy mazmuni",
+    "answers": [
+      {
+        "text": "qarama-qarshi sifatlarni muayyan maqsad yo‘nalishida muvozanatlashtirish",
+        "correct": false
+      },
+      {
+        "text": "muayyan sifatlar doirasidagi miqdoriy o‘zgarishlar chegarasi",
+        "correct": true
+      },
+      {
+        "text": "muayyan miqdor doirasidagi sifatiy o‘zgarishlar chegarasi",
+        "correct": false
+      },
+      {
+        "text": "ichki va tashqi ziddiyatlar chegarasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bilishning «ob’yekti» deganda ...",
+    "answers": [
+      {
+        "text": "sub’yekt ongidan tashqaridagi mavjud bo‘lgan predmet va xodisalar yig‘indisi tushuniladi",
+        "correct": false
+      },
+      {
+        "text": "ob’yektiv va sub’yektiv reallikning sub’yektning bilish faoliyati doirasiga kiruvchi predmet va xodisalar majmuasi tushuniladi",
+        "correct": true
+      },
+      {
+        "text": "biluvchi sub’yektga qarama-qarshi turgan barcha predmet va xodisalar yig‘indisi tushuniladi",
+        "correct": false
+      },
+      {
+        "text": "ob’yektlar o’rtasida turli xodisalar yig’indisi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar bilish ob’yekti tabiiy xodisalar bo‘lganda, biluvchi «sub’yekt»...",
+    "answers": [
+      {
+        "text": "umuminsoniyat manfaatlarini ifoda etadi",
+        "correct": true
+      },
+      {
+        "text": "milliy-mintaqaviy manfaatlarni ifoda etadi",
+        "correct": false
+      },
+      {
+        "text": "sinfiy yoki davlat manfaatlarini ifoda etadi",
+        "correct": false
+      },
+      {
+        "text": "diniy va irqiy manfaatlarni ifoda etadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar sub’yekt faoliyati ijtimoiy xodisalarni bilishga qaratilsa unda tadqiqotchi sub’yekt kimlarning manfaatlarini ifoda etadi",
+    "answers": [
+      {
+        "text": "umuminsoniyat manfaatlarini",
+        "correct": true
+      },
+      {
+        "text": "milliy-mintaqaviy manfaatlarni",
+        "correct": false
+      },
+      {
+        "text": "sinfiy, davlat va boshqa siyosiy kuchlar manfaatlarini",
+        "correct": false
+      },
+      {
+        "text": "diniy, irqiy yoki boshqa ijtimoiy kuchlar manfaatlarini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ilmiy bilishning tub moxiyatini o‘zida mujassamlash-tiruvchi asosiy belgi nima",
+    "answers": [
+      {
+        "text": "manfaat",
+        "correct": false
+      },
+      {
+        "text": "tajriba",
+        "correct": true
+      },
+      {
+        "text": "e’tiqod",
+        "correct": false
+      },
+      {
+        "text": "mantiq",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ilmiy bilimlar oddiy bilimlardan nima bilan farq qiladi",
+    "answers": [
+      {
+        "text": "muayyan manfaatlarni ifoda etishi bilan",
+        "correct": false
+      },
+      {
+        "text": "muayyan mantiqqa asoslanishlari bilan",
+        "correct": false
+      },
+      {
+        "text": "bilimlarning muayyan mantiq va tajribalar asosida to‘plangan bilimlarning sistemalashtirilishi bilan",
+        "correct": true
+      },
+      {
+        "text": "olamning izchil ilmiy manzarasini chizib berishlari bilan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agnostisizm nima",
+    "answers": [
+      {
+        "text": "dunyoni bilishni inkor etuvchi ta’limot",
+        "correct": true
+      },
+      {
+        "text": "insonning kelib chiqishida tabiiy omilning xal qiluvchi axamiyatini inkor etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "insonning kelib chiqishida ijtimoiy omilning xal etuvchi axamiyatini e’tirof etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "qadriyatlar haqidagi ta’limot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Rasionalizm ta’limotining tub moxiyati nima",
+    "answers": [
+      {
+        "text": "bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot",
+        "correct": true
+      },
+      {
+        "text": "bilishda sezgi a’zolarini xal qiluvchi axamiyatini e’tirof etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "dunyoni bilish mumkin deb xisoblaydigan ta’limot",
+        "correct": false
+      },
+      {
+        "text": "umuminsoniy manfaatlarning ustuvorligini tan oluvchi ta’limot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sensualizm va uning moxiyati nima",
+    "answers": [
+      {
+        "text": "bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "bilishda sezgi a’zolarining xal qiluvchi axamiyatini e’tirof  etuvchi ta’limot",
+        "correct": true
+      },
+      {
+        "text": "dunyoni bilish mumkinligini inkor etuvchi ta’limot",
+        "correct": false
+      },
+      {
+        "text": "milliy va umuminsoniy manfaatlarning mushtarakligi xamda ularning ustuvorligini tan oluvchi ta’limot",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Absolyut xaqiqat nima",
+    "answers": [
+      {
+        "text": "predmet va xodisalarning ob’yektiv mazmunga ega ekanligi",
+        "correct": false
+      },
+      {
+        "text": "narsa va xodisalar bilan ularning aks etdiruvchi tushunchalarning aynanligi",
+        "correct": true
+      },
+      {
+        "text": "biluvchi sub’yekt manfaatlariga to‘la mos keluvchi bilimlar",
+        "correct": false
+      },
+      {
+        "text": "predmet   va   xodisalar   to‘g‘risidagi   fan-texnika taraqqiyotining keyingi bosqichlarida inkor etish mumkin bo‘lmagan bilimlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nisbiy xaqiqat nima",
+    "answers": [
+      {
+        "text": "nisbatan to‘g‘ri deb xisoblangan bilimlar",
+        "correct": true
+      },
+      {
+        "text": "ijtimoiy taraqqiyotning xar bir bosqichida doimo takomillashtirilib boriladigan bilimlar",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy taraqqiyotning xar bir bosqichida doimo yangilanib turuvchi bilimlar",
+        "correct": false
+      },
+      {
+        "text": "kundalik bilimlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ijtimoiy taraqqiyot va uning mezoni to‘g‘risida K.Marks ta’limotining asosiy kamchiligi nimadan iborat",
+    "answers": [
+      {
+        "text": "sinflar o‘rtasidagi ziddiyatni kelishtirib bo‘lmaydigan antogonistik xarakterga ega deb qarashlarida",
+        "correct": true
+      },
+      {
+        "text": "ishlab chiqaruvchi kuchlarning xarakatlantiruvchi manbasi mexnat kurollarining ishlab chiqarish jarayonida stixiyali takomillashishida deb tushunganligida",
+        "correct": false
+      },
+      {
+        "text": "mexnat qurollarini takomillashtirishda xal qiluvchi kuch fan ekanligini e’tirof etmaganligida",
+        "correct": false
+      },
+      {
+        "text": "inson hayotida kundalik bilimlarning ahamiyatini e’tirof etganida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ijtimoiy voqelikni bilishning aloxida xususiyati nimada",
+    "answers": [
+      {
+        "text": "tadqiqotchi sub’yekt - umuminsoniy manfaatlarni ifoda qiluvchi bo‘lib qatnashishida",
+        "correct": false
+      },
+      {
+        "text": "sub’yekt - umuminsoniyat nomidan qatnasha olmasligida",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy xodisalarni o‘rganishda milliy, sinfiy, mintaqaviy, diniy manfaatlarning ustuvorligida",
+        "correct": true
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ijtimoiy falsafa nimani o‘rganadi",
+    "answers": [
+      {
+        "text": "jamiyat taraqqiyotining xarakatlantiruvchi kuchlari va qonuniyatlarini",
+        "correct": false
+      },
+      {
+        "text": "sosial   tuzumning   funksiyasi   va   rivojlanish qonuniyatlarini",
+        "correct": false
+      },
+      {
+        "text": "jamiyatdagi muxim ijtimoiy xodisalarning o‘zaro aloqalarini",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ijtimoiy munosabatlar tushunchasining mazmuni nima",
+    "answers": [
+      {
+        "text": "ommaning kayfiyatlari, maqsadlarini aks ettiruvchi tushuncha",
+        "correct": false
+      },
+      {
+        "text": "barcha ma’naviy munosabatlarning majmuasi",
+        "correct": false
+      },
+      {
+        "text": "kishilarning moddiy va ma’naviy faoliyatlarini o‘zida aks etdiruvchi munosabatlar",
+        "correct": true
+      },
+      {
+        "text": "moddiy va ma’naviy munosabatlarni aks etdiruvchi murakkab jarayon",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jamiyatning tabiatdan farq qilishiga sabab bo‘luvchi eng asosiy omil nimada",
+    "answers": [
+      {
+        "text": "ijtimoiy taraqqiyotning o‘ta noyobligida",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy qonunlar asosida rivojlanishida",
+        "correct": true
+      },
+      {
+        "text": "tabiiy qonunlardan mustaqil bo‘lganligida",
+        "correct": false
+      },
+      {
+        "text": "tabiatdan tashqari kuchlarning irodasi bilan rivojlanishida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jamiyatning ijtimoiy strukturasini aniqlang",
+    "answers": [
+      {
+        "text": "sosial sinflar, ijtimoiy guruxlar",
+        "correct": true
+      },
+      {
+        "text": "siyosiy partiyalar, ijtimoiy tashkilotlar",
+        "correct": false
+      },
+      {
+        "text": "kishilarning tarixiy birliklari: urug‘, qabila, elat, millat",
+        "correct": false
+      },
+      {
+        "text": "davlat va siyosiy xamda iqtisodiy sistemalar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aksiologiya nima",
+    "answers": [
+      {
+        "text": "inson bilishining umumiy qonuniyatlarini o‘rganuvchi falsafaning bir bo‘lagi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy taraqqiyot qonuniyatlarini o‘rganuvchi falsafaning bir qismi",
+        "correct": false
+      },
+      {
+        "text": "falsafaning qadriyatlar soxasini o‘rganuvchi soxasi",
+        "correct": true
+      },
+      {
+        "text": "falsafaning sinflar va siyosiy partiyalarning o‘zaro aloqadorligini o‘rganuvchi soxasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«Ijtimoiy borliq» tushunchasi nimani anglatadi",
+    "answers": [
+      {
+        "text": "ishlab chiqarish munosabatlari yig‘indisi",
+        "correct": false
+      },
+      {
+        "text": "kishilar o‘rtasida shakllangan o‘zaro aloqadorliklar tizimi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy sinflar va tabaqalar yig‘indisi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy taraqqiyotning muayyan bosqichidagi kishilar o‘rtasidagi barcha             ijtimoiy munosabatlar majmuasi",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Davlat nima",
+    "answers": [
+      {
+        "text": "ijtimoiy tizimning asosiy elementi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy muxitga o‘ta faol ta’sir o‘tkazuvchi siyosiy tashkilot",
+        "correct": false
+      },
+      {
+        "text": "qonun chiqaruvchi xokimiyat tomonidan qabul qilingan farmon va qarorlarni xayotga joriy qiluvchi tizim",
+        "correct": false
+      },
+      {
+        "text": "xukumat darajasidagi jamiyatni boshqaruvchi organ",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Siyosiy ong nima",
+    "answers": [
+      {
+        "text": "millatlar, ijtimoiy sinflar va tabaqalar, jamiyat va shaxs o‘rtasidagi munosabatlarning kishilar ongida aks etishi",
+        "correct": false
+      },
+      {
+        "text": "muayyan jamiyat a’zolarining ongida kishilar o‘rtasidagi siyosiy          munosabatlarning aks etishi",
+        "correct": true
+      },
+      {
+        "text": "ijtimoiy muxitning kundalik ong darajasidagi aks etdirilishi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy munosabatlarni kishilar ongida aks etishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Siyosiy ongning quyi bosqichi nima",
+    "answers": [
+      {
+        "text": "o‘qimishli bo‘lmagan odamning ongida ijtimoiy munosabatlarning aks etilish darajasi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy munosabatlarning kishilarning kundalik ongi darajasida aks ettirilishi",
+        "correct": true
+      },
+      {
+        "text": "ijtimoiy munosabatlarning kishilar ongida xissiy bilish darajasida aks etilishi",
+        "correct": false
+      },
+      {
+        "text": "ziyoli odamlarning ilmiy bilish darajasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xuquqiy munosabatlar nima",
+    "answers": [
+      {
+        "text": "jamiyat a’zolariga xukmron siyosiy kuchlar manfaatlari va   irodasiga   zid   bo‘lmagan,    ruxsat    etilgan    xatti-xarakatlar majmuasi, faoliyat doirasi",
+        "correct": false
+      },
+      {
+        "text": "xukmron siyosiy kuchlar tomonidan ruxsat etilgan xatti-xarakatlar majmuasi;",
+        "correct": false
+      },
+      {
+        "text": "jamiyatning erkin fuqarosi bo‘lishi va xayot kechirishi uchun zarur bo‘lgan xokimiyat tomonidan ruxsat etilgan daxlsiz xatti-xarakatlar doirasi",
+        "correct": true
+      },
+      {
+        "text": "jamiyat orasidagi ijtimoiy munosabatlar xilma xilligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jamiyat taraqqiyotining qaysi bosqichida kishilarda axloq normalari shakllangan",
+    "answers": [
+      {
+        "text": "kishilik jamiyatining ilk bosqichlarida",
+        "correct": true
+      },
+      {
+        "text": "eng qadimgi va qadimgi davrlarda",
+        "correct": false
+      },
+      {
+        "text": "dunyoviy dinlar vujudga kelgandan keyin",
+        "correct": false
+      },
+      {
+        "text": "ibtidoiy davrning o‘rta va so‘nggi davrlarida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«Falsafiy ong» ijtimoiy ongning aloxida shakli sifatida nimalarni o‘zida aks ettiradi",
+    "answers": [
+      {
+        "text": "kishilar ongida ijtimoiy munosabatlarning in’ikos etilish shakllarini",
+        "correct": false
+      },
+      {
+        "text": "mavjud siyosiy munosabatlarning kishilarning kundalik ong darajasida aks etilishini",
+        "correct": false
+      },
+      {
+        "text": "insonning tashqi olam predmet va xodisalarga bo‘lgan munosabatlarning kishilar ongida yaxlit xolda aks ettirilishini",
+        "correct": true
+      },
+      {
+        "text": "ijtimoiy munosabatlar yig’indisi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kishilarning ma’lum xudud va davrdagi moddiy xamda ma’naviy madaniyatini to‘laroq aks etdiruvchi falsafiy tushunchani toping",
+    "answers": [
+      {
+        "text": "tarixiy davr",
+        "correct": false
+      },
+      {
+        "text": "kishilarning tarixiy birliklari",
+        "correct": false
+      },
+      {
+        "text": "sivilizatsiya",
+        "correct": true
+      },
+      {
+        "text": "etnik birlik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ijtimoiy taraqqiyot va uning mezoni deganda Zardusht ta’limotida nima asos qilib olingan",
+    "answers": [
+      {
+        "text": "diniy ibodatga amal qilish darajasi",
+        "correct": false
+      },
+      {
+        "text": "ezgulik va qaboxat kuchlari o‘rtasidagi ziddiyat",
+        "correct": true
+      },
+      {
+        "text": "dunyoni anglash darajasi",
+        "correct": false
+      },
+      {
+        "text": "axloq normalariga amal qilish darajasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qadimgi yunon mutafakkirlari ijtimoiy xayot yo‘nalishini qanday tushungan",
+    "answers": [
+      {
+        "text": "yuqoridan pastga tobora tubanlashish jarayoni sifatida",
+        "correct": false
+      },
+      {
+        "text": "bir tekis gorizontal chiziq bo‘yicha xarakat qiluvchi ijtimoiy xodisa sifatida",
+        "correct": false
+      },
+      {
+        "text": "pastdan yuqoriga, oddiydan-murakkablik tomon doimo takomillashishda",
+        "correct": true
+      },
+      {
+        "text": "xar qanday xarakat inkor etiladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "XVII-XVIII acp fransuz mutafakkirlari ijtimoiy taraqqiyot mezoni deb nimani tushunganlar",
+    "answers": [
+      {
+        "text": "diniy tasavvurlar",
+        "correct": false
+      },
+      {
+        "text": "ilm - ma’rifat",
+        "correct": true
+      },
+      {
+        "text": "falsafiy dunyoqarash",
+        "correct": false
+      },
+      {
+        "text": "jangovor «xur fikrlilik»",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Buyuk nemis klassik faylasufi Gegel ijtimoiy taraqqiyotni xarakatlantiruvchi kuch deb nima tushungan",
+    "answers": [
+      {
+        "text": "ilg‘or falsafiy ta’limot",
+        "correct": true
+      },
+      {
+        "text": "gumanizm ruxidagi diniy e’tiqod",
+        "correct": false
+      },
+      {
+        "text": "fuqarolarning ma’rifatlilik darajasi",
+        "correct": false
+      },
+      {
+        "text": "tabiiy fanlar, birinchi navbatda matematika",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Buyuk nemis klassik faylasufi L.Feyerbax ta’limoti bo‘yicha ijtimoiy taraqqiyot mezoni deb nima tushunilgan",
+    "answers": [
+      {
+        "text": "falsafiy ong",
+        "correct": false
+      },
+      {
+        "text": "diniy ong",
+        "correct": true
+      },
+      {
+        "text": "ilmiy ong",
+        "correct": false
+      },
+      {
+        "text": "siyosiy ong",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«Davlat - xamma narsa, shaxs - xech narsa» tamoyiliga asoslanuvchi ta’limot.",
+    "answers": [
+      {
+        "text": "Nigilizm",
+        "correct": true
+      },
+      {
+        "text": "Volyuntarizm",
+        "correct": false
+      },
+      {
+        "text": "Pragmatism",
+        "correct": false
+      },
+      {
+        "text": "Pozitivizm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Davrimizning jaxonshumul (global) muammolari tushunchasi nimani anglatadi",
+    "answers": [
+      {
+        "text": "insoniyatning barcha qatlamlari va xalqlari ishtirokidagina xal etish mumkin bo‘lgan muammolar",
+        "correct": false
+      },
+      {
+        "text": "ikki yoki undan ortiq mamlakat yoki xalqlar doirasida vujudga kelgan muammolar",
+        "correct": false
+      },
+      {
+        "text": "ko‘lami jixatdan butun yer yuzi axolisining ko‘pchiligiga taalluqli bo‘lgan muammolar",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "«Yangicha siyosiy tafakkur» deganda...",
+    "answers": [
+      {
+        "text": "barcha siyosiy va ijtimoiy xodisalarga sinfiy nuqtai nazardan yondashish",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy munosabatlarga milliy manfaat nuqtai nazaridan yondashish",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy xodisalarga yondashilganda umuminsoniy manfaatlar ustuvorligining e’tirof etilishi",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy xodisalarga yondashilganda milliy va umuminsoniy manfaatlar ustuvorligining e’tirof etilishi",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Insonning tabiatga qaramligining tobora usib borish tendensiyasining sabablari nimada",
+    "answers": [
+      {
+        "text": "tabiiy xom-ashyo zaxiralarining kamayib borishida",
+        "correct": false
+      },
+      {
+        "text": "insoniyat ekologik xavfning kulamini tobora chukur xis kila boshlaganligida",
+        "correct": false
+      },
+      {
+        "text": "axoli mikdorining kupayishi xavfli tus olayotganligida",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Insonning faoliyat olib borish doirasini qanday ilmiy-falsafiy tushuncha orqali ifoda etiladi",
+    "answers": [
+      {
+        "text": "Noosfera",
+        "correct": true
+      },
+      {
+        "text": "Gidrosfera",
+        "correct": false
+      },
+      {
+        "text": "Biosfera",
+        "correct": false
+      },
+      {
+        "text": "Atmosfera",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«Yangicha falsafiy tafakkur» tushunchasining moxiyatini ochib beruvchi eng muxim belgi nima",
+    "answers": [
+      {
+        "text": "kishining tabiiy va ijtimoiy xodisalarga bo‘lgan munosabatlarida umuminsoniy manfaatlar ustuvorligining e’tirof etilishi",
+        "correct": true
+      },
+      {
+        "text": "ITT yangi ma’lumotlari asosida dunyoning yaxlit manzarasini chizib berish",
+        "correct": false
+      },
+      {
+        "text": "falsafiy qonun va kategoriyalarni butunlay inkor etib yangi falsafiy g‘oyalar bilan qurollanish",
+        "correct": false
+      },
+      {
+        "text": "milliy istiqlol mafkuralariga mos keluvchi, mamlakatimiz taraqqiyotiga xizmat qiluvchi qarashlar, g‘oyalar va ta’limotlar bilan qurollanish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tafakkur shakllari nimalardan iborat",
+    "answers": [
+      {
+        "text": "tushuncha, xukm, xulosa chiqarishdan",
+        "correct": true
+      },
+      {
+        "text": "kategoriyalardan",
+        "correct": false
+      },
+      {
+        "text": "so‘zdan",
+        "correct": false
+      },
+      {
+        "text": "tildan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Markaziy Osiyolik olimlardsan kimlar “Baytul hikmat” da faoliyat ko‘rsatganlar",
+    "answers": [
+      {
+        "text": "Ahmad Farg‘oniy, Muhammad Muso Horazmiy, Ahmad ibn Abdullo Marvaziy, Abbos Javhariy",
+        "correct": true
+      },
+      {
+        "text": "Abu Nasr Forobiy,  Muhammad Muso Horazmiy, Beruniy, Ahmad Farg‘oniy",
+        "correct": false
+      },
+      {
+        "text": "Abbos Javhariy,  AbdullohHorazmiy,  Beruniy,  Zamahshariy,  Abu Nasr Forobiy",
+        "correct": false
+      },
+      {
+        "text": "Baytul hikmat da Markaziy Osiyolik olimlar faoliyat ko‘rsatmaganlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xorazm Ma’mun akademiyasining eng biuyuk tabiashunos olimi kim edi",
+    "answers": [
+      {
+        "text": "Abu Abdulloh Xorazmiy",
+        "correct": false
+      },
+      {
+        "text": "Ahmad ibn Abdullo Marvaziy",
+        "correct": false
+      },
+      {
+        "text": "Abu Rayhon Beruniy",
+        "correct": true
+      },
+      {
+        "text": "Abbos Javhariy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Beruninyning tabiashunoslikka bag‘ishlangan qanday asarlarini bilasiz",
+    "answers": [
+      {
+        "text": "“Hindiston” , “Qadimgi halqlardan qolgan yodgorliklar”, “Geodeziya”",
+        "correct": false
+      },
+      {
+        "text": "“Mineralogiya”, “ Geodeziya”, “ Qonuni Ma’sudiy”, “Saydana",
+        "correct": true
+      },
+      {
+        "text": "“Miniralogiya”, “Qadimgi halqlardan qolgan yodgorliklar”, “Saydana”",
+        "correct": false
+      },
+      {
+        "text": "Tabiashunoslikka doir hech qanday asari yo‘q",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Umar Xayyom qaysi asari bilan olamga mashxur bo‘ldi",
+    "answers": [
+      {
+        "text": "Hikoyalari bilan",
+        "correct": false
+      },
+      {
+        "text": "Ruboiyati, yani sheriy asarlari bilan",
+        "correct": true
+      },
+      {
+        "text": "“Tarixi hukamo” asari bilan",
+        "correct": false
+      },
+      {
+        "text": "astranomiyaga oid asarlari bilan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Arastu asarlarining sharxlovchisi bo‘lgan birinchi arab faylasufi kim",
+    "answers": [
+      {
+        "text": "Ibn Tufayl",
+        "correct": false
+      },
+      {
+        "text": "AlMotrudiy",
+        "correct": false
+      },
+      {
+        "text": "Ibn Rushd",
+        "correct": false
+      },
+      {
+        "text": "Al Kindiy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Quydagi qaysi asarlarda insonning ijtimoiy mohiyati, jamiyat hayotidagi o‘rni, ijtimoiy vazifasi kabi masalalar yoritilgan",
+    "answers": [
+      {
+        "text": "Devonu lug‘at at- turk",
+        "correct": false
+      },
+      {
+        "text": "Qutadigu bilig",
+        "correct": true
+      },
+      {
+        "text": "Mafotax ul — ulum",
+        "correct": false
+      },
+      {
+        "text": "Hindiston",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Markaziy Osiyo xalqlarining urf- odatlari, ijtimoiy — iqtisodiy hayotining xususiyatlari xaqidagi muhim manba bo‘lgan asar qaysi",
+    "answers": [
+      {
+        "text": "Geodeziya",
+        "correct": false
+      },
+      {
+        "text": "Mafotax ul — ulum",
+        "correct": false
+      },
+      {
+        "text": "Qutadigu bilig",
+        "correct": false
+      },
+      {
+        "text": "Devonu lug‘at at turk",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Lotinlashtirilgan nomi”Alfrganus” bo‘lgan Markaziy Osiyolik faylasuf kim edi",
+    "answers": [
+      {
+        "text": "Al Xorazmiy",
+        "correct": false
+      },
+      {
+        "text": "Al Farg‘oniy",
+        "correct": true
+      },
+      {
+        "text": "Ibn Sino",
+        "correct": false
+      },
+      {
+        "text": "Ar Roziy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi alloma―Sharq Arastusi ―Muallim us-soniy, degan yuksak nomga sazovor bo‘lgan",
+    "answers": [
+      {
+        "text": "Abu Nasr Forobiy",
+        "correct": true
+      },
+      {
+        "text": "Abu Rayhon Beruniy",
+        "correct": false
+      },
+      {
+        "text": "Ibn Sino",
+        "correct": false
+      },
+      {
+        "text": "Ali Qushchi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«To‘rt ulus tarixi» asarining muallifi kim",
+    "answers": [
+      {
+        "text": "Mirzo Ulug‘bek",
+        "correct": true
+      },
+      {
+        "text": "Xondamir",
+        "correct": false
+      },
+      {
+        "text": "Fitrat",
+        "correct": false
+      },
+      {
+        "text": "Ahmad Donish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«Nimaga ishonsam ushani bilaman» ta’kidi kimga tegishli",
+    "answers": [
+      {
+        "text": "P’yer Abelyar",
+        "correct": false
+      },
+      {
+        "text": "Foma Akvinskiy",
+        "correct": false
+      },
+      {
+        "text": "Ioann Skot Eriugen",
+        "correct": false
+      },
+      {
+        "text": "Anselmga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sxolastika qanday maqsad asosida vujudga keldi",
+    "answers": [
+      {
+        "text": "e’tikodlar belgisini qayta ishlab chikish",
+        "correct": true
+      },
+      {
+        "text": "“cherkov otalari “ishlarini tugirlash",
+        "correct": false
+      },
+      {
+        "text": "nasroniy dogmatikasini tartibga solish va uni ommaviylashtirish",
+        "correct": false
+      },
+      {
+        "text": "ruhoniylarni kundalik yumushlarini tartibga solish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xudoning  mavjudligi haqidagi  beshta isbotlarni kim ishlab chikkan",
+    "answers": [
+      {
+        "text": "Foma Akvinskiy",
+        "correct": true
+      },
+      {
+        "text": "P’yer Abelyar",
+        "correct": false
+      },
+      {
+        "text": "Tertullian",
+        "correct": false
+      },
+      {
+        "text": "Origen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Panteizm bu…",
+    "answers": [
+      {
+        "text": "Xudoning barcha narsalarda mavjudligi",
+        "correct": true
+      },
+      {
+        "text": "Materiyaning ongga nisbatan birligi haqida",
+        "correct": false
+      },
+      {
+        "text": "Akl- bilishning asosiy quroli haqidagi qarashlar",
+        "correct": false
+      },
+      {
+        "text": "Ong barcha narsalarning asosi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Inson jamiyatining gumanistik idealini kim sharxlagan",
+    "answers": [
+      {
+        "text": "T.Mor",
+        "correct": true
+      },
+      {
+        "text": "M.de Monten",
+        "correct": false
+      },
+      {
+        "text": "Toland",
+        "correct": false
+      },
+      {
+        "text": "Pristli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "“Pozitiv falsafa asoslari” kursining matnini kim yaratgan",
+    "answers": [
+      {
+        "text": "O. Kont",
+        "correct": true
+      },
+      {
+        "text": "Shelling",
+        "correct": false
+      },
+      {
+        "text": "Mill",
+        "correct": false
+      },
+      {
+        "text": "Spenser",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi bir fransuz mutafakkiri «Ensiklopediya»ning asoschisi bo‘lgan",
+    "answers": [
+      {
+        "text": "Didro",
+        "correct": true
+      },
+      {
+        "text": "Golbax",
+        "correct": false
+      },
+      {
+        "text": "Lametri",
+        "correct": false
+      },
+      {
+        "text": "Gelvesiy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "XIX -XX asr Gʻarbiy Yevropa falsafasining asosiy oqimlari:",
+    "answers": [
+      {
+        "text": "Pozitivizm, «hayot falsafasi», tomizm,  neokantchilik,  neogegelchilik, pragmatizm, ekzistensializm, falsafiy antropologiya, germenevtika, neopozitivizm, modernizm, postmodernizm, strukturalizm, lingvistik pozitivizm, empiriokritisizm, ruhiy tahlil, neorealizm.",
+        "correct": true
+      },
+      {
+        "text": "Marksizm-leninizm, materializm, idealizm, agnostisizm.",
+        "correct": false
+      },
+      {
+        "text": "Empiriokritisizm, postmodernizm, pragmatizm.",
+        "correct": false
+      },
+      {
+        "text": "Hamma javob to‘g‘ri.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "XX asr ikkinchi yarmida rivojlangan oqimlar:",
+    "answers": [
+      {
+        "text": "Ekzistensializm, neomarksizm, freydizm, strukturalizm.",
+        "correct": false
+      },
+      {
+        "text": "Neotomizm, ekzistensializm, germenevtika, strukturalizm,",
+        "correct": true
+      },
+      {
+        "text": "modernizm, poststrukturalizm, lingvistik tahlil, futurizm, falsafiy antropologiya, postmodernizm, pragmatizm, neofreydizm.",
+        "correct": false
+      },
+      {
+        "text": "Diniy antropologiya, realizm, nominalizm, gumanizm.",
+        "correct": false
+      },
+      {
+        "text": "Marksizm, neomarksizm, freydizm.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Eng yangi davr Gʻarb falsafasining diqqat e’tiborini jalb qilgan asosiy muammolar:",
+    "answers": [
+      {
+        "text": "Inson ruhiyati, borlig‘i, irodasi, hayot mazmuni, aniq fanlarga yangicha munosabat, madaniyat.",
+        "correct": true
+      },
+      {
+        "text": "Dunyoning abadiyligi, hayotning asosi, bilish manbai.",
+        "correct": false
+      },
+      {
+        "text": "Ontologiya, gnoseologiya, aksiologiya, praksiologiya.",
+        "correct": false
+      },
+      {
+        "text": "Hayot-o‘lim masalasi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Neokantchilik oqimining namoyandalari kimlar",
+    "answers": [
+      {
+        "text": "E.Gusserl, M.Xaydegger, J.P.Sartr.",
+        "correct": false
+      },
+      {
+        "text": "K.Marks, F.Engels, V.I.Lenin, V.Diltey.",
+        "correct": false
+      },
+      {
+        "text": "F.Nisshe, A.Shopengauer, I.Shelling.",
+        "correct": false
+      },
+      {
+        "text": "O.Libman, G.Gelmgols, F.Lange, G.Kogen, P.Natorp.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pozitivizm qachon shakllandi",
+    "answers": [
+      {
+        "text": "X1X asrning 40-yillarida.",
+        "correct": true
+      },
+      {
+        "text": "XX asrning birinchi yarmida.",
+        "correct": false
+      },
+      {
+        "text": "X1X-XX asrlar.",
+        "correct": false
+      },
+      {
+        "text": "XX asr oxiri.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pozitivizm asoschisi kim",
+    "answers": [
+      {
+        "text": "G.Gesse.",
+        "correct": false
+      },
+      {
+        "text": "Gegel.",
+        "correct": false
+      },
+      {
+        "text": "L.Feyerbax.",
+        "correct": true
+      },
+      {
+        "text": "O.Kont.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pozitivizm shakllangan mamlakatlar:",
+    "answers": [
+      {
+        "text": "Fransiya, Yaponiya, Hindiston.",
+        "correct": false
+      },
+      {
+        "text": "Germaniya, Angliya, Rossiya, Italiya.",
+        "correct": true
+      },
+      {
+        "text": "O‘zbekiston, Qozog‘iston, Qirg‘iziston.",
+        "correct": false
+      },
+      {
+        "text": "Amerika, Xitoy, Yaponiya.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sotsiologiya fanining asoschisi kim",
+    "answers": [
+      {
+        "text": "G.Gesse.",
+        "correct": false
+      },
+      {
+        "text": "Gegel.",
+        "correct": false
+      },
+      {
+        "text": "L.Feyerbax.",
+        "correct": false
+      },
+      {
+        "text": "O.Kont.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "«Hayot falsafasi»ning vakillari:",
+    "answers": [
+      {
+        "text": "Anri Avenarius, Bertran Rassel.",
+        "correct": false
+      },
+      {
+        "text": "Fr.Bredli, Fr.Bekon, R.Dekart, J.Lokk.",
+        "correct": false
+      },
+      {
+        "text": "F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.",
+        "correct": true
+      },
+      {
+        "text": "E.Gusserl, M.Xaydegger, J.P.Sartr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Germaniyada «hayot falsafasi»ning asoschisi kim",
+    "answers": [
+      {
+        "text": "G.Gesse.",
+        "correct": false
+      },
+      {
+        "text": "Gegel.",
+        "correct": false
+      },
+      {
+        "text": "L.Feyerbax.",
+        "correct": false
+      },
+      {
+        "text": "F.Nisshe.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "«Hokimiyatga intilish irodasi» asarining muallifi kim",
+    "answers": [
+      {
+        "text": "G.Gesse.",
+        "correct": false
+      },
+      {
+        "text": "Gegel.",
+        "correct": false
+      },
+      {
+        "text": "L.Feyerbax.",
+        "correct": false
+      },
+      {
+        "text": "F.Nisshe.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pragmatizm oqimi qachon va qayerda shakllandi",
+    "answers": [
+      {
+        "text": "X1X asr oxiri Rossiyada.",
+        "correct": false
+      },
+      {
+        "text": "XX asr o‘rtasi Fransiyada.",
+        "correct": false
+      },
+      {
+        "text": "XX asr ikkinchi yarmi Germaniyada.",
+        "correct": false
+      },
+      {
+        "text": "XX asrning boshlari AQShda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pragmatizm oqimining asoschisi kim",
+    "answers": [
+      {
+        "text": "G.Gesse.",
+        "correct": false
+      },
+      {
+        "text": "Gegel.",
+        "correct": false
+      },
+      {
+        "text": "L.Feyerbax.",
+        "correct": false
+      },
+      {
+        "text": "Ch.S.Pirs.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "«Pragma» so‘zining ma’nosi nima",
+    "answers": [
+      {
+        "text": "Ish, harakat.",
+        "correct": true
+      },
+      {
+        "text": "Foyda, daromad.",
+        "correct": false
+      },
+      {
+        "text": "Boylik.",
+        "correct": false
+      },
+      {
+        "text": "Omad",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Pragmatizm falsafasining shiori:",
+    "answers": [
+      {
+        "text": "«Har narsaga shubha bilan qarash!»",
+        "correct": false
+      },
+      {
+        "text": "«Hamma ishni ishonch-e’tiqod bilan boshlash!»",
+        "correct": true
+      },
+      {
+        "text": "«Manfaat - har narsadan ustun!»",
+        "correct": false
+      },
+      {
+        "text": "«Faqat foyda, daromad keltiradigan ishni bajarish!»",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ekzistensializmning namoyandalari kimlar?",
+    "answers": [
+      {
+        "text": "Anri Avenarius, Bertran Rassel.",
+        "correct": false
+      },
+      {
+        "text": "V.Diltey, G.Zimmel.",
+        "correct": false
+      },
+      {
+        "text": "F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.",
+        "correct": false
+      },
+      {
+        "text": "M.Xaydegger, K.Yaspers, J.P.Sartr, A.Kamyu.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Fransiya ekzistensializmi vakillari:",
+    "answers": [
+      {
+        "text": "Anri Avenarius, Bertran Rassel.",
+        "correct": false
+      },
+      {
+        "text": "V.Diltey, G.Zimmel.",
+        "correct": false
+      },
+      {
+        "text": "F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.",
+        "correct": false
+      },
+      {
+        "text": "J.P.Sartr, Alber Kamyu.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Fransuz ekzistensializmi diqqat e’tiborini qaratgan asosiy muammolar:",
+    "answers": [
+      {
+        "text": "Erkinlik, erkin tanlash huquqi.",
+        "correct": true
+      },
+      {
+        "text": "Bilish masalasi.",
+        "correct": false
+      },
+      {
+        "text": "Borliq masalasi.",
+        "correct": false
+      },
+      {
+        "text": "Axloq masalasi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A.Kamyu «O‘zga», va «Vabo» asarlarida qanday muammoni ko‘targan?",
+    "answers": [
+      {
+        "text": "Insonni jamiyatdan, insondan va o‘zidan begonalashish muammosini.",
+        "correct": true
+      },
+      {
+        "text": "Bilish muammosini.",
+        "correct": false
+      },
+      {
+        "text": "Borliq muammosini.",
+        "correct": false
+      },
+      {
+        "text": "Axloq muammosini.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "J.P.Sartr fikricha, inson ichki erkinligi qanday vaziyatda yuzaga chiqadi?",
+    "answers": [
+      {
+        "text": "Iztirobda.",
+        "correct": false
+      },
+      {
+        "text": "Hurramlikda.",
+        "correct": false
+      },
+      {
+        "text": "Jahl chiqqanda.",
+        "correct": false
+      },
+      {
+        "text": "Hayot va o‘lim o‘rtasida tanlash xolatidagi chegaraviy vaziyatda.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Freydizm ta’limoti qanday nomlanadi?",
+    "answers": [
+      {
+        "text": "Germenevtika.",
+        "correct": false
+      },
+      {
+        "text": "Irrasional.",
+        "correct": false
+      },
+      {
+        "text": "Rasional.",
+        "correct": false
+      },
+      {
+        "text": "Ruhiyat tahlili.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ilohiy komediya asari qaysi faylasuf qalamiga mansub",
+    "answers": [
+      {
+        "text": "Franchesko Petrarka",
+        "correct": false
+      },
+      {
+        "text": "Dante Aligyeri",
+        "correct": true
+      },
+      {
+        "text": "Mirandola",
+        "correct": false
+      },
+      {
+        "text": "Lorenso Valla",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uyg‘nish davri tabiiyshunos falsafasining asoschisi kim bo‘lgan",
+    "answers": [
+      {
+        "text": "Leonardo da Vinchi",
+        "correct": true
+      },
+      {
+        "text": "Petrarka",
+        "correct": false
+      },
+      {
+        "text": "Dante",
+        "correct": false
+      },
+      {
+        "text": "Sokrat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nikolay Kopernik qayerda tug‘ilgan",
+    "answers": [
+      {
+        "text": "Polshada",
+        "correct": true
+      },
+      {
+        "text": "Rossiyada",
+        "correct": false
+      },
+      {
+        "text": "Fransiya",
+        "correct": false
+      },
+      {
+        "text": "Germaniya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "“Utopiya ” asarining muallifi kim",
+    "answers": [
+      {
+        "text": "Shekspir",
+        "correct": false
+      },
+      {
+        "text": "Tomos Mor",
+        "correct": true
+      },
+      {
+        "text": "Dante",
+        "correct": false
+      },
+      {
+        "text": "Petrarka",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "T Mor o‘zining “Utopiya” asarida qanday jamiyatni tasvirlab beradi",
+    "answers": [
+      {
+        "text": "Afsonaviy",
+        "correct": false
+      },
+      {
+        "text": "Ideal",
+        "correct": true
+      },
+      {
+        "text": "Fantastik",
+        "correct": false
+      },
+      {
+        "text": "Qadimiy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Utopiyaliklar davlatini kim boshqargan",
+    "answers": [
+      {
+        "text": "Parlament",
+        "correct": false
+      },
+      {
+        "text": "Duma",
+        "correct": false
+      },
+      {
+        "text": "Ma’rifatli hukmdor",
+        "correct": true
+      },
+      {
+        "text": "Tiran",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bruno qanday falsafiy an’ana tarafdori bo’lgan",
+    "answers": [
+      {
+        "text": "Panteistik",
+        "correct": true
+      },
+      {
+        "text": "Rasional",
+        "correct": false
+      },
+      {
+        "text": "Dualistik",
+        "correct": false
+      },
+      {
+        "text": "Irasional",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bruno koinotning cheksizligiga qanday munosabatda bulgan",
+    "answers": [
+      {
+        "text": "Olam cheksiz",
+        "correct": true
+      },
+      {
+        "text": "Olam cheklangan",
+        "correct": false
+      },
+      {
+        "text": "Olam xudo tomonidan yaratilgan",
+        "correct": false
+      },
+      {
+        "text": "Olam xilma-xil",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ong qanday bosqichlarga egadir",
+    "answers": [
+      {
+        "text": "Sezgilar,tassavur, idrok,taffakkur,aqil",
+        "correct": true
+      },
+      {
+        "text": "Sezgilar, idrok,taffakkur",
+        "correct": false
+      },
+      {
+        "text": "Sezgilar, ta’asurot, aqil",
+        "correct": false
+      },
+      {
+        "text": "Sezgilar,aqil,idrok",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aflotun dunyo to‘g‘risida qanday fikrda bo‘lgan",
+    "answers": [
+      {
+        "text": "Koinot dunyosidir",
+        "correct": false
+      },
+      {
+        "text": "Dunyo g‘oyalar dunyosidir",
+        "correct": false
+      },
+      {
+        "text": "Dunyo ruhiy dunyodir",
+        "correct": false
+      },
+      {
+        "text": "Narsalar dunyisi g‘oyalar dunyosining, ya’ni toza, pok, doimiy abadiy go‘zal dunyoning so‘nib-so‘nmas, xira soyasidir",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Aflotun «ideal davlat» ida qanday tabaqalar mavjud bo‘lgan",
+    "answers": [
+      {
+        "text": "hokimlar, faylasuflar, harbiylar, dehqon va hunarmandlar",
+        "correct": true
+      },
+      {
+        "text": "Aslzodalar, qullar, harbiylar",
+        "correct": false
+      },
+      {
+        "text": "Quldorlar, mayda mulk egalari, yollanma harbiylar",
+        "correct": false
+      },
+      {
+        "text": "To‘g‘ri javob yo‘q",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aflotun kimning shogirdi bo‘lgan?",
+    "answers": [
+      {
+        "text": "Suqrotning shogirdi bo‘lgan",
+        "correct": true
+      },
+      {
+        "text": "Demokritning shogirdi bo‘lgan",
+        "correct": false
+      },
+      {
+        "text": "C. Pifagorning shogirdi bo‘lgan",
+        "correct": false
+      },
+      {
+        "text": "To‘g‘ri javob yo‘q",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zenonning  qaysi aporiyalarini bilasiz?",
+    "answers": [
+      {
+        "text": "“Gerakl va arslon”, “Atirgul yaprog‘i”",
+        "correct": false
+      },
+      {
+        "text": "«Dixotomiya», «Axill va toshbaqa»,«Yoy»",
+        "correct": false
+      },
+      {
+        "text": "“Trigonometriya”, “Prometey va ot”",
+        "correct": false
+      },
+      {
+        "text": "Teotet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Demokrit fikricha, nima barcha narsa, xodisalarning sababchisi, asosi?",
+    "answers": [
+      {
+        "text": "Atom",
+        "correct": true
+      },
+      {
+        "text": "Xudo",
+        "correct": false
+      },
+      {
+        "text": "Iloh",
+        "correct": false
+      },
+      {
+        "text": "Farishta",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«O‘z-o‘zingni bil!» degan mashhur hikmatli iborasi kimga tegishli?",
+    "answers": [
+      {
+        "text": "A. Suqrotga",
+        "correct": true
+      },
+      {
+        "text": "Aflotun",
+        "correct": false
+      },
+      {
+        "text": "Aristotelga",
+        "correct": false
+      },
+      {
+        "text": "I. Kantga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "«Dixotomiya», «Axill va toshbaqa», «Yoy», «Gʻalla donasi» nomli aporiyalarining muallifi kim",
+    "answers": [
+      {
+        "text": "Zenon",
+        "correct": true
+      },
+      {
+        "text": "Parmenid",
+        "correct": false
+      },
+      {
+        "text": "Pifagor",
+        "correct": false
+      },
+      {
+        "text": "Aflotun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Geraklit  to‘xtovsiz o‘zgarishlarning asosiy sababini tabiatdagi nimada  deb biladi",
+    "answers": [
+      {
+        "text": "Qarama qarshilik",
+        "correct": true
+      },
+      {
+        "text": "Xudoga",
+        "correct": false
+      },
+      {
+        "text": "Tabiyatga",
+        "correct": false
+      },
+      {
+        "text": "Insonga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Olamning asosiga “appeyron”ni qo‘ygan faylasuf kim edi?",
+    "answers": [
+      {
+        "text": "Anaksimandr",
+        "correct": true
+      },
+      {
+        "text": "Fales",
+        "correct": false
+      },
+      {
+        "text": "Pifagor",
+        "correct": false
+      },
+      {
+        "text": "Aflotun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Milet maktabi namoyondalariga kimlar kiradi",
+    "answers": [
+      {
+        "text": "Pifagor, Fales",
+        "correct": false
+      },
+      {
+        "text": "Fales, Anaksimandr, Anaksimen",
+        "correct": true
+      },
+      {
+        "text": "Fales. Anaksimen",
+        "correct": false
+      },
+      {
+        "text": "Geraklit",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dastlabki  diniy-falsafiy fikrlar, meloddan deyarli uch ming yil avval..............  shakllana boshlagan edi.",
+    "answers": [
+      {
+        "text": "Misr va Bobilda",
+        "correct": false
+      },
+      {
+        "text": "Yunoniston va Rimda",
+        "correct": false
+      },
+      {
+        "text": "Xitoy va Xindiston",
+        "correct": true
+      },
+      {
+        "text": "Rimda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Demokrit fikricha, nima barcha narsa, xodisalarning sababchisi, asosi?",
+    "answers": [
+      {
+        "text": "Atom",
+        "correct": true
+      },
+      {
+        "text": "Xudo",
+        "correct": false
+      },
+      {
+        "text": "Iloh",
+        "correct": false
+      },
+      {
+        "text": "Din",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mirza Bedilning asarlari qaysi qatorda to‘g‘ri berilgan",
+    "answers": [
+      {
+        "text": "Chor unsur”, Kimiyoi saodat”, “Siyosatnoma”",
+        "correct": false
+      },
+      {
+        "text": "“Irfon”, Navodirul vaqoye”, “Qutadg‘u bilik”",
+        "correct": false
+      },
+      {
+        "text": "Nuqot”, «Irfon”, «Chor unsur”",
+        "correct": true
+      },
+      {
+        "text": "Siyosatnoma”, «Navodirul vaqoye”, «Nuqot”",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nisbiy xaqiqat nima",
+    "answers": [
+      {
+        "text": "nisbatan to‘g‘ri deb xisoblangan bilimlar",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy taraqqiyotning xar bir bosqichida doimo takomillashtirilib boriladigan bilimlar",
+        "correct": false
+      },
+      {
+        "text": "ijtimoiy taraqqiyotning xar bir bosqichida doimo yangilanib turuvchi bilimlar",
+        "correct": true
+      },
+      {
+        "text": "Barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Shaxs deb nimaga aytiladi",
+    "answers": [
+      {
+        "text": "shaxs - bu xar qanday aloxida olingan kishi",
+        "correct": false
+      },
+      {
+        "text": "shaxs - bu boshqalarni o‘ziga bo‘ysundira oladigan kishi",
+        "correct": false
+      },
+      {
+        "text": "shaxs - barcha ijtimoiy munosabatlar majmuasi",
+        "correct": true
+      },
+      {
+        "text": "shaxs - bu o‘ta qobiliyatli, bilimli va ziyoli odam.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Shaxs erkinligi nima",
+    "answers": [
+      {
+        "text": "o‘zining konstitusion xuquqlarini anglash",
+        "correct": false
+      },
+      {
+        "text": "kishining ichki dunyosi",
+        "correct": false
+      },
+      {
+        "text": "kishi faoliyati uchun cheklanmagan imkoniyat",
+        "correct": false
+      },
+      {
+        "text": "kishilar tomonidan anglab olingan zarurat",
+        "correct": true
+      }
+    ]
+  }
+]

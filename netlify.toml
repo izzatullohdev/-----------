@@ -1,0 +1,6 @@
+# netlify.toml
+[[redirects]]
+  from = "http://*"
+  to = "https://test1.uz/:splat"
+  status = 301
+  force = true
