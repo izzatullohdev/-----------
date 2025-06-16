@@ -3,63 +3,92 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Dinshunoslik Testlari</title>
+    <title>Ingliz Tili Testlari</title>
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body class="bg-gray-100 text-gray-900 font-sans">
     <div class="max-w-5xl mx-auto px-4 py-10">
       <h1
-        class="text-3xl sm:text-4xl font-bold text-indigo-700 text-center mb-10"
+        class="text-3xl sm:text-4xl font-bold text-indigo-700 text-center mb-6"
       >
-        📘 Ingliz tili
+        📘 Ingliz tili testlari
       </h1>
+
+      <!-- 🔍 Search input -->
+      <div class="mb-8">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Savol ichidan qidirish..."
+          class="w-full p-3 rounded-md border border-gray-300 shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-400"
+        />
+      </div>
+
       <div id="test-container" class="space-y-10"></div>
     </div>
 
     <script>
-      // JSON faylni fetch orqali chaqiramiz
+      let allTests = []; // 🔁 Barcha testlar saqlanadi
+
+      // 🔁 Ma'lumotlarni yuklash
       fetch("ingliz_test_questions.json")
         .then((res) => res.json())
         .then((data) => {
-          const container = document.getElementById("test-container");
-
-          data.forEach((item, index) => {
-            const card = document.createElement("div");
-            card.className = "bg-white rounded-xl shadow-md p-6";
-
-            const questionTitle = document.createElement("h2");
-            questionTitle.className = "text-xl font-semibold mb-4";
-            questionTitle.textContent = `${index + 1}. ${item.question}`;
-
-            const answerList = document.createElement("ul");
-            answerList.className = "space-y-2";
-
-            item.answers.forEach((answer) => {
-              const li = document.createElement("li");
-              li.className = "p-3 border rounded-md";
-
-              if (answer.correct) {
-                li.classList.add(
-                  "bg-green-100",
-                  "border-green-400",
-                  "font-medium"
-                );
-                li.textContent = "✅ " + answer.text;
-              } else {
-                li.textContent = answer.text;
-              }
-
-              answerList.appendChild(li);
-            });
-
-            card.appendChild(questionTitle);
-            card.appendChild(answerList);
-            container.appendChild(card);
-          });
+          allTests = data;
+          renderTests(data);
         })
         .catch((err) => {
           console.error("Xatolik yuz berdi:", err);
         });
+
+      // 🔍 Qidiruv inputni eshitish
+      document.getElementById("search-input").addEventListener("input", (e) => {
+        const value = e.target.value.toLowerCase();
+        const filtered = allTests.filter((item) =>
+          item.question.toLowerCase().includes(value)
+        );
+        renderTests(filtered);
+      });
+
+      // 🔧 Render funksiyasi
+      function renderTests(data) {
+        const container = document.getElementById("test-container");
+        container.innerHTML = "";
+
+        data.forEach((item, index) => {
+          const card = document.createElement("div");
+          card.className = "bg-white rounded-xl shadow-md p-6";
+
+          const questionTitle = document.createElement("h2");
+          questionTitle.className = "text-xl font-semibold mb-4";
+          questionTitle.textContent = `${index + 1}. ${item.question}`;
+
+          const answerList = document.createElement("ul");
+          answerList.className = "space-y-2";
+
+          item.answers.forEach((answer) => {
+            const li = document.createElement("li");
+            li.className = "p-3 border rounded-md";
+
+            if (answer.correct) {
+              li.classList.add(
+                "bg-green-100",
+                "border-green-400",
+                "font-medium"
+              );
+              li.textContent = "✅ " + answer.text;
+            } else {
+              li.textContent = answer.text;
+            }
+
+            answerList.appendChild(li);
+          });
+
+          card.appendChild(questionTitle);
+          card.appendChild(answerList);
+          container.appendChild(card);
+        });
+      }
     </script>
   </body>
 </html>
