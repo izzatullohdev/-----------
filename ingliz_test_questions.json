@@ -1,0 +1,5819 @@
+[
+  {
+    "question": "She _____ d) singing",
+    "answers": [
+      {
+        "text": "_____",
+        "correct": false
+      },
+      {
+        "text": "a) sing",
+        "correct": false
+      },
+      {
+        "text": "b) sang",
+        "correct": true
+      },
+      {
+        "text": "c) sung",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a beautiful song at the concert. _____ d) going",
+    "answers": [
+      {
+        "text": "They _____",
+        "correct": false
+      },
+      {
+        "text": "a) go",
+        "correct": false
+      },
+      {
+        "text": "b) goes",
+        "correct": false
+      },
+      {
+        "text": "c) went",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "to the mountains for their vacation. _____ c) parking",
+    "answers": [
+      {
+        "text": "He",
+        "correct": false
+      },
+      {
+        "text": "_____",
+        "correct": false
+      },
+      {
+        "text": "a) park",
+        "correct": false
+      },
+      {
+        "text": "b) parked",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d) parks _____ #b) made",
+    "answers": [
+      {
+        "text": "his car in the garage last night.",
+        "correct": false
+      },
+      {
+        "text": "We",
+        "correct": false
+      },
+      {
+        "text": "_____",
+        "correct": false
+      },
+      {
+        "text": "a) make",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c) making _____ _____",
+    "answers": [
+      {
+        "text": "d) maked",
+        "correct": false
+      },
+      {
+        "text": "a delicious cake for her birthday.",
+        "correct": false
+      },
+      {
+        "text": "I",
+        "correct": false
+      },
+      {
+        "text": "to bed early because I was tired.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) go _____ _____",
+    "answers": [
+      {
+        "text": "b) goes",
+        "correct": false
+      },
+      {
+        "text": "c) went",
+        "correct": true
+      },
+      {
+        "text": "d) going",
+        "correct": false
+      },
+      {
+        "text": "He",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#a) hurt _____ a) take",
+    "answers": [
+      {
+        "text": "b) hurted",
+        "correct": false
+      },
+      {
+        "text": "c) hurts",
+        "correct": false
+      },
+      {
+        "text": "d) hurting",
+        "correct": false
+      },
+      {
+        "text": "They _____",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b) took _____ I",
+    "answers": [
+      {
+        "text": "c) taken",
+        "correct": false
+      },
+      {
+        "text": "d) taking",
+        "correct": false
+      },
+      {
+        "text": "his hand when he fell off his bike.",
+        "correct": false
+      },
+      {
+        "text": "a lot of photos on their trip.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "my keys and couldn't find them anywhere. _____ She",
+    "answers": [
+      {
+        "text": "_____",
+        "correct": false
+      },
+      {
+        "text": "a) lose",
+        "correct": false
+      },
+      {
+        "text": "b) lostc) losing",
+        "correct": true
+      },
+      {
+        "text": "d) loses",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_____ _____ He",
+    "answers": [
+      {
+        "text": "a) buy",
+        "correct": false
+      },
+      {
+        "text": "b) bought",
+        "correct": true
+      },
+      {
+        "text": "c) buys",
+        "correct": false
+      },
+      {
+        "text": "d) buying",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_____ _____ We",
+    "answers": [
+      {
+        "text": "a) go",
+        "correct": false
+      },
+      {
+        "text": "b) goes",
+        "correct": false
+      },
+      {
+        "text": "c) went",
+        "correct": true
+      },
+      {
+        "text": "d) going",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_____ _____ She",
+    "answers": [
+      {
+        "text": "a) have",
+        "correct": false
+      },
+      {
+        "text": "b) had",
+        "correct": true
+      },
+      {
+        "text": "c) has",
+        "correct": false
+      },
+      {
+        "text": "d) having",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_____ _____ They _____",
+    "answers": [
+      {
+        "text": "a) read",
+        "correct": true
+      },
+      {
+        "text": "b) reads",
+        "correct": false
+      },
+      {
+        "text": "c) readed",
+        "correct": false
+      },
+      {
+        "text": "d) reading",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) go _____ to the doctor because he had a headache.",
+    "answers": [
+      {
+        "text": "b) goes",
+        "correct": false
+      },
+      {
+        "text": "c) went",
+        "correct": true
+      },
+      {
+        "text": "d) going",
+        "correct": false
+      },
+      {
+        "text": "a new dress for the party.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a wonderful time at the beach. _____ _____",
+    "answers": [
+      {
+        "text": "a book about history in the library.",
+        "correct": false
+      },
+      {
+        "text": "to the cinema and saw a scary movie.",
+        "correct": false
+      },
+      {
+        "text": "I",
+        "correct": false
+      },
+      {
+        "text": "my homework before dinner.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) finish _____ _____",
+    "answers": [
+      {
+        "text": "b) finished",
+        "correct": true
+      },
+      {
+        "text": "c) finishes",
+        "correct": false
+      },
+      {
+        "text": "d) finishing",
+        "correct": false
+      },
+      {
+        "text": "He",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) go _____ A:",
+    "answers": [
+      {
+        "text": "b) goes",
+        "correct": false
+      },
+      {
+        "text": "c) went",
+        "correct": true
+      },
+      {
+        "text": "d) going",
+        "correct": false
+      },
+      {
+        "text": "to the park every day last week.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_____ _____ A:",
+    "answers": [
+      {
+        "text": "a) Where",
+        "correct": false
+      },
+      {
+        "text": "b) What",
+        "correct": true
+      },
+      {
+        "text": "are you going to drink?c) When",
+        "correct": false
+      },
+      {
+        "text": "d) Whom",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_____ _____ is he going to marry?",
+    "answers": [
+      {
+        "text": "is Jasur going to get married?",
+        "correct": false
+      },
+      {
+        "text": "B: Next week.",
+        "correct": false
+      },
+      {
+        "text": "A:",
+        "correct": false
+      },
+      {
+        "text": "_____",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B: His groupmate. _____ A:",
+    "answers": [
+      {
+        "text": "a) Where / Who",
+        "correct": false
+      },
+      {
+        "text": "b) Who / Where",
+        "correct": false
+      },
+      {
+        "text": "c) When / Whom",
+        "correct": true
+      },
+      {
+        "text": "d) Where / -",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_____ _____ c) When",
+    "answers": [
+      {
+        "text": "are you going to the butcher’s?",
+        "correct": false
+      },
+      {
+        "text": "B: I’m going to the butcher’s to buy some meat.",
+        "correct": false
+      },
+      {
+        "text": "a) Why",
+        "correct": true
+      },
+      {
+        "text": "b) How",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "d) Where _____ ”",
+    "answers": [
+      {
+        "text": "“",
+        "correct": false
+      },
+      {
+        "text": "_____",
+        "correct": false
+      },
+      {
+        "text": "did the story take place?”",
+        "correct": false
+      },
+      {
+        "text": "“Some years ago.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) How many _____ _____",
+    "answers": [
+      {
+        "text": "b) What",
+        "correct": false
+      },
+      {
+        "text": "c) Where",
+        "correct": false
+      },
+      {
+        "text": "d) When",
+        "correct": true
+      },
+      {
+        "text": "“",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "did you buy your new laptop?” _____ c) When",
+    "answers": [
+      {
+        "text": "“At supermarket.",
+        "correct": false
+      },
+      {
+        "text": "”",
+        "correct": false
+      },
+      {
+        "text": "a) What",
+        "correct": false
+      },
+      {
+        "text": "b) Where",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d) How _____ “$1000.",
+    "answers": [
+      {
+        "text": "“",
+        "correct": false
+      },
+      {
+        "text": "“",
+        "correct": false
+      },
+      {
+        "text": "did you pay for this blender?”",
+        "correct": false
+      },
+      {
+        "text": "_____",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "” _____ _____",
+    "answers": [
+      {
+        "text": "a) How many",
+        "correct": false
+      },
+      {
+        "text": "b) How",
+        "correct": false
+      },
+      {
+        "text": "c) How much",
+        "correct": true
+      },
+      {
+        "text": "d) Which one",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "did you buy?” _____ c) How much",
+    "answers": [
+      {
+        "text": "“A new umbrella.",
+        "correct": false
+      },
+      {
+        "text": "”",
+        "correct": false
+      },
+      {
+        "text": "a) Who",
+        "correct": false
+      },
+      {
+        "text": "b) When",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#d) What_____ _____ c) When",
+    "answers": [
+      {
+        "text": "did you buy this bag?",
+        "correct": false
+      },
+      {
+        "text": "– I bought it for my Granny.",
+        "correct": false
+      },
+      {
+        "text": "a) Which one",
+        "correct": false
+      },
+      {
+        "text": "b) Why",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d) Whom _____ ”",
+    "answers": [
+      {
+        "text": "“",
+        "correct": false
+      },
+      {
+        "text": "_____",
+        "correct": false
+      },
+      {
+        "text": "are you leaving for Beijing?”",
+        "correct": false
+      },
+      {
+        "text": "“This Friday.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) Why _____ _____",
+    "answers": [
+      {
+        "text": "b) What",
+        "correct": false
+      },
+      {
+        "text": "c) When",
+        "correct": true
+      },
+      {
+        "text": "d) How",
+        "correct": false
+      },
+      {
+        "text": "“",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "did you go?” _____ c) Where",
+    "answers": [
+      {
+        "text": "“To buy some new clothes.",
+        "correct": false
+      },
+      {
+        "text": "”",
+        "correct": false
+      },
+      {
+        "text": "a) When",
+        "correct": false
+      },
+      {
+        "text": "b) Why",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d) How _____ ”",
+    "answers": [
+      {
+        "text": "“",
+        "correct": false
+      },
+      {
+        "text": "_____",
+        "correct": false
+      },
+      {
+        "text": "did you go?”",
+        "correct": false
+      },
+      {
+        "text": "“To the bank.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) When _____ did you go?”",
+    "answers": [
+      {
+        "text": "b) Why",
+        "correct": false
+      },
+      {
+        "text": "c) Where",
+        "correct": true
+      },
+      {
+        "text": "d) How",
+        "correct": false
+      },
+      {
+        "text": "“",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_____ _____ c) How much",
+    "answers": [
+      {
+        "text": "“By car.",
+        "correct": false
+      },
+      {
+        "text": "”",
+        "correct": false
+      },
+      {
+        "text": "a) When",
+        "correct": false
+      },
+      {
+        "text": "b) Why",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#d) How _____ ”",
+    "answers": [
+      {
+        "text": "“",
+        "correct": false
+      },
+      {
+        "text": "do you want to go for your winter holidays?”",
+        "correct": false
+      },
+      {
+        "text": "_____",
+        "correct": false
+      },
+      {
+        "text": "“To Rome.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) Why _____ _____",
+    "answers": [
+      {
+        "text": "b) Where",
+        "correct": true
+      },
+      {
+        "text": "c) How",
+        "correct": false
+      },
+      {
+        "text": "d) What",
+        "correct": false
+      },
+      {
+        "text": "“",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "is your cousin like?” _____ c) Howd) Where",
+    "answers": [
+      {
+        "text": "“She seems to be rude but in fact she is kind.",
+        "correct": false
+      },
+      {
+        "text": "”",
+        "correct": false
+      },
+      {
+        "text": "a) Who",
+        "correct": false
+      },
+      {
+        "text": "b) What",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "There are two bags on the shelf. _____ _____",
+    "answers": [
+      {
+        "text": "a) What",
+        "correct": false
+      },
+      {
+        "text": "b) Which",
+        "correct": true
+      },
+      {
+        "text": "c) How",
+        "correct": false
+      },
+      {
+        "text": "d) Whom",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "is yours? _____ b. leaves",
+    "answers": [
+      {
+        "text": "I",
+        "correct": false
+      },
+      {
+        "text": "the hotel early the next morning.",
+        "correct": false
+      },
+      {
+        "text": "__________",
+        "correct": false
+      },
+      {
+        "text": "a. left",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "c. leaving _____ b. was shining/were rising",
+    "answers": [
+      {
+        "text": "d. to leave",
+        "correct": false
+      },
+      {
+        "text": "At that time, the sun",
+        "correct": false
+      },
+      {
+        "text": "a. shine/rise",
+        "correct": false
+      },
+      {
+        "text": "c. was shining/ was rising",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d. to shine/ was rising _____ When I came, in the square, café owners",
+    "answers": [
+      {
+        "text": "___________",
+        "correct": false
+      },
+      {
+        "text": "brightly and the temperature",
+        "correct": false
+      },
+      {
+        "text": "___________",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "tables outside. _____ d. was carrying",
+    "answers": [
+      {
+        "text": "____________",
+        "correct": false
+      },
+      {
+        "text": "a. carry",
+        "correct": false
+      },
+      {
+        "text": "b. were carrying",
+        "correct": true
+      },
+      {
+        "text": "c. to carry",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "They __________ (not/finish) their homework when the teacher _____ __________ (come) in.",
+    "answers": [
+      {
+        "text": "a. didn’t finish / came",
+        "correct": false
+      },
+      {
+        "text": "c. were finishing / came",
+        "correct": true
+      },
+      {
+        "text": "b. finished / were coming",
+        "correct": false
+      },
+      {
+        "text": "d. was finishing / came",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "While she _____ #b. was reading / was playing",
+    "answers": [
+      {
+        "text": "her brother",
+        "correct": false
+      },
+      {
+        "text": "__________",
+        "correct": false
+      },
+      {
+        "text": "__________",
+        "correct": false
+      },
+      {
+        "text": "a. read / played",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c. read / playing _____ b. was sitting",
+    "answers": [
+      {
+        "text": "d. were reading / were playing",
+        "correct": false
+      },
+      {
+        "text": "video games.",
+        "correct": false
+      },
+      {
+        "text": "Two teenage girls",
+        "correct": false
+      },
+      {
+        "text": "a. were sitting",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "c. sitting _____ ______________",
+    "answers": [
+      {
+        "text": "d. is sitting",
+        "correct": false
+      },
+      {
+        "text": "________________",
+        "correct": false
+      },
+      {
+        "text": "on a bench. What were they listening to?",
+        "correct": false
+      },
+      {
+        "text": "Ergonomics is the science of",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "promoting comfort, efficiency, and safety. _____ workplaces and tools to fit the users' needs,___________",
+    "answers": [
+      {
+        "text": "a. reading",
+        "correct": false
+      },
+      {
+        "text": "b. playing",
+        "correct": false
+      },
+      {
+        "text": "c. assisting",
+        "correct": false
+      },
+      {
+        "text": "d. designing",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "ergonomic practices can significantly reduce the risk of injuries, such as _____ d. Responsible",
+    "answers": [
+      {
+        "text": "repetitive strain injuries, back pain, and musculoskeletal disorders.",
+        "correct": false
+      },
+      {
+        "text": "a. Proper",
+        "correct": true
+      },
+      {
+        "text": "b. Irregular",
+        "correct": false
+      },
+      {
+        "text": "c. Rectangular",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Proper ergonomic practices significantly _________ _____ the risk of injuries.",
+    "answers": [
+      {
+        "text": "a. increase",
+        "correct": false
+      },
+      {
+        "text": "b. reduce",
+        "correct": true
+      },
+      {
+        "text": "c. motivate",
+        "correct": false
+      },
+      {
+        "text": "d. stipulate",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the antonym of ‘floor’? _____ What is the antonym of ‘top’?",
+    "answers": [
+      {
+        "text": "a. desk",
+        "correct": false
+      },
+      {
+        "text": "b. ceiling",
+        "correct": true
+      },
+      {
+        "text": "c. roof",
+        "correct": false
+      },
+      {
+        "text": "d. wall",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#a. bottom _____ a. promote",
+    "answers": [
+      {
+        "text": "b. around",
+        "correct": false
+      },
+      {
+        "text": "c. backside",
+        "correct": false
+      },
+      {
+        "text": "d. below",
+        "correct": false
+      },
+      {
+        "text": "What is the synonym of ‘maintain’?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b. keep _____ c. average",
+    "answers": [
+      {
+        "text": "c. move",
+        "correct": false
+      },
+      {
+        "text": "d. support",
+        "correct": false
+      },
+      {
+        "text": "What is the antonym of ‘short’?",
+        "correct": false
+      },
+      {
+        "text": "a. long",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "c. strain _____ c. discuss",
+    "answers": [
+      {
+        "text": "d. comfort",
+        "correct": false
+      },
+      {
+        "text": "What is the synonym of ‘allow’?",
+        "correct": false
+      },
+      {
+        "text": "a. help",
+        "correct": false
+      },
+      {
+        "text": "b. permit",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d. save _____ d. installWhat type of computer is primarily used for gaming but can also perform other functions?",
+    "answers": [
+      {
+        "text": "What is the synonym of ‘adjust’?",
+        "correct": false
+      },
+      {
+        "text": "a. adapt",
+        "correct": true
+      },
+      {
+        "text": "b. fix",
+        "correct": false
+      },
+      {
+        "text": "c. repair",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a. Tablet _____ #a. Workstation",
+    "answers": [
+      {
+        "text": "b. Gaming Console",
+        "correct": true
+      },
+      {
+        "text": "c. Mainframe",
+        "correct": false
+      },
+      {
+        "text": "d. Calculator",
+        "correct": false
+      },
+      {
+        "text": "Which type of computer is designed for technical or scientific applications?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b. Laptop _____ c. To run games",
+    "answers": [
+      {
+        "text": "c. Supercomputer",
+        "correct": false
+      },
+      {
+        "text": "d. Tablets",
+        "correct": false
+      },
+      {
+        "text": "What is the main function of servers?",
+        "correct": false
+      },
+      {
+        "text": "a. To create graphics",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b. To provide data and services over a network _____ c. Tablet",
+    "answers": [
+      {
+        "text": "d. To control",
+        "correct": false
+      },
+      {
+        "text": "Which type of computer is known for its reliability and is used by large organizations?",
+        "correct": false
+      },
+      {
+        "text": "a. Desktop",
+        "correct": false
+      },
+      {
+        "text": "b. Mainframe",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d. Game console _____ d. Kids",
+    "answers": [
+      {
+        "text": "Supercomputers are primarily used in which of the following fields?",
+        "correct": false
+      },
+      {
+        "text": "a. Internet browsing",
+        "correct": false
+      },
+      {
+        "text": "c. Personal finance",
+        "correct": false
+      },
+      {
+        "text": "b. Climate research",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Touchscreen _____ c. books",
+    "answers": [
+      {
+        "text": "_________",
+        "correct": false
+      },
+      {
+        "text": "media consumption.",
+        "correct": false
+      },
+      {
+        "text": "a. devices",
+        "correct": true
+      },
+      {
+        "text": "b. tool",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "d. keyboars _____ #b. are / used",
+    "answers": [
+      {
+        "text": "that are highly portable and often used for browsing, reading, and",
+        "correct": false
+      },
+      {
+        "text": "These",
+        "correct": false
+      },
+      {
+        "text": "______",
+        "correct": false
+      },
+      {
+        "text": "a. is / used",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c. be / used _____ appliances, vehicles, and smartphones.",
+    "answers": [
+      {
+        "text": "d. being / use",
+        "correct": false
+      },
+      {
+        "text": "stationary computers typically _______",
+        "correct": false
+      },
+      {
+        "text": "at home or in offices.",
+        "correct": false
+      },
+      {
+        "text": "Embedded Computers are specialized computers",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a. collected _____ ____________Large, powerful computers used primarily by large organizations for bulk data processing,",
+    "answers": [
+      {
+        "text": "b. specialized",
+        "correct": false
+      },
+      {
+        "text": "c. integrated",
+        "correct": true
+      },
+      {
+        "text": "d. cooked",
+        "correct": false
+      },
+      {
+        "text": "into other devices, such as",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "transaction processing, and critical applications. _____ Computers that provide data, resources, or services to other computers over a network.",
+    "answers": [
+      {
+        "text": "a. Mainframes",
+        "correct": true
+      },
+      {
+        "text": "b. Supercomputers",
+        "correct": false
+      },
+      {
+        "text": "c. Laptops",
+        "correct": false
+      },
+      {
+        "text": "d. Tablets",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a. Mainframes _____ carry and use anywhere.",
+    "answers": [
+      {
+        "text": "b. Supercomputers",
+        "correct": false
+      },
+      {
+        "text": "c. Servers",
+        "correct": true
+      },
+      {
+        "text": "d. Tablets",
+        "correct": false
+      },
+      {
+        "text": "Portable computers that combine all components into a single unit, making them easy to",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a. Mainframes _____ media consumption.",
+    "answers": [
+      {
+        "text": "b. Supercomputers",
+        "correct": false
+      },
+      {
+        "text": "c. Servers",
+        "correct": false
+      },
+      {
+        "text": "d. Laptops",
+        "correct": true
+      },
+      {
+        "text": "Touchscreen devices that are highly portable and often used for browsing, reading, and",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a. Mainframes _____ #a. Desktop",
+    "answers": [
+      {
+        "text": "b. Supercomputers",
+        "correct": false
+      },
+      {
+        "text": "c. Servers",
+        "correct": false
+      },
+      {
+        "text": "d. Tablets",
+        "correct": true
+      },
+      {
+        "text": "These are stationary computers typically used at home or in offices.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b. Supercomputers _____ b. Supercomputers",
+    "answers": [
+      {
+        "text": "c. Servers",
+        "correct": false
+      },
+      {
+        "text": "d. Tablets",
+        "correct": false
+      },
+      {
+        "text": "Powerful computers designed for technical or scientific applications.",
+        "correct": false
+      },
+      {
+        "text": "a. Workstations",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "c. Servers _____ b. Supercomputers",
+    "answers": [
+      {
+        "text": "d. Tablets",
+        "correct": false
+      },
+      {
+        "text": "While primarily designed for gaming, these devices can also function as computers for",
+        "correct": false
+      },
+      {
+        "text": "internet browsing, streaming, and media playback.",
+        "correct": false
+      },
+      {
+        "text": "a. Gaming Consoles",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "c. Servers _____ ________#b. managing",
+    "answers": [
+      {
+        "text": "d. Tablets",
+        "correct": false
+      },
+      {
+        "text": "They are built to handle multiple requests simultaneously and are essential for",
+        "correct": false
+      },
+      {
+        "text": "networks and websites.",
+        "correct": false
+      },
+      {
+        "text": "a. playing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c. discussing _____ C. Should",
+    "answers": [
+      {
+        "text": "d. opening",
+        "correct": false
+      },
+      {
+        "text": "......... I have a look at those shoes in the window, please?",
+        "correct": false
+      },
+      {
+        "text": "A. Must",
+        "correct": false
+      },
+      {
+        "text": "B. Would",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#D. Could _____ D. hadn't to",
+    "answers": [
+      {
+        "text": "We ......... pay for the tickets as Josie won them in a competition.",
+        "correct": false
+      },
+      {
+        "text": "A. mustn't",
+        "correct": false
+      },
+      {
+        "text": "B. didn't have to",
+        "correct": true
+      },
+      {
+        "text": "C. couldn't",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "You really ......... make such a mountain out of a molehill! _____ You won't ......... to connect to the Internet once you've got broadband as you're online",
+    "answers": [
+      {
+        "text": "A. can't",
+        "correct": false
+      },
+      {
+        "text": "B. won't",
+        "correct": false
+      },
+      {
+        "text": "C. mightn't",
+        "correct": false
+      },
+      {
+        "text": "D. shouldn't",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "twenty-four hours a day. _____ I hope we ......... find the cinema easily.",
+    "answers": [
+      {
+        "text": "A. need",
+        "correct": true
+      },
+      {
+        "text": "B. must",
+        "correct": false
+      },
+      {
+        "text": "C. ought",
+        "correct": false
+      },
+      {
+        "text": "D. able",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A. could _____ A. must",
+    "answers": [
+      {
+        "text": "B. may",
+        "correct": false
+      },
+      {
+        "text": "C. might",
+        "correct": false
+      },
+      {
+        "text": "D. can",
+        "correct": true
+      },
+      {
+        "text": "We couldn't find a hotel room so we ......... sleep in the car. It was awful!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B. should _____ b) in the street outside the man's house",
+    "answers": [
+      {
+        "text": "C. had to",
+        "correct": true
+      },
+      {
+        "text": "D. could",
+        "correct": false
+      },
+      {
+        "text": "The interview is taking place",
+        "correct": false
+      },
+      {
+        "text": "a) in the man’s house",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#c) in a church hall _____ #a) did it intentionally",
+    "answers": [
+      {
+        "text": "The speaker",
+        "correct": false
+      },
+      {
+        "text": "a) works for a charityb) is a politician",
+        "correct": false
+      },
+      {
+        "text": "c) raises funds for a charity",
+        "correct": true
+      },
+      {
+        "text": "The people who started the fire",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) were cooking _____ #c) is still happening now",
+    "answers": [
+      {
+        "text": "c) left without phoning the fire service",
+        "correct": false
+      },
+      {
+        "text": "The volcanic eruption",
+        "correct": false
+      },
+      {
+        "text": "a) happened last year",
+        "correct": false
+      },
+      {
+        "text": "b) has just finished",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "When the wave reached the boat, the boat was _____ A. Manages hardware",
+    "answers": [
+      {
+        "text": "a) close to the shore",
+        "correct": false
+      },
+      {
+        "text": "b) moving away from the shore",
+        "correct": true
+      },
+      {
+        "text": "c) in the port",
+        "correct": false
+      },
+      {
+        "text": "What does computer software do?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B. Tells the computer what to do _____ #B. By function",
+    "answers": [
+      {
+        "text": "C. Repairs hardware",
+        "correct": false
+      },
+      {
+        "text": "D. None of the above",
+        "correct": false
+      },
+      {
+        "text": "How is software commonly categorized?",
+        "correct": false
+      },
+      {
+        "text": "A. By color",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C. By brand _____ #C. Operating System",
+    "answers": [
+      {
+        "text": "D. By size",
+        "correct": false
+      },
+      {
+        "text": "What is the primary example of system software?",
+        "correct": false
+      },
+      {
+        "text": "A. Microsoft Word",
+        "correct": false
+      },
+      {
+        "text": "B. Photoshop",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D. Web browser _____ D. Disk cleanup tool",
+    "answers": [
+      {
+        "text": "Which of the following is application software?",
+        "correct": false
+      },
+      {
+        "text": "A. Windows",
+        "correct": false
+      },
+      {
+        "text": "B. Antivirus",
+        "correct": false
+      },
+      {
+        "text": "C. Microsoft Word",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What does utility software do? _____ A. Edit photos",
+    "answers": [
+      {
+        "text": "A. Manages hardware",
+        "correct": false
+      },
+      {
+        "text": "B. Deletes all files",
+        "correct": false
+      },
+      {
+        "text": "C. Maintains and optimizes the system",
+        "correct": true
+      },
+      {
+        "text": "D. Creates new operating systemsWhat is the role of system software?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B. Provide a platform for other software _____ #B. Antivirus scanning",
+    "answers": [
+      {
+        "text": "C. Play games",
+        "correct": false
+      },
+      {
+        "text": "D. Write documents",
+        "correct": false
+      },
+      {
+        "text": "What is an example of utility software?",
+        "correct": false
+      },
+      {
+        "text": "A. Chrome",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C. macOS _____ C. Coding",
+    "answers": [
+      {
+        "text": "D. Photoshop",
+        "correct": false
+      },
+      {
+        "text": "What is the first stage in software development?",
+        "correct": false
+      },
+      {
+        "text": "B. Planning",
+        "correct": true
+      },
+      {
+        "text": "A. Design",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D. Testing _____ D. Deployment",
+    "answers": [
+      {
+        "text": "Which stage involves creating the user interface?",
+        "correct": false
+      },
+      {
+        "text": "A. Planning",
+        "correct": false
+      },
+      {
+        "text": "B. Maintenance",
+        "correct": false
+      },
+      {
+        "text": "C. Design",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "During which stage are bugs identified and fixed? _____ What does deployment refer to?",
+    "answers": [
+      {
+        "text": "A. Testing",
+        "correct": true
+      },
+      {
+        "text": "B. Maintenance",
+        "correct": false
+      },
+      {
+        "text": "C. Coding",
+        "correct": false
+      },
+      {
+        "text": "D. Design",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A. Writing the code _____ A. Coding",
+    "answers": [
+      {
+        "text": "B. Releasing the software to users",
+        "correct": true
+      },
+      {
+        "text": "C. Discussing ideas",
+        "correct": false
+      },
+      {
+        "text": "D. Fixing bugs",
+        "correct": false
+      },
+      {
+        "text": "Which stage comes last in the software development process?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B. Planning _____ B. User experience",
+    "answers": [
+      {
+        "text": "C. Deployment",
+        "correct": false
+      },
+      {
+        "text": "D. Maintenance",
+        "correct": true
+      },
+      {
+        "text": "What is primarily discussed during the planning stage?",
+        "correct": false
+      },
+      {
+        "text": "A. Software features",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "C. Code syntax _____ D. Design reviews",
+    "answers": [
+      {
+        "text": "D. Bug reportsWhat can prompt updates in the maintenance phase?",
+        "correct": false
+      },
+      {
+        "text": "A. User feedback",
+        "correct": true
+      },
+      {
+        "text": "B. Code writing",
+        "correct": false
+      },
+      {
+        "text": "C. Initial testing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which stage is focused on the actual writing of the software? _____ What is a key aspect of the testing stage?",
+    "answers": [
+      {
+        "text": "A. Testing",
+        "correct": false
+      },
+      {
+        "text": "B. Design",
+        "correct": false
+      },
+      {
+        "text": "C. Coding",
+        "correct": true
+      },
+      {
+        "text": "D. Planning",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A. Planning for future updates _____ A. The software is designed correctly",
+    "answers": [
+      {
+        "text": "B. Evaluating software performance",
+        "correct": true
+      },
+      {
+        "text": "C. Designing the interface",
+        "correct": false
+      },
+      {
+        "text": "D. Conducting user feedback sessions",
+        "correct": false
+      },
+      {
+        "text": "In the context of software development, what does maintenance ensure?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B. Users receive ongoing support and updates _____ #B) Increase in temperature",
+    "answers": [
+      {
+        "text": "C. The initial code is clean",
+        "correct": false
+      },
+      {
+        "text": "D. All bugs are fixed before deployment",
+        "correct": false
+      },
+      {
+        "text": "What does “heating up” refer to?",
+        "correct": false
+      },
+      {
+        "text": "A) Cooking food",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C) Funny _____ C) Renewable resources",
+    "answers": [
+      {
+        "text": "D) Red",
+        "correct": false
+      },
+      {
+        "text": "What are “fossil fuels”?",
+        "correct": false
+      },
+      {
+        "text": "A) Natural resources from plants",
+        "correct": false
+      },
+      {
+        "text": "B) Recycled resources",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#D) Ancient organic materials used for energy _____ D) Recycled gases",
+    "answers": [
+      {
+        "text": "What are “greenhouse gases”?",
+        "correct": false
+      },
+      {
+        "text": "A) Gases that aid plant growth",
+        "correct": false
+      },
+      {
+        "text": "B) Gases that trap heat in the atmosphere",
+        "correct": true
+      },
+      {
+        "text": "C) Pollutants causing smog",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What does “global warming” mean? _____ A) Dry forests",
+    "answers": [
+      {
+        "text": "A) Average temperature-increase of Earth",
+        "correct": true
+      },
+      {
+        "text": "B) A cooling trend",
+        "correct": false
+      },
+      {
+        "text": "C) Seasonal weather changes",
+        "correct": false
+      },
+      {
+        "text": "D) Summer monthsWhat are “rain forests”?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) Dense forests with high rainfall _____ B) Mountain areas",
+    "answers": [
+      {
+        "text": "C) Urban areas with trees",
+        "correct": false
+      },
+      {
+        "text": "D) Small forests",
+        "correct": false
+      },
+      {
+        "text": "What are “ice caps”?",
+        "correct": false
+      },
+      {
+        "text": "A) a thick layer of ice that permanently covers an area of land",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "C) Flat land near oceans _____ B) Rain",
+    "answers": [
+      {
+        "text": "D) Ice-cream",
+        "correct": false
+      },
+      {
+        "text": "What makes the sound of thunder?",
+        "correct": false
+      },
+      {
+        "text": "C) Lightning",
+        "correct": true
+      },
+      {
+        "text": "A) Loud noises",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What shape is a raindrop before it starts falling? _____ #A) Fog",
+    "answers": [
+      {
+        "text": "A) Sphere",
+        "correct": true
+      },
+      {
+        "text": "B) Tear-shaped",
+        "correct": false
+      },
+      {
+        "text": "C) Flat",
+        "correct": false
+      },
+      {
+        "text": "What weather condition forms when the air is cold and humid?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B) Thunderstorm _____ C) No answer",
+    "answers": [
+      {
+        "text": "C) Hail",
+        "correct": false
+      },
+      {
+        "text": "In what direction does an \"east wind\" blow?",
+        "correct": false
+      },
+      {
+        "text": "B) Toward the west",
+        "correct": true
+      },
+      {
+        "text": "A) Toward the east",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Which month is considered the foggiest in England? _____ A) Spring",
+    "answers": [
+      {
+        "text": "A) September",
+        "correct": false
+      },
+      {
+        "text": "B) November",
+        "correct": true
+      },
+      {
+        "text": "C) October",
+        "correct": false
+      },
+      {
+        "text": "What season is often associated with an \"Indian Summer\" in England?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) Autumn _____ C) People prefer staying outdoorsWhich weather condition is common in British summers?",
+    "answers": [
+      {
+        "text": "C) Summer",
+        "correct": false
+      },
+      {
+        "text": "What happens when showers and sunshine frequently alternate during spring?",
+        "correct": false
+      },
+      {
+        "text": "A) Raincoats aren't needed",
+        "correct": false
+      },
+      {
+        "text": "B) Umbrellas become essential",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A) Mild wind _____ B) They stay green",
+    "answers": [
+      {
+        "text": "B) Heavy rainfall",
+        "correct": true
+      },
+      {
+        "text": "C) Hot and sunny days",
+        "correct": false
+      },
+      {
+        "text": "What typically happens to leaves during the autumn season in England?",
+        "correct": false
+      },
+      {
+        "text": "A) They fall to the ground",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "C) They turn blue _____ can play.",
+    "answers": [
+      {
+        "text": "What color are the skies often during late autumn in England?",
+        "correct": false
+      },
+      {
+        "text": "A) Blue",
+        "correct": false
+      },
+      {
+        "text": "B) Cloudy and gray",
+        "correct": true
+      },
+      {
+        "text": "C) Bright",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#A) finish _____ –When ice melts, it",
+    "answers": [
+      {
+        "text": "B) will finish",
+        "correct": false
+      },
+      {
+        "text": "C) could finish",
+        "correct": false
+      },
+      {
+        "text": "D) finishes",
+        "correct": false
+      },
+      {
+        "text": "Can I go and play football, please, Mum? – Of course, if you",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#A) becomes _____ ____",
+    "answers": [
+      {
+        "text": "B) will become",
+        "correct": false
+      },
+      {
+        "text": "C) became",
+        "correct": false
+      },
+      {
+        "text": "D) has become",
+        "correct": false
+      },
+      {
+        "text": "water.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "–Everyone knows that! _____ D) are",
+    "answers": [
+      {
+        "text": "If you eat too much sugar, you",
+        "correct": false
+      },
+      {
+        "text": "A) will",
+        "correct": true
+      },
+      {
+        "text": "B) would",
+        "correct": false
+      },
+      {
+        "text": "C) have",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "feel sick. _____ A) boils",
+    "answers": [
+      {
+        "text": "__________",
+        "correct": false
+      },
+      {
+        "text": "If the temperature drops below 0°C, water",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "__________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) freezes _____ B) would",
+    "answers": [
+      {
+        "text": "C) evaporates",
+        "correct": false
+      },
+      {
+        "text": "D) flows",
+        "correct": false
+      },
+      {
+        "text": "If you study hard, you",
+        "correct": false
+      },
+      {
+        "text": "A) will",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "C) have _____ #B) dies",
+    "answers": [
+      {
+        "text": "D) had",
+        "correct": false
+      },
+      {
+        "text": "__________ pass the test.",
+        "correct": false
+      },
+      {
+        "text": "If you don’t water a plant, it",
+        "correct": false
+      },
+      {
+        "text": "A) grows",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": ". _____ A) freezes",
+    "answers": [
+      {
+        "text": "__________",
+        "correct": false
+      },
+      {
+        "text": "_______ your homework, youC) blooms",
+        "correct": false
+      },
+      {
+        "text": "D) thrives",
+        "correct": false
+      },
+      {
+        "text": "If you heat water to 100°C, it",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) boils _____ If you put food in the fridge, ________________________",
+    "answers": [
+      {
+        "text": "C) evaporates",
+        "correct": false
+      },
+      {
+        "text": "D) stays the same",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "__________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": ". _____ If you leave metal out in the rain, ________________________",
+    "answers": [
+      {
+        "text": "A) it stays fresh for longer",
+        "correct": true
+      },
+      {
+        "text": "B) it gets rusty",
+        "correct": false
+      },
+      {
+        "text": "C) it sinks",
+        "correct": false
+      },
+      {
+        "text": "D) you get green",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": ". _____ If you throw a pebble into the sea, ________________________",
+    "answers": [
+      {
+        "text": "A) it stays fresh for longer",
+        "correct": false
+      },
+      {
+        "text": "B) it gets rusty",
+        "correct": true
+      },
+      {
+        "text": "C) it sinks",
+        "correct": false
+      },
+      {
+        "text": "D) you get green",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": ". _____ If you mix blue and yellow, ________________________",
+    "answers": [
+      {
+        "text": "A) it stays fresh for longer",
+        "correct": false
+      },
+      {
+        "text": "B) it gets rusty",
+        "correct": false
+      },
+      {
+        "text": "C) it sinks",
+        "correct": true
+      },
+      {
+        "text": "D) you get green",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": ". _____ You couldn’t travel long distances",
+    "answers": [
+      {
+        "text": "A) it stays fresh for longer",
+        "correct": false
+      },
+      {
+        "text": "B) it gets rusty",
+        "correct": false
+      },
+      {
+        "text": "C) it sinks",
+        "correct": false
+      },
+      {
+        "text": "D) you get green",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "___ you went by public transport. _____ You would probably shop locally ___ going to a big supermarket.",
+    "answers": [
+      {
+        "text": "A) rather than",
+        "correct": false
+      },
+      {
+        "text": "B) so",
+        "correct": false
+      },
+      {
+        "text": "C) unless",
+        "correct": true
+      },
+      {
+        "text": "D) and",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#A) rather than _____ A) as",
+    "answers": [
+      {
+        "text": "B) although",
+        "correct": false
+      },
+      {
+        "text": "C) but",
+        "correct": false
+      },
+      {
+        "text": "D) and",
+        "correct": false
+      },
+      {
+        "text": "The motorways would be empty ___ you could cycle on them safely.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B) because _____ places.",
+    "answers": [
+      {
+        "text": "C) soD) and",
+        "correct": true
+      },
+      {
+        "text": "We would eat more food from our local area",
+        "correct": false
+      },
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "it would be difficult to transport it from other",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A) so _____ gaming?",
+    "answers": [
+      {
+        "text": "B) since",
+        "correct": true
+      },
+      {
+        "text": "C) although",
+        "correct": false
+      },
+      {
+        "text": "D) and",
+        "correct": false
+      },
+      {
+        "text": "Which of the following devices is primarily designed for video editing, graphic design, and",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a. Tablets and Smartphones _____ a. High-quality photo capturing",
+    "answers": [
+      {
+        "text": "b. Computers and Laptops",
+        "correct": true
+      },
+      {
+        "text": "c. Digital Cameras",
+        "correct": false
+      },
+      {
+        "text": "d. Audio Equipment",
+        "correct": false
+      },
+      {
+        "text": "What is the primary feature that distinguishes tablets and smartphones from other devices?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b. Large screen projection _____ a. Smart TVs",
+    "answers": [
+      {
+        "text": "c. Touch interfaces and portability",
+        "correct": true
+      },
+      {
+        "text": "d. Advanced sound systems",
+        "correct": false
+      },
+      {
+        "text": "Which device is commonly used in presentations to display images and videos on larger",
+        "correct": false
+      },
+      {
+        "text": "screens?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b. Projectors _____ #b. Capturing high-quality photos and videos",
+    "answers": [
+      {
+        "text": "c. Virtual Reality Headsets",
+        "correct": false
+      },
+      {
+        "text": "d. Gaming Consoles",
+        "correct": false
+      },
+      {
+        "text": "Digital cameras are mainly used for:",
+        "correct": false
+      },
+      {
+        "text": "a. Streaming multimedia content",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c. Enhancing audio experiences _____ c. They are designed for video editing and graphic design.",
+    "answers": [
+      {
+        "text": "d. Playing video games",
+        "correct": false
+      },
+      {
+        "text": "What makes virtual reality (VR) headsets unique among multimedia devices?",
+        "correct": false
+      },
+      {
+        "text": "a. They connect to the internet for streaming content.",
+        "correct": false
+      },
+      {
+        "text": "b. They allow users to interact with 3D spaces in a lifelike manner.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d. They are used for projecting images onto large screens. _____ d. Touchscreen interfacesWhat sets Smart TVs apart from traditional televisions?",
+    "answers": [
+      {
+        "text": "Gaming consoles often include which of the following features?",
+        "correct": false
+      },
+      {
+        "text": "a. High-quality audio enhancement",
+        "correct": false
+      },
+      {
+        "text": "b. Immersive 3D simulations",
+        "correct": false
+      },
+      {
+        "text": "c. Multimedia streaming and social interaction",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "a. Compatibility with projectors _____ a. Tablets",
+    "answers": [
+      {
+        "text": "b. Ability to connect to the internet and access apps",
+        "correct": true
+      },
+      {
+        "text": "c. High-quality photo capturing",
+        "correct": false
+      },
+      {
+        "text": "d. Support for virtual reality environments",
+        "correct": false
+      },
+      {
+        "text": "Which of these devices is primarily used to enhance audio experiences?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b. Audio Equipment _____ a. They focus solely on gaming.",
+    "answers": [
+      {
+        "text": "c. Virtual Reality Headsets",
+        "correct": false
+      },
+      {
+        "text": "d. Smart TVs",
+        "correct": false
+      },
+      {
+        "text": "Why are multimedia devices considered integral to modern communication and",
+        "correct": false
+      },
+      {
+        "text": "entertainment?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b. They combine various technologies to create and consume content. _____ b. Creating immersive VR experiences",
+    "answers": [
+      {
+        "text": "c. They are portable and inexpensive.",
+        "correct": false
+      },
+      {
+        "text": "d. They replace all other forms of traditional media.",
+        "correct": false
+      },
+      {
+        "text": "What is a common use of projectors in home environments?",
+        "correct": false
+      },
+      {
+        "text": "a. Playing video games",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#c. Watching movies in home theaters _____ C) To make a computer work faster",
+    "answers": [
+      {
+        "text": "d. Capturing high-quality videos",
+        "correct": false
+      },
+      {
+        "text": "What is the main purpose of antivirus software?",
+        "correct": false
+      },
+      {
+        "text": "A) To delete all files on a computer",
+        "correct": false
+      },
+      {
+        "text": "B) To detect and remove malware",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "D) To block internet access _____ D) To remove old files",
+    "answers": [
+      {
+        "text": "Why are regular updates important for antivirus programs?",
+        "correct": false
+      },
+      {
+        "text": "A) To improve the computer’s speed",
+        "correct": false
+      },
+      {
+        "text": "B) To make the antivirus software free",
+        "correct": false
+      },
+      {
+        "text": "C) To protect against new viruses",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "How can users improve their computer security besides using antivirus software? _____ What does real-time protection do?",
+    "answers": [
+      {
+        "text": "A) Downloading random files",
+        "correct": false
+      },
+      {
+        "text": "B) Practicing safe browsing",
+        "correct": true
+      },
+      {
+        "text": "C) Turning off the firewall",
+        "correct": false
+      },
+      {
+        "text": "D) Ignoring system updates",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A) Removes viruses after they infect a computer _____ #B) It may slow down or stop working",
+    "answers": [
+      {
+        "text": "B) Prevents infections before they happen",
+        "correct": true
+      },
+      {
+        "text": "C) Slows down the computerD) Deletes important files",
+        "correct": false
+      },
+      {
+        "text": "What can happen if a computer is not properly protected?",
+        "correct": false
+      },
+      {
+        "text": "A) It will work faster",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C) It will become virus-proof _____ C) Adding images",
+    "answers": [
+      {
+        "text": "D) It will not need updates",
+        "correct": false
+      },
+      {
+        "text": "What is the first step in writing a blog post?",
+        "correct": false
+      },
+      {
+        "text": "A) Writing a conclusion first",
+        "correct": false
+      },
+      {
+        "text": "B) Choosing a topic",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "D) Ignoring the audience _____ D) It is not necessary",
+    "answers": [
+      {
+        "text": "Why is an outline important for a blog post?",
+        "correct": false
+      },
+      {
+        "text": "A) It helps organize ideas",
+        "correct": true
+      },
+      {
+        "text": "B) It makes the post longer",
+        "correct": false
+      },
+      {
+        "text": "C) It replaces the need for research",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What should the introduction do? _____ Why is proofreading important?",
+    "answers": [
+      {
+        "text": "A) Present the main idea and grab attention",
+        "correct": true
+      },
+      {
+        "text": "B) Contain all the details and examples",
+        "correct": false
+      },
+      {
+        "text": "C) Be the longest part of the post",
+        "correct": false
+      },
+      {
+        "text": "D) Only include keywords",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#A) It helps improve grammar and clarity _____ #A) By using images, links, and keywords",
+    "answers": [
+      {
+        "text": "B) It makes the post shorter",
+        "correct": false
+      },
+      {
+        "text": "C) It removes all images",
+        "correct": false
+      },
+      {
+        "text": "D) It changes the topic completely",
+        "correct": false
+      },
+      {
+        "text": "How can you improve engagement in a blog post?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B) By writing long paragraphs without headings _____ B) She is thinking because her future.",
+    "answers": [
+      {
+        "text": "C) By avoiding research",
+        "correct": false
+      },
+      {
+        "text": "D) By not editing the post",
+        "correct": false
+      },
+      {
+        "text": "Which sentence correctly uses the conjunction \"of\"?",
+        "correct": false
+      },
+      {
+        "text": "A) She is thinking of her future.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "C) She is thinking in order to her future. _____ B) He is worried because his exam results.",
+    "answers": [
+      {
+        "text": "D) She is thinking about her future.",
+        "correct": false
+      },
+      {
+        "text": "Choose the correct sentence with \"about\"",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "A) He is worried about his exam results.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "C) He is worried to his exam results.D) He is worried in order to his exam results. _____ C) She studies hard because pass the test.",
+    "answers": [
+      {
+        "text": "Fill in the blank with \"in order to\"",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "A) She studies hard in order to pass the test.",
+        "correct": true
+      },
+      {
+        "text": "B) She studies hard of pass the test.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D) She studies hard about pass the test. _____ D) They stayed home about it was raining.",
+    "answers": [
+      {
+        "text": "Which sentence correctly uses \"because\"?",
+        "correct": false
+      },
+      {
+        "text": "A) They stayed home because it was raining.",
+        "correct": true
+      },
+      {
+        "text": "B) They stayed home in order to it was raining.",
+        "correct": false
+      },
+      {
+        "text": "C) They stayed home of it was raining.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Choose the correct sentence with \"because of\" _____ D) The match was canceled because heavy rain.",
+    "answers": [
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "A) The match was canceled because of heavy rain.",
+        "correct": true
+      },
+      {
+        "text": "B) The match was canceled in order to heavy rain.",
+        "correct": false
+      },
+      {
+        "text": "C) The match was canceled about heavy rain.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the first step in data processing? _____ Which type of data processing is faster and more accurate?",
+    "answers": [
+      {
+        "text": "a) Data Storage",
+        "correct": false
+      },
+      {
+        "text": "b) Data Analysis",
+        "correct": false
+      },
+      {
+        "text": "c) Data Collection",
+        "correct": true
+      },
+      {
+        "text": "d) Data Cleaning",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) Manual Processing _____ a) To analyze data",
+    "answers": [
+      {
+        "text": "b) Automated Processing",
+        "correct": true
+      },
+      {
+        "text": "c) Random Processing",
+        "correct": false
+      },
+      {
+        "text": "d) Hybrid Processing",
+        "correct": false
+      },
+      {
+        "text": "What is the purpose of data cleaning?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b) To remove errors and inconsistencies _____ b) Data Cleaning",
+    "answers": [
+      {
+        "text": "c) To store data permanently",
+        "correct": false
+      },
+      {
+        "text": "d) To create more data",
+        "correct": false
+      },
+      {
+        "text": "Which of the following is NOT a step in data processing?",
+        "correct": false
+      },
+      {
+        "text": "a) Data Collection",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#c) Data Sleeping _____ c) Eliminated the need for storaged) Increased manual effort",
+    "answers": [
+      {
+        "text": "d) Data Transformation",
+        "correct": false
+      },
+      {
+        "text": "How has artificial intelligence impacted data processing?",
+        "correct": false
+      },
+      {
+        "text": "a) Made it slower",
+        "correct": false
+      },
+      {
+        "text": "b) Made it more efficient",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What happens during the data analysis stage? _____ Why is data storage important?",
+    "answers": [
+      {
+        "text": "a) Data is deleted",
+        "correct": false
+      },
+      {
+        "text": "b) Data is examined for patterns",
+        "correct": true
+      },
+      {
+        "text": "c) Data is collected",
+        "correct": false
+      },
+      {
+        "text": "d) Data is ignored",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#a) It allows processed data to be saved for future use _____ A. am",
+    "answers": [
+      {
+        "text": "b) It makes data disappear",
+        "correct": false
+      },
+      {
+        "text": "c) It prevents data from being collected",
+        "correct": false
+      },
+      {
+        "text": "d) It replaces raw data",
+        "correct": false
+      },
+      {
+        "text": "If I",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B. was _____ ___",
+    "answers": [
+      {
+        "text": "C. were",
+        "correct": true
+      },
+      {
+        "text": "D. be",
+        "correct": false
+      },
+      {
+        "text": "___ you, I would accept the offer.",
+        "correct": false
+      },
+      {
+        "text": "If she",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A. has _____ If we",
+    "answers": [
+      {
+        "text": "B. had",
+        "correct": true
+      },
+      {
+        "text": "C. will have",
+        "correct": false
+      },
+      {
+        "text": "D. having",
+        "correct": false
+      },
+      {
+        "text": "more money, she would buy a new phone.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "___ _____ in Paris, we would visit the Eiffel Tower often.",
+    "answers": [
+      {
+        "text": "A. live",
+        "correct": false
+      },
+      {
+        "text": "B. lives",
+        "correct": false
+      },
+      {
+        "text": "C. lived",
+        "correct": true
+      },
+      {
+        "text": "D. living",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If he _____ D. studying",
+    "answers": [
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. study",
+        "correct": false
+      },
+      {
+        "text": "B. studied",
+        "correct": true
+      },
+      {
+        "text": "C. studies",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "more, he would pass the test easily. _____ D. will have",
+    "answers": [
+      {
+        "text": "If they ___",
+        "correct": false
+      },
+      {
+        "text": "A. have",
+        "correct": false
+      },
+      {
+        "text": "B. had",
+        "correct": true
+      },
+      {
+        "text": "C. having",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "their own business, they would be successful. _____ #C. were",
+    "answers": [
+      {
+        "text": "If I",
+        "correct": false
+      },
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. am",
+        "correct": false
+      },
+      {
+        "text": "B. was",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "taller, I would become a basketball player.D. be _____ C. leaves",
+    "answers": [
+      {
+        "text": "If you",
+        "correct": false
+      },
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. leave",
+        "correct": false
+      },
+      {
+        "text": "B. left",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "D. leaving _____ #B. went",
+    "answers": [
+      {
+        "text": "earlier, you wouldn’t miss the bus.",
+        "correct": false
+      },
+      {
+        "text": "If he",
+        "correct": false
+      },
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. goes",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C. going _____ #B. spoke",
+    "answers": [
+      {
+        "text": "D. go",
+        "correct": false
+      },
+      {
+        "text": "If I",
+        "correct": false
+      },
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. speak",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C. speaking _____ ___",
+    "answers": [
+      {
+        "text": "D. speaks",
+        "correct": false
+      },
+      {
+        "text": "to the gym regularly, he would be in better shape.",
+        "correct": false
+      },
+      {
+        "text": "more languages, I would work internationally.",
+        "correct": false
+      },
+      {
+        "text": "If we",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A. own _____ If she",
+    "answers": [
+      {
+        "text": "B. owned",
+        "correct": true
+      },
+      {
+        "text": "C. owning",
+        "correct": false
+      },
+      {
+        "text": "D. owns",
+        "correct": false
+      },
+      {
+        "text": "a car, we wouldn’t have to take the bus.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "___ _____ more confident, she would apply for the job.",
+    "answers": [
+      {
+        "text": "A. was",
+        "correct": false
+      },
+      {
+        "text": "B. were",
+        "correct": true
+      },
+      {
+        "text": "C. is",
+        "correct": false
+      },
+      {
+        "text": "D. be",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If they ___ _____ earlier, they wouldn’t be late for school.",
+    "answers": [
+      {
+        "text": "A. wake up",
+        "correct": false
+      },
+      {
+        "text": "B. wakes up",
+        "correct": false
+      },
+      {
+        "text": "C. woke up",
+        "correct": true
+      },
+      {
+        "text": "D. walking up",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If I _____ D. lives",
+    "answers": [
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. live",
+        "correct": false
+      },
+      {
+        "text": "B. lived",
+        "correct": true
+      },
+      {
+        "text": "C. living",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "in a different country, I would experience a new culture. _____ C. working",
+    "answers": [
+      {
+        "text": "If you",
+        "correct": false
+      },
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. work",
+        "correct": false
+      },
+      {
+        "text": "B. worked",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "more carefully, you wouldn’t make so many mistakes.D. works _____ C. having",
+    "answers": [
+      {
+        "text": "If he",
+        "correct": false
+      },
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. had",
+        "correct": true
+      },
+      {
+        "text": "B. have",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D. has _____ #B. had",
+    "answers": [
+      {
+        "text": "a better job, he would be happier.",
+        "correct": false
+      },
+      {
+        "text": "If we",
+        "correct": false
+      },
+      {
+        "text": "___",
+        "correct": false
+      },
+      {
+        "text": "A. have",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C. having _____ #B) HDDs",
+    "answers": [
+      {
+        "text": "D. has",
+        "correct": false
+      },
+      {
+        "text": "more time, we would travel the world.",
+        "correct": false
+      },
+      {
+        "text": "Which of the following is commonly used to store large amounts of data at a low cost?",
+        "correct": false
+      },
+      {
+        "text": "A) SSDs",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C) Cloud Storage _____ #C) laser technology",
+    "answers": [
+      {
+        "text": "D) USB Flash Drives",
+        "correct": false
+      },
+      {
+        "text": "Optical storage uses",
+        "correct": false
+      },
+      {
+        "text": "A) spinning disks",
+        "correct": false
+      },
+      {
+        "text": "B) internet",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D) flash memory _____ B) access",
+    "answers": [
+      {
+        "text": "to read and write data.",
+        "correct": false
+      },
+      {
+        "text": "_______",
+        "correct": false
+      },
+      {
+        "text": "Cloud storage allows users",
+        "correct": false
+      },
+      {
+        "text": "A) accessing",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#C) to access _____ A) storing multimedia files",
+    "answers": [
+      {
+        "text": "D) accesses",
+        "correct": false
+      },
+      {
+        "text": "_______",
+        "correct": false
+      },
+      {
+        "text": "data from anywhere with an Internet connection.",
+        "correct": false
+      },
+      {
+        "text": "Tape storage is primarily used for",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) archiving old data _____ USB flash drives are compact and convenient for",
+    "answers": [
+      {
+        "text": "C) transferring files between devices",
+        "correct": false
+      },
+      {
+        "text": "D) providing Internet access",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A) to transfer _____ _________NAS devices are used to manage",
+    "answers": [
+      {
+        "text": "B) transferred",
+        "correct": false
+      },
+      {
+        "text": "C) transferring",
+        "correct": true
+      },
+      {
+        "text": "D) transfers",
+        "correct": false
+      },
+      {
+        "text": "data.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#A) centralized data storage _____ ______",
+    "answers": [
+      {
+        "text": "B) small portable data transfers",
+        "correct": false
+      },
+      {
+        "text": "C) cloud data backups",
+        "correct": false
+      },
+      {
+        "text": "D) multimedia storage",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "SSDs are preferred for their speed and _____ .",
+    "answers": [
+      {
+        "text": "A) durability",
+        "correct": true
+      },
+      {
+        "text": "B) cost-effectiveness",
+        "correct": false
+      },
+      {
+        "text": "C) compatibility",
+        "correct": false
+      },
+      {
+        "text": "D) scalability",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "______ _____ #B) storing and distributing multimedia",
+    "answers": [
+      {
+        "text": "Optical storage is suitable for",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "_______",
+        "correct": false
+      },
+      {
+        "text": "A) long-term data archiving",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C) accessing data remotely _____ C) large disk space",
+    "answers": [
+      {
+        "text": "D) performing bulk data processing",
+        "correct": false
+      },
+      {
+        "text": "Cloud storage services often require a stable",
+        "correct": false
+      },
+      {
+        "text": "A) Internet connection",
+        "correct": true
+      },
+      {
+        "text": "B) power source",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D) magnetic drive _____ B) expensive and slow",
+    "answers": [
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "_________",
+        "correct": false
+      },
+      {
+        "text": "Tape storage technology is considered",
+        "correct": false
+      },
+      {
+        "text": "A) outdated but still reliable for backups",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "C) portable and durable _____ A) social media",
+    "answers": [
+      {
+        "text": "D) scalable and fast",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "_________",
+        "correct": false
+      },
+      {
+        "text": "Which type of website is designed for selling and purchasing goods online?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) e-commerce _____ _________",
+    "answers": [
+      {
+        "text": "C) educational",
+        "correct": false
+      },
+      {
+        "text": "D) blog",
+        "correct": false
+      },
+      {
+        "text": "A website like Google, which helps users search for information, is called a",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A) blog _____ A) static website#B) dynamic website",
+    "answers": [
+      {
+        "text": "B) dynamic website",
+        "correct": false
+      },
+      {
+        "text": "C) search engine",
+        "correct": true
+      },
+      {
+        "text": "D) static website",
+        "correct": false
+      },
+      {
+        "text": "Which type of website regularly updates its content and allows user interaction?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C) educational website _____ A) log in",
+    "answers": [
+      {
+        "text": "D) homepage",
+        "correct": false
+      },
+      {
+        "text": "Subscription-based websites require users to",
+        "correct": false
+      },
+      {
+        "text": "_________",
+        "correct": false
+      },
+      {
+        "text": "regularly.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) pay _____ A) buying products",
+    "answers": [
+      {
+        "text": "C) subscribe",
+        "correct": false
+      },
+      {
+        "text": "D) upload content",
+        "correct": false
+      },
+      {
+        "text": "Blogs are often used for",
+        "correct": false
+      },
+      {
+        "text": "_________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) sharing ideas and expertise _____ A) dynamic website",
+    "answers": [
+      {
+        "text": "C) searching for information",
+        "correct": false
+      },
+      {
+        "text": "D) learning online",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "Which type of website provides non-changing content?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) static website _____ A) selling products",
+    "answers": [
+      {
+        "text": "C) social media",
+        "correct": false
+      },
+      {
+        "text": "D) educational website",
+        "correct": false
+      },
+      {
+        "text": "Social media platforms are designed for",
+        "correct": false
+      },
+      {
+        "text": "_________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) connecting with others and sharing content _____ A) fixed information",
+    "answers": [
+      {
+        "text": "C) learning online",
+        "correct": false
+      },
+      {
+        "text": "D) searching the Internet",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "Dynamic websites are commonly updated with",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) new and interactive content _____ Educational websites often include",
+    "answers": [
+      {
+        "text": "C) static designs",
+        "correct": false
+      },
+      {
+        "text": "D) subscription fees",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": ". _____ D) product reviews",
+    "answers": [
+      {
+        "text": "__________",
+        "correct": false
+      },
+      {
+        "text": "A) tutorials and research materials",
+        "correct": true
+      },
+      {
+        "text": "B) shopping carts",
+        "correct": false
+      },
+      {
+        "text": "C) social networking tools",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Search engines primarily help users _____ .",
+    "answers": [
+      {
+        "text": "A) communicate with others",
+        "correct": false
+      },
+      {
+        "text": "B) share photos and videos",
+        "correct": false
+      },
+      {
+        "text": "C) find information online",
+        "correct": true
+      },
+      {
+        "text": "D) buy and sell goods",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "__________ _____ D. Charge",
+    "answers": [
+      {
+        "text": "Which of the following terms refers to information used to prove someone’s guilt or",
+        "correct": false
+      },
+      {
+        "text": "innocence?A. Rule",
+        "correct": false
+      },
+      {
+        "text": "B. Evidence",
+        "correct": true
+      },
+      {
+        "text": "C. Sentence",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A _____ D. Suspect",
+    "answers": [
+      {
+        "text": "________",
+        "correct": false
+      },
+      {
+        "text": "A. Witness",
+        "correct": false
+      },
+      {
+        "text": "B. Robber",
+        "correct": false
+      },
+      {
+        "text": "C. Vandal",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "is someone who damages property on purpose, often as a form of rebellion. _____ D. Jury",
+    "answers": [
+      {
+        "text": "When someone is formally accused of a crime, they are considered the",
+        "correct": false
+      },
+      {
+        "text": "A. Witness",
+        "correct": false
+      },
+      {
+        "text": "B. Accused",
+        "correct": true
+      },
+      {
+        "text": "C. Judge",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": ". _____ C. Right",
+    "answers": [
+      {
+        "text": "________",
+        "correct": false
+      },
+      {
+        "text": "The punishment for breaking a law is called a",
+        "correct": false
+      },
+      {
+        "text": "A. Sentence",
+        "correct": true
+      },
+      {
+        "text": "B. Decision",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D. Arrest _____ A. Solicitor",
+    "answers": [
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "________",
+        "correct": false
+      },
+      {
+        "text": "A",
+        "correct": false
+      },
+      {
+        "text": "________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B. Judge _____ A. Sentence",
+    "answers": [
+      {
+        "text": "C. Suspect",
+        "correct": false
+      },
+      {
+        "text": "D. Lawyer",
+        "correct": false
+      },
+      {
+        "text": "is responsible for deciding whether the accused is innocent or guilty in a trial.",
+        "correct": false
+      },
+      {
+        "text": "Which of the following is a type of punishment where the offender is executed?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B. Corporal punishment _____ A. Robber",
+    "answers": [
+      {
+        "text": "C. Capital punishment",
+        "correct": true
+      },
+      {
+        "text": "D. Verdict",
+        "correct": false
+      },
+      {
+        "text": "A",
+        "correct": false
+      },
+      {
+        "text": "________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B. Burglar _____ A. Witness",
+    "answers": [
+      {
+        "text": "C. Thief",
+        "correct": false
+      },
+      {
+        "text": "D. Lawyer",
+        "correct": false
+      },
+      {
+        "text": "is someone who enters a property illegally to steal.",
+        "correct": false
+      },
+      {
+        "text": "A person who observes an event but does not participate is a",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B. Bystander _____ .",
+    "answers": [
+      {
+        "text": "C. Prosecutor",
+        "correct": false
+      },
+      {
+        "text": "D. Solicitor",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      },
+      {
+        "text": "________A lawyer who advises clients but may not represent them in higher courts is called a",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "________ _____ To",
+    "answers": [
+      {
+        "text": "A. Solicitor",
+        "correct": true
+      },
+      {
+        "text": "B. Prosecutor",
+        "correct": false
+      },
+      {
+        "text": "C. Witness",
+        "correct": false
+      },
+      {
+        "text": "D. Burglar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "________ _____ a law means to fail to follow it.",
+    "answers": [
+      {
+        "text": "A. Commit",
+        "correct": false
+      },
+      {
+        "text": "B. Break",
+        "correct": true
+      },
+      {
+        "text": "C. Prosecute",
+        "correct": false
+      },
+      {
+        "text": "D. Persecute",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The police _____ ________",
+    "answers": [
+      {
+        "text": "A. Charge",
+        "correct": false
+      },
+      {
+        "text": "B. Arrest",
+        "correct": true
+      },
+      {
+        "text": "C. Imprison",
+        "correct": false
+      },
+      {
+        "text": "D. Sentence",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a suspect when they believe there is enough evidence of a crime. _____ D. Observing the trial",
+    "answers": [
+      {
+        "text": "What is the role of a prosecutor in a court case?",
+        "correct": false
+      },
+      {
+        "text": "A. Defending the accused",
+        "correct": false
+      },
+      {
+        "text": "B. Proving the guilt of the accused",
+        "correct": true
+      },
+      {
+        "text": "C. Acting as a witness",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Someone who steals without using violence is a _____ .",
+    "answers": [
+      {
+        "text": "A. Robber",
+        "correct": false
+      },
+      {
+        "text": "B. Burglar",
+        "correct": false
+      },
+      {
+        "text": "C. Thief",
+        "correct": true
+      },
+      {
+        "text": "D. Hooligan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "________ _____ D. Suspect",
+    "answers": [
+      {
+        "text": "Who determines the final verdict in a trial?",
+        "correct": false
+      },
+      {
+        "text": "A. Lawyer",
+        "correct": false
+      },
+      {
+        "text": "B. Judge",
+        "correct": true
+      },
+      {
+        "text": "C. Witness",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is the punishment for a serious crime, such as murder, in some countries? _____ A",
+    "answers": [
+      {
+        "text": "A. Corporal punishment",
+        "correct": false
+      },
+      {
+        "text": "B. Capital punishment",
+        "correct": true
+      },
+      {
+        "text": "C. Fine",
+        "correct": false
+      },
+      {
+        "text": "D. Probation",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "________ _____ enters a house illegally to steal items.What is the primary focus of social media?",
+    "answers": [
+      {
+        "text": "A. Robber",
+        "correct": false
+      },
+      {
+        "text": "B. Burglar",
+        "correct": true
+      },
+      {
+        "text": "C. Thief",
+        "correct": false
+      },
+      {
+        "text": "D. Lawyer",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A) Selling products _____ A) Twitter",
+    "answers": [
+      {
+        "text": "B) Communication, interaction, and content-sharing",
+        "correct": true
+      },
+      {
+        "text": "C) Monitoring news updates",
+        "correct": false
+      },
+      {
+        "text": "D) Playing online games",
+        "correct": false
+      },
+      {
+        "text": "Which of the following is NOT a general social media platform?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "B) Facebook _____ #B) To market products, promote brands, and connect with customers",
+    "answers": [
+      {
+        "text": "C) LinkedIn",
+        "correct": false
+      },
+      {
+        "text": "D) Google Drive",
+        "correct": true
+      },
+      {
+        "text": "How do businesses use social media?",
+        "correct": false
+      },
+      {
+        "text": "A) To reduce staff",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C) To replace customer service teams entirely _____ #C) It helps them build an audience and find fans",
+    "answers": [
+      {
+        "text": "D) To monitor their employees' personal lives",
+        "correct": false
+      },
+      {
+        "text": "How does social media help entrepreneurs and artists?",
+        "correct": false
+      },
+      {
+        "text": "A) It provides free equipment for their work",
+        "correct": false
+      },
+      {
+        "text": "B) It offers financial loans for business ideas",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D) It automatically makes their work go viral _____ D) Increased physical activity",
+    "answers": [
+      {
+        "text": "What mental health issues can excessive use of social media cause?",
+        "correct": false
+      },
+      {
+        "text": "A) Improved cognitive abilities",
+        "correct": false
+      },
+      {
+        "text": "B) Stress, addiction, and burnout",
+        "correct": true
+      },
+      {
+        "text": "C) Better communication skills",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Why is false information a concern on social media? _____ What productivity problem is associated with social media in the workplace?",
+    "answers": [
+      {
+        "text": "A) It increases engagement",
+        "correct": false
+      },
+      {
+        "text": "B) It spreads quickly within divided groups",
+        "correct": true
+      },
+      {
+        "text": "C) It is always easy to verify",
+        "correct": false
+      },
+      {
+        "text": "D) It is only shared by businesses",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A) It encourages workers to take on more tasks _____ her hair cut.",
+    "answers": [
+      {
+        "text": "B) It can distract workers and reduce efficiency",
+        "correct": true
+      },
+      {
+        "text": "C) It forces employees to communicate too much",
+        "correct": false
+      },
+      {
+        "text": "D) It decreases customer complaints",
+        "correct": false
+      },
+      {
+        "text": "\"Even though Olivia likes to keep her hair long, ____________________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\" _____ \"You may watch the television show",
+    "answers": [
+      {
+        "text": "A) Meanwhile",
+        "correct": false
+      },
+      {
+        "text": "B) Lastly",
+        "correct": false
+      },
+      {
+        "text": "C) Eventually",
+        "correct": true
+      },
+      {
+        "text": "she will need to getD) First",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "homework. _____ D) Lastly",
+    "answers": [
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "A) First",
+        "correct": false
+      },
+      {
+        "text": "B) As soon as",
+        "correct": true
+      },
+      {
+        "text": "C) Finally",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "____________________ you are finished with your _____ B) At last",
+    "answers": [
+      {
+        "text": "\"Linda was sound asleep in her bed when",
+        "correct": false
+      },
+      {
+        "text": "and woke up.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "A) Lastly",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#C) All of a sudden _____ ____________________",
+    "answers": [
+      {
+        "text": "D) Finally",
+        "correct": false
+      },
+      {
+        "text": "she heard a loud noise",
+        "correct": false
+      },
+      {
+        "text": "____________________",
+        "correct": false
+      },
+      {
+        "text": "\"First, Alisher's mother had to stop by the grocery store.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "they went _____ C) It started when",
+    "answers": [
+      {
+        "text": "home.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "A) After that",
+        "correct": true
+      },
+      {
+        "text": "B) In the first place",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "D) Firstly _____ D) Firstly",
+    "answers": [
+      {
+        "text": "\"Heather decided not to go to the party.",
+        "correct": false
+      },
+      {
+        "text": "A) As soon as",
+        "correct": false
+      },
+      {
+        "text": "B) Meanwhile",
+        "correct": false
+      },
+      {
+        "text": "C) Later on",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "____________________ _____ oven.",
+    "answers": [
+      {
+        "text": "she changed her mind.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "\"Let's play a game of cards",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#A) While _____ we wait for the apple pie to bake in the",
+    "answers": [
+      {
+        "text": "B) Soon",
+        "correct": false
+      },
+      {
+        "text": "C) When suddenly",
+        "correct": false
+      },
+      {
+        "text": "C) Later on",
+        "correct": false
+      },
+      {
+        "text": "____________________",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"I will go with you to the mall _____ ____________________",
+    "answers": [
+      {
+        "text": "A) Earlier",
+        "correct": false
+      },
+      {
+        "text": "B) Yet",
+        "correct": false
+      },
+      {
+        "text": "C) Once",
+        "correct": true
+      },
+      {
+        "text": "D) During",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I finish doing my chores. _____ A) Moments later",
+    "answers": [
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "\"It took me a long time to learn how to knit a scarf.",
+        "correct": false
+      },
+      {
+        "text": "much better at it.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#B) Finally _____ b) To finish using a computer system",
+    "answers": [
+      {
+        "text": "C) Formerly",
+        "correct": false
+      },
+      {
+        "text": "D) Firstly",
+        "correct": false
+      },
+      {
+        "text": "____________________, I have becomeWhat does “hack into” mean?",
+        "correct": false
+      },
+      {
+        "text": "a) To connect two devices",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#c) To enter someone’s computer illegally _____ c) To connect a device to a network",
+    "answers": [
+      {
+        "text": "d) To type information into a computer",
+        "correct": false
+      },
+      {
+        "text": "What does “log out” mean?",
+        "correct": false
+      },
+      {
+        "text": "a) To begin using a computer system",
+        "correct": false
+      },
+      {
+        "text": "b) To finish using a computer system",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d) To enter information using a keyboard _____ d) Key in",
+    "answers": [
+      {
+        "text": "Which phrase means “to connect two devices”?",
+        "correct": false
+      },
+      {
+        "text": "a) Hook up",
+        "correct": true
+      },
+      {
+        "text": "b) Hack into",
+        "correct": false
+      },
+      {
+        "text": "c) Log in",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What does “key in” mean? _____ Which phrase means “to begin using a computer system”?",
+    "answers": [
+      {
+        "text": "a) To connect devices together",
+        "correct": false
+      },
+      {
+        "text": "b) To enter information using a keyboard",
+        "correct": true
+      },
+      {
+        "text": "c) To manage network connections",
+        "correct": false
+      },
+      {
+        "text": "d) To hack into a network",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) Hook up _____ #a) Local Area Network",
+    "answers": [
+      {
+        "text": "b) Key in",
+        "correct": false
+      },
+      {
+        "text": "c) Log out",
+        "correct": false
+      },
+      {
+        "text": "d) Log in",
+        "correct": true
+      },
+      {
+        "text": "What does LAN stand for?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) Large Access Network _____ #b) The internet",
+    "answers": [
+      {
+        "text": "c) Limited Area Network",
+        "correct": false
+      },
+      {
+        "text": "d) Long Access Network",
+        "correct": false
+      },
+      {
+        "text": "What is the largest WAN in the world?",
+        "correct": false
+      },
+      {
+        "text": "a) A city-wide network",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c) A school network _____ c) They work only in large cities.",
+    "answers": [
+      {
+        "text": "d) A home network",
+        "correct": false
+      },
+      {
+        "text": "Why are networks important?",
+        "correct": false
+      },
+      {
+        "text": "a) They allow devices to work independently.",
+        "correct": false
+      },
+      {
+        "text": "b) They let people share information and devices.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d) They are used only in schools and offices.Which of the following devices manages network connections? _____ How do devices connect in a network?",
+    "answers": [
+      {
+        "text": "a) Printer",
+        "correct": false
+      },
+      {
+        "text": "b) Router",
+        "correct": true
+      },
+      {
+        "text": "c) Keyboard",
+        "correct": false
+      },
+      {
+        "text": "d) Monitor",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#a) Through cables or Wi-Fi _____ a) -less",
+    "answers": [
+      {
+        "text": "b) Only with printers",
+        "correct": false
+      },
+      {
+        "text": "c) By using mobile phones only",
+        "correct": false
+      },
+      {
+        "text": "d) Through routers without cables",
+        "correct": false
+      },
+      {
+        "text": "Which suffix means “full of something”?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) -ous _____ a) Full of something",
+    "answers": [
+      {
+        "text": "c) -ful",
+        "correct": true
+      },
+      {
+        "text": "d) -ive",
+        "correct": false
+      },
+      {
+        "text": "What does the suffix “",
+        "correct": false
+      },
+      {
+        "text": "-ish” mean?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) Without something _____ #b) -al",
+    "answers": [
+      {
+        "text": "c) Similar to or somewhat like",
+        "correct": true
+      },
+      {
+        "text": "d) Tending to something",
+        "correct": false
+      },
+      {
+        "text": "Which of the following creates an adjective meaning “relating to something”?",
+        "correct": false
+      },
+      {
+        "text": "a) -less",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c) -y _____ #b) Having the quality of something",
+    "answers": [
+      {
+        "text": "d) -ous",
+        "correct": false
+      },
+      {
+        "text": "What does the suffix “",
+        "correct": false
+      },
+      {
+        "text": "-ous” mean?",
+        "correct": false
+      },
+      {
+        "text": "a) Pertaining to something",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c) Without something _____ c) -ish",
+    "answers": [
+      {
+        "text": "d) Tending to something",
+        "correct": false
+      },
+      {
+        "text": "Which suffix would you use to describe “can be done or possible”?",
+        "correct": false
+      },
+      {
+        "text": "a) -able",
+        "correct": true
+      },
+      {
+        "text": "b) -ful",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "d) -ent _____ d) A remote-controlled flying deviceWhat is a tablet?",
+    "answers": [
+      {
+        "text": "What is a smartphone?",
+        "correct": false
+      },
+      {
+        "text": "a) A wearable device for fitness tracking",
+        "correct": false
+      },
+      {
+        "text": "b) A mobile device that combines cellular and computing functions",
+        "correct": true
+      },
+      {
+        "text": "c) A camera for capturing photographs",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) A personal computer designed for home use _____ #a) It tracks your fitness and shows notifications",
+    "answers": [
+      {
+        "text": "b) A flat, portable computer that’s touchscreen operated",
+        "correct": true
+      },
+      {
+        "text": "c) A game console for video games",
+        "correct": false
+      },
+      {
+        "text": "d) A wearable fitness tracker",
+        "correct": false
+      },
+      {
+        "text": "What does a smartwatch do?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) It helps you take photographs _____ #b) A portable computer that folds open to expose a screen and keyboard",
+    "answers": [
+      {
+        "text": "c) It is used for playing video games",
+        "correct": false
+      },
+      {
+        "text": "d) It is used to control home appliances",
+        "correct": false
+      },
+      {
+        "text": "What is the purpose of a laptop?",
+        "correct": false
+      },
+      {
+        "text": "a) A device for reading e-books",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c) A personal computer for home use _____ #c) To fit comfortably on top of a desk",
+    "answers": [
+      {
+        "text": "d) A speaker for music",
+        "correct": false
+      },
+      {
+        "text": "What is a desktop computer designed for?",
+        "correct": false
+      },
+      {
+        "text": "a) Easy portability",
+        "correct": false
+      },
+      {
+        "text": "b) Use while traveling",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "d) Monitoring physical activity _____ d) Tracking fitness",
+    "answers": [
+      {
+        "text": "What is a VR headset used for?",
+        "correct": false
+      },
+      {
+        "text": "a) Playing video games",
+        "correct": false
+      },
+      {
+        "text": "b) Watching television",
+        "correct": false
+      },
+      {
+        "text": "c) Providing virtual reality experiences",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What is an e-reader used for? _____ What is a drone?",
+    "answers": [
+      {
+        "text": "a) Playing video games",
+        "correct": false
+      },
+      {
+        "text": "b) Reading e-books and newspapers",
+        "correct": true
+      },
+      {
+        "text": "c) Streaming music",
+        "correct": false
+      },
+      {
+        "text": "d) Capturing photographs",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) A device for fitness tracking _____ #a) To play video games",
+    "answers": [
+      {
+        "text": "b) A device for reading e-books",
+        "correct": false
+      },
+      {
+        "text": "c) A remote-controlled flying device, often with a camera",
+        "correct": true
+      },
+      {
+        "text": "d) A device for gaming",
+        "correct": false
+      },
+      {
+        "text": "What is the primary function of a game console?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) To monitor health _____ c) Tracks your fitness",
+    "answers": [
+      {
+        "text": "c) To take photos",
+        "correct": false
+      },
+      {
+        "text": "d) To send emailsWhat does a smart speaker do?",
+        "correct": false
+      },
+      {
+        "text": "a) Plays music and answers questions",
+        "correct": true
+      },
+      {
+        "text": "b) Takes photographs",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "d) Provides virtual reality experiences _____ d) A device for playing video games",
+    "answers": [
+      {
+        "text": "What is a wearable fitness tracker?",
+        "correct": false
+      },
+      {
+        "text": "a) A camera for capturing photographs",
+        "correct": false
+      },
+      {
+        "text": "b) A device that tracks physical activity and health metrics",
+        "correct": true
+      },
+      {
+        "text": "c) A portable computer",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is a digital camera used for? _____ Which network topology connects every node in series along a single cable?",
+    "answers": [
+      {
+        "text": "a) Tracking fitness",
+        "correct": false
+      },
+      {
+        "text": "b) Capturing photographs in digital format",
+        "correct": true
+      },
+      {
+        "text": "c) Streaming music",
+        "correct": false
+      },
+      {
+        "text": "d) Providing virtual reality experiences",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) Star network _____ a) Bus network",
+    "answers": [
+      {
+        "text": "b) Bus network",
+        "correct": true
+      },
+      {
+        "text": "c) Mesh network",
+        "correct": false
+      },
+      {
+        "text": "d) Ring network",
+        "correct": false
+      },
+      {
+        "text": "In which network topology does a central hub connect to all other nodes?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b) Star network _____ #b) It links nodes with multiple paths for redundancy.",
+    "answers": [
+      {
+        "text": "c) Ring network",
+        "correct": false
+      },
+      {
+        "text": "d) Mesh network",
+        "correct": false
+      },
+      {
+        "text": "What is the function of a mesh network?",
+        "correct": false
+      },
+      {
+        "text": "a) It connects nodes through a single path.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c) It connects nodes in a star configuration. _____ #a) has been completed",
+    "answers": [
+      {
+        "text": "d) It uses a central hub to manage data flow.",
+        "correct": false
+      },
+      {
+        "text": "The project",
+        "correct": false
+      },
+      {
+        "text": "__",
+        "correct": false
+      },
+      {
+        "text": "by the group of students.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) have been completed _____ b) have been",
+    "answers": [
+      {
+        "text": "c) is completed",
+        "correct": false
+      },
+      {
+        "text": "d) will be completed",
+        "correct": false
+      },
+      {
+        "text": "Her kitchen furniture",
+        "correct": false
+      },
+      {
+        "text": "a) was",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "c) is being _____ a) Is",
+    "answers": [
+      {
+        "text": "d) will be",
+        "correct": false
+      },
+      {
+        "text": "delivered to her home.",
+        "correct": false
+      },
+      {
+        "text": "__the hall been decorated for New Year?",
+        "correct": false
+      },
+      {
+        "text": "__",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) Will _____ #b) have been",
+    "answers": [
+      {
+        "text": "c) Has",
+        "correct": true
+      },
+      {
+        "text": "d) Have",
+        "correct": false
+      },
+      {
+        "text": "The documents",
+        "correct": false
+      },
+      {
+        "text": "a) has been",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c) are _____ __",
+    "answers": [
+      {
+        "text": "d) will be",
+        "correct": false
+      },
+      {
+        "text": "__",
+        "correct": false
+      },
+      {
+        "text": "signed by the director.",
+        "correct": false
+      },
+      {
+        "text": "The program",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "by the team this month. _____ A new app __",
+    "answers": [
+      {
+        "text": "a) has been finished",
+        "correct": true
+      },
+      {
+        "text": "b) have been finished",
+        "correct": false
+      },
+      {
+        "text": "c) is finished",
+        "correct": false
+      },
+      {
+        "text": "d) be finished",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) has been _____ The journal",
+    "answers": [
+      {
+        "text": "b) have been",
+        "correct": false
+      },
+      {
+        "text": "c) will be",
+        "correct": true
+      },
+      {
+        "text": "d) is being",
+        "correct": false
+      },
+      {
+        "text": "developed for the marketing company.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#a) has been _____ the results of the exam be announced tomorrow?",
+    "answers": [
+      {
+        "text": "b) have been",
+        "correct": false
+      },
+      {
+        "text": "c) is being",
+        "correct": false
+      },
+      {
+        "text": "d) will be",
+        "correct": false
+      },
+      {
+        "text": "__ published recently.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "__ _____ The project",
+    "answers": [
+      {
+        "text": "a) Will",
+        "correct": true
+      },
+      {
+        "text": "b) Has",
+        "correct": false
+      },
+      {
+        "text": "c) Are",
+        "correct": false
+      },
+      {
+        "text": "d) Have",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "__ _____ finished by next week.",
+    "answers": [
+      {
+        "text": "a) will be",
+        "correct": true
+      },
+      {
+        "text": "b) has been",
+        "correct": false
+      },
+      {
+        "text": "c) is being",
+        "correct": false
+      },
+      {
+        "text": "d) have been",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The invitations _____ d) have been delivered",
+    "answers": [
+      {
+        "text": "__",
+        "correct": false
+      },
+      {
+        "text": "a) is being delivered",
+        "correct": false
+      },
+      {
+        "text": "b) has been delivered",
+        "correct": false
+      },
+      {
+        "text": "c) will be delivered",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "next Monday.His car _____ #d) will be",
+    "answers": [
+      {
+        "text": "__",
+        "correct": false
+      },
+      {
+        "text": "a) was",
+        "correct": false
+      },
+      {
+        "text": "b) has been",
+        "correct": false
+      },
+      {
+        "text": "c) is being",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "repaired tomorrow morning. _____ d) was",
+    "answers": [
+      {
+        "text": "Our office building __",
+        "correct": false
+      },
+      {
+        "text": "a) has been",
+        "correct": false
+      },
+      {
+        "text": "b) will be",
+        "correct": true
+      },
+      {
+        "text": "c) is being",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "constructed next year. _____ d) was",
+    "answers": [
+      {
+        "text": "The announcement",
+        "correct": false
+      },
+      {
+        "text": "a) will be",
+        "correct": true
+      },
+      {
+        "text": "b) has been",
+        "correct": false
+      },
+      {
+        "text": "c) is being",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "__ _____ #b) has not been sent",
+    "answers": [
+      {
+        "text": "sent to the participants soon.",
+        "correct": false
+      },
+      {
+        "text": "The parcel",
+        "correct": false
+      },
+      {
+        "text": "__ yet.",
+        "correct": false
+      },
+      {
+        "text": "a) will not be sent",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c) is being sent _____ c) is being",
+    "answers": [
+      {
+        "text": "d) will not have been sent",
+        "correct": false
+      },
+      {
+        "text": "The new policy __",
+        "correct": false
+      },
+      {
+        "text": "a) will be",
+        "correct": true
+      },
+      {
+        "text": "b) has been",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "d) was _____ c) A fitness tracker",
+    "answers": [
+      {
+        "text": "accomplished in March.",
+        "correct": false
+      },
+      {
+        "text": "What is an example of Artificial Intelligence?",
+        "correct": false
+      },
+      {
+        "text": "a) A smart refrigerator",
+        "correct": false
+      },
+      {
+        "text": "b) A self-driving car",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d) A thermostat _____ d) By controlling the internet",
+    "answers": [
+      {
+        "text": "How can smart homes save energy?",
+        "correct": false
+      },
+      {
+        "text": "a) By using more electricity",
+        "correct": false
+      },
+      {
+        "text": "b) By turning off devices when they’re not needed",
+        "correct": true
+      },
+      {
+        "text": "c) By working all the time",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What does IoT stand for? _____ #a) It can remind you to buy food.",
+    "answers": [
+      {
+        "text": "a) Internet of Technology",
+        "correct": false
+      },
+      {
+        "text": "b) Internet of Things",
+        "correct": true
+      },
+      {
+        "text": "c) Intelligent Online Tools",
+        "correct": false
+      },
+      {
+        "text": "d) Information Over TechnologyHow can a smart fridge help you?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) It can connect to your car. _____ b) To make cars faster",
+    "answers": [
+      {
+        "text": "c) It can track your fitness.",
+        "correct": false
+      },
+      {
+        "text": "d) It can clean the kitchen.",
+        "correct": false
+      },
+      {
+        "text": "Where is AI used in education?",
+        "correct": false
+      },
+      {
+        "text": "a) To create personalized learning programs",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "c) To track fitness levels _____ c) Devices are hard to control.",
+    "answers": [
+      {
+        "text": "d) To connect home devices",
+        "correct": false
+      },
+      {
+        "text": "Why is privacy a concern with smart technology?",
+        "correct": false
+      },
+      {
+        "text": "a) Devices use too much electricity.",
+        "correct": false
+      },
+      {
+        "text": "b) Devices collect personal information.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "d) Devices cannot connect to the internet. _____ d) Construction",
+    "answers": [
+      {
+        "text": "Which industry uses IoT to monitor crops?",
+        "correct": false
+      },
+      {
+        "text": "a) Education",
+        "correct": false
+      },
+      {
+        "text": "b) Farming",
+        "correct": true
+      },
+      {
+        "text": "c) Healthcare",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What is a benefit of smart homes? _____ What does AI do in healthcare?",
+    "answers": [
+      {
+        "text": "a) They save energy and money.",
+        "correct": true
+      },
+      {
+        "text": "b) They replace smartphones.",
+        "correct": false
+      },
+      {
+        "text": "c) They work without electricity.",
+        "correct": false
+      },
+      {
+        "text": "d) They cannot be hacked.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "a) It connects devices to the internet. _____ a) It makes devices too expensive.",
+    "answers": [
+      {
+        "text": "b) It diagnoses diseases faster.",
+        "correct": true
+      },
+      {
+        "text": "c) It saves energy.",
+        "correct": false
+      },
+      {
+        "text": "d) It builds hospitals.",
+        "correct": false
+      },
+      {
+        "text": "Why do some people worry about automation?",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b) It creates too many new jobs. _____ a.",
+    "answers": [
+      {
+        "text": "c) It could replace human jobs.",
+        "correct": true
+      },
+      {
+        "text": "d) It stops technology from working.",
+        "correct": false
+      },
+      {
+        "text": "Main Idea: \"Eating healthy is important for your body.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b. _____ \"",
+    "answers": [
+      {
+        "text": "c.",
+        "correct": false
+      },
+      {
+        "text": "\"Healthy food tastes good.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "\"In conclusion, eating healthy food keeps you strong and gives you energy to enjoy life.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"Junk food is not good. _____ \"",
+    "answers": [
+      {
+        "text": "\"Main Idea: \"Teamwork is necessary for success.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "a.",
+        "correct": false
+      },
+      {
+        "text": "\"Working in teams is fun.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "#b. _____ \"",
+    "answers": [
+      {
+        "text": "\"To sum up, teamwork helps people share ideas and work better to achieve their goals.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "c.",
+        "correct": false
+      },
+      {
+        "text": "\"Teams are big groups of people.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Main Idea: \"Saving money is a smart habit. _____ #b.",
+    "answers": [
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "a.",
+        "correct": false
+      },
+      {
+        "text": "\"Money is important.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"In conclusion, saving money helps you prepare for emergencies and plan for a better _____ \"",
+    "answers": [
+      {
+        "text": "future.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "c.",
+        "correct": false
+      },
+      {
+        "text": "\"Spend less money.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Main Idea: \"Traveling teaches you about other cultures. _____ #b.",
+    "answers": [
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "a.",
+        "correct": false
+      },
+      {
+        "text": "\"Traveling is expensive.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"To sum up, traveling helps you learn about new cultures, try different foods, and meet _____ \"",
+    "answers": [
+      {
+        "text": "new people.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "c.",
+        "correct": false
+      },
+      {
+        "text": "\"Many people like to travel.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Main Idea: \"Volunteering makes communities better. _____ \"",
+    "answers": [
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "a.",
+        "correct": true
+      },
+      {
+        "text": "\"In conclusion, volunteering helps people in need and brings communities closer",
+        "correct": false
+      },
+      {
+        "text": "together.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "b. _____ \"",
+    "answers": [
+      {
+        "text": "\"Volunteering is fun.",
+        "correct": false
+      },
+      {
+        "text": "\"",
+        "correct": false
+      },
+      {
+        "text": "c.",
+        "correct": false
+      },
+      {
+        "text": "\"Helping others is important.",
+        "correct": false
+      }
+    ]
+  }
+]
