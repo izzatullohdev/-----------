@@ -1,0 +1,1115 @@
+[
+  {
+    "question": "z = 3 + 4i va  z' = 1 - 2i larning yig'indisi nima bo'ladi?",
+    "answers": [
+      {
+        "text": "4+6i",
+        "correct": false
+      },
+      {
+        "text": "4+2i",
+        "correct": true
+      },
+      {
+        "text": "2+2i",
+        "correct": false
+      },
+      {
+        "text": "4+i",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kompleks sonning modulini toping: z=3+4i",
+    "answers": [
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quyidagi kompleks sonlarni z=2+3i va z′=1−i larning ko'paytmasini toping?",
+    "answers": [
+      {
+        "text": "5+i",
+        "correct": true
+      },
+      {
+        "text": "4+2i",
+        "correct": false
+      },
+      {
+        "text": "2+2i",
+        "correct": false
+      },
+      {
+        "text": "4+i",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quyidagi kompleks sonlarni z=4+2i va z′=1−i larning bo'linmasi nimaga teng?",
+    "answers": [
+      {
+        "text": "2−i",
+        "correct": true
+      },
+      {
+        "text": "4+2i",
+        "correct": false
+      },
+      {
+        "text": "2+2i",
+        "correct": false
+      },
+      {
+        "text": "4+i",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatori nima uchun ishlatiladi?",
+    "answers": [
+      {
+        "text": "Matematika va fizikada to'lqinlarni va signallarni tahlil qilish uchun",
+        "correct": true
+      },
+      {
+        "text": "Faqat musiqiy tonlarni yaratish uchun",
+        "correct": false
+      },
+      {
+        "text": "Yalpi fizik qonunlarni izohlash uchun",
+        "correct": false
+      },
+      {
+        "text": "Faqat geometrik shakllarni o'rganish uchun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatori nima uchun ishlatiladi?",
+    "answers": [
+      {
+        "text": "Matematika va fizikada to'lqinlarni va signallarni tahlil qilish uchun",
+        "correct": true
+      },
+      {
+        "text": "Faqat musiqiy tonlarni yaratish uchun",
+        "correct": false
+      },
+      {
+        "text": "Yalpi fizik qonunlarni izohlash uchun",
+        "correct": false
+      },
+      {
+        "text": "Faqat geometrik shakllarni o'rganish uchun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatoridagi koeffitsiyentlarini qanday hisoblash mumkin?",
+    "answers": [
+      {
+        "text": "Integrallar yordamida",
+        "correct": true
+      },
+      {
+        "text": "Faoliyatlar yordamida",
+        "correct": false
+      },
+      {
+        "text": "Faqat yodlash orqali",
+        "correct": false
+      },
+      {
+        "text": "Grafiklar yordamida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatorining asosiy maqsadi nima?",
+    "answers": [
+      {
+        "text": "Funksiyalarni sinusoida va kosinusoida qismlariga ajratish",
+        "correct": true
+      },
+      {
+        "text": "Ikkita sonni bir-biriga bo'lish",
+        "correct": false
+      },
+      {
+        "text": "Yuzaning ichki qismlarini topish",
+        "correct": false
+      },
+      {
+        "text": "Faqat turli diagrammalarni yasash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatoridagi alfa nol harfi nima ifodalaydi?",
+    "answers": [
+      {
+        "text": "Funksiyaning o'rtacha qiymatini",
+        "correct": true
+      },
+      {
+        "text": "To'liq amplitudani",
+        "correct": false
+      },
+      {
+        "text": "Kosinus funksiyasini",
+        "correct": false
+      },
+      {
+        "text": "Sinus funksiyasini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatorlari nima uchun signalni tahlil qilishda ishlatiladi?",
+    "answers": [
+      {
+        "text": "To'lqinlarning chastotasi va fazasini aniqlash uchun",
+        "correct": true
+      },
+      {
+        "text": "Faqat signalning amplitudasini oshirish uchun",
+        "correct": false
+      },
+      {
+        "text": "Yalpi energiya hisoblash uchun",
+        "correct": false
+      },
+      {
+        "text": "Faqat ma'lumotlarni kompressiya qilish uchun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatori musiqa signallarini tahlil qilishda qanday yordam beradi?",
+    "answers": [
+      {
+        "text": "Musiqiy tonlarni sinusoida va kosinusoida ajratish orqali",
+        "correct": true
+      },
+      {
+        "text": "Musiqaning uzunligini o'lchash orqali",
+        "correct": false
+      },
+      {
+        "text": "Musiqa tezligini hisoblash orqali",
+        "correct": false
+      },
+      {
+        "text": "Musiqa yorqinligini oshirish orqali",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatorlarining birinchi tatbiqi qaysi sohada ishlatilgan?",
+    "answers": [
+      {
+        "text": "Elektronika va signalni uzatish",
+        "correct": true
+      },
+      {
+        "text": "Tibbiyot sohasida",
+        "correct": false
+      },
+      {
+        "text": "Qishloq xo'jaligida",
+        "correct": false
+      },
+      {
+        "text": "Arxitektura va dizayn sohasida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Furye qatorlari qanday usulda tasvirlar va video fayllarni tahlil qilishda qo'llaniladi?",
+    "answers": [
+      {
+        "text": "To'lqinlarni ajratish va kompressiya qilish orqali",
+        "correct": true
+      },
+      {
+        "text": "Faqat ranglarni ajratish orqali",
+        "correct": false
+      },
+      {
+        "text": "Tasvirlarni kattalashtirish orqali",
+        "correct": false
+      },
+      {
+        "text": "Tasvirlarni rasmga aylantirish orqali",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fazodagi egri chiziq qanday beriladi?",
+    "answers": [
+      {
+        "text": "Vektor funksiyasi yordamida",
+        "correct": true
+      },
+      {
+        "text": "Oddiy algebraik tenglama orqali",
+        "correct": false
+      },
+      {
+        "text": "Matritsalar orqali",
+        "correct": false
+      },
+      {
+        "text": "Doimiy vektor yordamida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vektor funksiyaning hosilasi fizikada nimani bildiradi?",
+    "answers": [
+      {
+        "text": "Harakat qilayotgan nuqtaning tezligini",
+        "correct": true
+      },
+      {
+        "text": "Yo‘nalishni o‘zgartirishni",
+        "correct": false
+      },
+      {
+        "text": "Kuchni o‘lchashni",
+        "correct": false
+      },
+      {
+        "text": "Aylanish burchagini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vektor funksiyaning integrali fizikada ko‘pincha nimani anglatadi?",
+    "answers": [
+      {
+        "text": "Bosib o‘tilgan yo‘lni",
+        "correct": true
+      },
+      {
+        "text": "Chastotani",
+        "correct": false
+      },
+      {
+        "text": "Og‘irlik kuchini",
+        "correct": false
+      },
+      {
+        "text": "Doiraviy harakatni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Egrilik nimani o‘lchaydi?",
+    "answers": [
+      {
+        "text": "Egri chiziqning qanday darajada bukilganini",
+        "correct": true
+      },
+      {
+        "text": "Chiziqning uzunligini",
+        "correct": false
+      },
+      {
+        "text": "Tezlikni",
+        "correct": false
+      },
+      {
+        "text": "Nuqtaning og‘irligini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ikki o‘zgaruvchili funksiyaning grafigi qanday fazoda tasvirlanadi?",
+    "answers": [
+      {
+        "text": "Uch o‘lchovli fazoda (3D)",
+        "correct": true
+      },
+      {
+        "text": "Ikki o‘lchovli fazoda (2D)",
+        "correct": false
+      },
+      {
+        "text": "Vaqt o‘qi bilan",
+        "correct": false
+      },
+      {
+        "text": "Raqamli koordinata sistemada",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xususiy hosila nima?",
+    "answers": [
+      {
+        "text": "Faqat bitta o‘zgaruvchiga nisbatan olinadigan hosila",
+        "correct": true
+      },
+      {
+        "text": "To‘liq hosilaning kvadrati",
+        "correct": false
+      },
+      {
+        "text": "Funksiya grafigining yuqori chekkasi",
+        "correct": false
+      },
+      {
+        "text": "Integralning teskari shakli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aralash xususiy hosilalar haqida qaysi teorema to‘g‘ri?",
+    "answers": [
+      {
+        "text": "Agar hosilalar uzluksiz bo‘lsa, aralash hosilalar teng bo‘ladi",
+        "correct": true
+      },
+      {
+        "text": "Har doim aralash hosilalar teng emas",
+        "correct": false
+      },
+      {
+        "text": "Faqat x ga nisbatan hosila olinadi",
+        "correct": false
+      },
+      {
+        "text": "Hosila olishda integral kerak bo‘ladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar f(x,y) funksiyaning to‘la differensiali mavjud bo‘lsa, bu nimani bildiradi?",
+    "answers": [
+      {
+        "text": "Funksiya har ikki yo‘nalishda differensiallanadi",
+        "correct": true
+      },
+      {
+        "text": "Funksiya faqat x bo‘yicha o‘zgaradi",
+        "correct": false
+      },
+      {
+        "text": "Funksiya grafigi doira shaklida bo‘ladi",
+        "correct": false
+      },
+      {
+        "text": "Funksiya har doim nolga teng",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ekstremumni aniqlashda foydalaniladigan ikkinchi tartibli hosilalar asosida tuziladigan ifoda qanday ataladi?",
+    "answers": [
+      {
+        "text": "Diskriminant (yoki ikkinchi hosilalar determinanti)",
+        "correct": true
+      },
+      {
+        "text": "Gradient",
+        "correct": false
+      },
+      {
+        "text": "Divergensiya",
+        "correct": false
+      },
+      {
+        "text": "Integral",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ikki karrali integralning geometrik ma'nosi nima?",
+    "answers": [
+      {
+        "text": "Funksiya ostidagi hajmni ifodalaydi",
+        "correct": true
+      },
+      {
+        "text": "Egri chiziq uzunligini topadi",
+        "correct": false
+      },
+      {
+        "text": "Vektor hosilasini beradi",
+        "correct": false
+      },
+      {
+        "text": "Massani topadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar integrallash sohasi to‘g‘ri to‘rtburchak bo‘lsa, ikki karrali integral qanday hisoblanadi?",
+    "answers": [
+      {
+        "text": "Ketma-ket oddiy ikki integral sifatida",
+        "correct": true
+      },
+      {
+        "text": "Faqat grafigini chizish orqali",
+        "correct": false
+      },
+      {
+        "text": "Hosila olish orqali",
+        "correct": false
+      },
+      {
+        "text": "Limit topish orqali",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ikki karrali integral fizikada nimani ifodalashi mumkin?",
+    "answers": [
+      {
+        "text": "Yuzaga taqsimlangan massani",
+        "correct": true
+      },
+      {
+        "text": "Chastotani",
+        "correct": false
+      },
+      {
+        "text": "Tezlikni",
+        "correct": false
+      },
+      {
+        "text": "Egrilikni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uch karrali integral orqali quyidagilardan qaysi biri hisoblanmaydi?",
+    "answers": [
+      {
+        "text": "Egri chiziq uzunligi",
+        "correct": true
+      },
+      {
+        "text": "Hajm",
+        "correct": false
+      },
+      {
+        "text": "Massaning taqsimoti",
+        "correct": false
+      },
+      {
+        "text": "Zichlik bo‘yicha umumiy massa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar fazoviy soha to‘g‘ri paralelepiped shaklida bo‘lsa, uch karrali integral qanday hisoblanadi?",
+    "answers": [
+      {
+        "text": "Oddiy ketma-ket integrallar orqali",
+        "correct": true
+      },
+      {
+        "text": "Faqat chiziqli algebra yordamida",
+        "correct": false
+      },
+      {
+        "text": "Cheksiz limit orqali",
+        "correct": false
+      },
+      {
+        "text": "Matritsa determinantidan foydalangan holda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(2+3i)(1-i) kompleks sonning mavhum qismini toping?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": true
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "-1",
+        "correct": false
+      },
+      {
+        "text": "-5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1+3i)(2+i)+(-2+i)(3-i) ifodaning qiymatini toping?",
+    "answers": [
+      {
+        "text": "-6+12i",
+        "correct": true
+      },
+      {
+        "text": "5-11i",
+        "correct": false
+      },
+      {
+        "text": "6-12i",
+        "correct": false
+      },
+      {
+        "text": "8-4i",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(2-i)/(1-2i) kompleks sonning mavhum qismini toping?",
+    "answers": [
+      {
+        "text": "1/5",
+        "correct": false
+      },
+      {
+        "text": "3/5",
+        "correct": true
+      },
+      {
+        "text": "-1/5",
+        "correct": false
+      },
+      {
+        "text": "2/5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(2+3i)(1-i) kompleks sonning haqiqiy qismini toping?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "-1",
+        "correct": false
+      },
+      {
+        "text": "-5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(2-i)/(1-2i) kompleks sonning haqiqiy qismini toping?",
+    "answers": [
+      {
+        "text": "1/5",
+        "correct": false
+      },
+      {
+        "text": "4/5",
+        "correct": true
+      },
+      {
+        "text": "-1/5",
+        "correct": false
+      },
+      {
+        "text": "2/5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1+i)(-2+2i) kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "π",
+        "correct": true
+      },
+      {
+        "text": "-π",
+        "correct": false
+      },
+      {
+        "text": "π/2",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "1+i kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "π/4",
+        "correct": true
+      },
+      {
+        "text": "-π/4",
+        "correct": false
+      },
+      {
+        "text": "π/2",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "-2+2i kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "3π/4",
+        "correct": true
+      },
+      {
+        "text": "-π/4",
+        "correct": false
+      },
+      {
+        "text": "π/2",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "-3-4i kompleks sonning modulini toping",
+    "answers": [
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "-5",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(4+3i)+(-2-3i) kompleks sonni modulini toping",
+    "answers": [
+      {
+        "text": "7",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(12+3i) kompleks sonni mavhum qismini toping?",
+    "answers": [
+      {
+        "text": "3",
+        "correct": true
+      },
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "-12",
+        "correct": false
+      },
+      {
+        "text": "-3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(12+3i) kompleks sonni haqiqiy qismini toping?",
+    "answers": [
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": true
+      },
+      {
+        "text": "-12",
+        "correct": false
+      },
+      {
+        "text": "-3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1+3i)(2+i)+(-2+i)(3-i) kompleks sonni haqiqiy qismini toping?",
+    "answers": [
+      {
+        "text": "12",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "-6",
+        "correct": true
+      },
+      {
+        "text": "-12",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1+3i)(2+i)+(-2+i)(3-i) kompleks sonni mavhum qismini toping?",
+    "answers": [
+      {
+        "text": "12",
+        "correct": true
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "-6",
+        "correct": false
+      },
+      {
+        "text": "-12",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(2-i)/(1-2i) kompleks sonni haqiqiy qismini toping?",
+    "answers": [
+      {
+        "text": "1/5",
+        "correct": false
+      },
+      {
+        "text": "4/5",
+        "correct": true
+      },
+      {
+        "text": "-1/5",
+        "correct": false
+      },
+      {
+        "text": "2/5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1+i)(-2+2i) kompleks sonning argument nimaga teng?",
+    "answers": [
+      {
+        "text": "π",
+        "correct": true
+      },
+      {
+        "text": "-π",
+        "correct": false
+      },
+      {
+        "text": "π/2",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1+i) kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "π/4",
+        "correct": true
+      },
+      {
+        "text": "-π/4",
+        "correct": false
+      },
+      {
+        "text": "π/2",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(-2+2i) kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "3π/4",
+        "correct": true
+      },
+      {
+        "text": "-π/4",
+        "correct": false
+      },
+      {
+        "text": "π/2",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1-i) kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "3π/4",
+        "correct": false
+      },
+      {
+        "text": "-π/4",
+        "correct": true
+      },
+      {
+        "text": "π/2",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1-3i) kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "arctg3",
+        "correct": false
+      },
+      {
+        "text": "-arctg3",
+        "correct": true
+      },
+      {
+        "text": "π/2",
+        "correct": false
+      },
+      {
+        "text": "0",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(1+3i) kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "arctg3",
+        "correct": true
+      },
+      {
+        "text": "-arctg3",
+        "correct": false
+      },
+      {
+        "text": "arctg1/3",
+        "correct": false
+      },
+      {
+        "text": "-arctg1/3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(2-3i) kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "arctg3/2",
+        "correct": false
+      },
+      {
+        "text": "-arctg3/2",
+        "correct": true
+      },
+      {
+        "text": "arctg2/3",
+        "correct": false
+      },
+      {
+        "text": "-arctg2/3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(2+3i) kompleks sonning argumenti nimaga teng?",
+    "answers": [
+      {
+        "text": "arctg3/2",
+        "correct": true
+      },
+      {
+        "text": "-arctg3/2",
+        "correct": false
+      },
+      {
+        "text": "arctg2/3",
+        "correct": false
+      },
+      {
+        "text": "-arctg2/3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(2-i)/(1-2i) kompleks sonning modulini toping.",
+    "answers": [
+      {
+        "text": "5/4",
+        "correct": false
+      },
+      {
+        "text": "4/5",
+        "correct": false
+      },
+      {
+        "text": "1",
+        "correct": true
+      },
+      {
+        "text": "3/5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(4+3i) kompleks sonning modulini toping.",
+    "answers": [
+      {
+        "text": "4/3",
+        "correct": false
+      },
+      {
+        "text": "3/4",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "(4-3i) kompleks sonning modulini toping.",
+    "answers": [
+      {
+        "text": "4/3",
+        "correct": false
+      },
+      {
+        "text": "3/4",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      }
+    ]
+  }
+]
