@@ -1,0 +1,2144 @@
+[
+  {
+    "question": "Grafikli matnlarni ekranga chiqaruvchi TextRect funksiyasininig vazifasi",
+    "answers": [
+      {
+        "text": "matnni berilgan nuqta va shaklda chiqarish",
+        "correct": true
+      },
+      {
+        "text": "Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi",
+        "correct": false
+      },
+      {
+        "text": "Matnning uzunligi",
+        "correct": false
+      },
+      {
+        "text": "Matnning balandligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qiymat o'zlashtirish operatorini ko'rsating.",
+    "answers": [
+      {
+        "text": "=",
+        "correct": true
+      },
+      {
+        "text": "= =",
+        "correct": false
+      },
+      {
+        "text": ": :",
+        "correct": false
+      },
+      {
+        "text": ".",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Image1 komponentasiga kompyuterning \"d\" diskida joylashgan \"tatu.jpg\" nomli rasmni yuklash kodini ko'rsating",
+    "answers": [
+      {
+        "text": "Image1-&gt;Picture-&gt;LoadFromFile(\"D:tatu.jpg\");",
+        "correct": true
+      },
+      {
+        "text": "Image-&gt;Picture-&gt;LoadFrom(\"D://tatu.jpg//\");",
+        "correct": false
+      },
+      {
+        "text": "Image1-&gt;Picture-&gt;LoadFromPicture(\"D:tatu.jpg\");",
+        "correct": false
+      },
+      {
+        "text": "Image1-&gt;Picture-&gt;LoadFromImage(\"D:tatu.jpeg\");",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dastur ishchi xolatda \"Edit1\" komponentasiga yozilgan ma'lumotlar \"Edit2\" komponentasida ham bir xil namoyon bo'lish kodini ko'rsating",
+    "answers": [
+      {
+        "text": "Edit2-&gt;Text=Edit1-&gt;Text;",
+        "correct": true
+      },
+      {
+        "text": "Edit2-&gt;Caption=Edit1-&gt;Caption;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Align=Edit2-&gt;Align;",
+        "correct": false
+      },
+      {
+        "text": "Edit2-&gt;TextValue=Edit1-&gt;TextValue;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Satrli ma'lumotni butun sonli ma'lumotga o'zgartirish funksiyasini ko'rsating.",
+    "answers": [
+      {
+        "text": "StrToInt()",
+        "correct": true
+      },
+      {
+        "text": "StringToInteger()",
+        "correct": false
+      },
+      {
+        "text": "IntToStr()",
+        "correct": false
+      },
+      {
+        "text": "IntegerToStr()",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Butun sonli ma'lumotni satrli ma'lumotga o'zgartirish funksiyasini ko'rsating.",
+    "answers": [
+      {
+        "text": "IntToStr()",
+        "correct": true
+      },
+      {
+        "text": "StrToInt()",
+        "correct": false
+      },
+      {
+        "text": "IntegerToStr()",
+        "correct": false
+      },
+      {
+        "text": "IntegerToString()",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dastur ishga tushirilganda asosiy forma ekranning markazida paydo bo'lishi uchun uning qaysi xususiyatdan foydalaniladi?",
+    "answers": [
+      {
+        "text": "Position",
+        "correct": true
+      },
+      {
+        "text": "Align",
+        "correct": false
+      },
+      {
+        "text": "Aligment",
+        "correct": false
+      },
+      {
+        "text": "WindowState",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Formadan kodlar oynasiga o’tish yoki aksincha qaysi tugma orqali buyruq beriladi",
+    "answers": [
+      {
+        "text": "F12",
+        "correct": true
+      },
+      {
+        "text": "F2",
+        "correct": false
+      },
+      {
+        "text": "F11",
+        "correct": false
+      },
+      {
+        "text": "Ctrl+F10",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bir sohani nusxalash funksiyasi qaysi",
+    "answers": [
+      {
+        "text": "CopyRect",
+        "correct": true
+      },
+      {
+        "text": "CopyMode",
+        "correct": false
+      },
+      {
+        "text": "CopyText",
+        "correct": false
+      },
+      {
+        "text": "Copy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Grafikli matnlarni ekranga chiqaruvchi TextExtent funksiyasininig vazifasi",
+    "answers": [
+      {
+        "text": "Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi",
+        "correct": true
+      },
+      {
+        "text": "Matnning uzunligi",
+        "correct": false
+      },
+      {
+        "text": "Matnning balandligi",
+        "correct": false
+      },
+      {
+        "text": "berilgan matnni kerakli nuqtaga chiqarish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "TCppWebBrowser komponentasining qaysi xususiyatiga *.html faylni yo’li ko'rsatiladi?",
+    "answers": [
+      {
+        "text": "Navigate",
+        "correct": true
+      },
+      {
+        "text": "LoadFromFile",
+        "correct": false
+      },
+      {
+        "text": "WriteFromFile",
+        "correct": false
+      },
+      {
+        "text": "OpenFile",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Grafikli matnlarni ekranga chiqaruvchi TextWidth funksiyasininig vazifasi",
+    "answers": [
+      {
+        "text": "Matnning uzunligi",
+        "correct": true
+      },
+      {
+        "text": "Matnning balandligi",
+        "correct": false
+      },
+      {
+        "text": "Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi",
+        "correct": false
+      },
+      {
+        "text": "berilgan matnni kerakli nuqtaga chiqarish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda forma shaffofligini qaysi xususiyat orqali faollashtiriladi?",
+    "answers": [
+      {
+        "text": "AlphaBlend",
+        "correct": true
+      },
+      {
+        "text": "AlphaBlendValue",
+        "correct": false
+      },
+      {
+        "text": "Align",
+        "correct": false
+      },
+      {
+        "text": "Visible",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda forma shaffofligi qabul qiladigan qiymat oralig'ini ko'rsating.",
+    "answers": [
+      {
+        "text": "0-255",
+        "correct": true
+      },
+      {
+        "text": "1-255",
+        "correct": false
+      },
+      {
+        "text": "0-256",
+        "correct": false
+      },
+      {
+        "text": "1-100",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "AutoSize form obyektining vazifasi",
+    "answers": [
+      {
+        "text": "Avtomatik o’lchamni o’rnatish",
+        "correct": true
+      },
+      {
+        "text": "Formatdagi sistemali tugmalar",
+        "correct": false
+      },
+      {
+        "text": "Sarlavhani nomlash",
+        "correct": false
+      },
+      {
+        "text": "Nusxalash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Align xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Joylashuvi",
+        "correct": true
+      },
+      {
+        "text": "Ustunlar soni",
+        "correct": false
+      },
+      {
+        "text": "rangi",
+        "correct": false
+      },
+      {
+        "text": "Qator va ustunning sarlavha rangi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasida matn chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt; Text = “Matn”;",
+        "correct": true
+      },
+      {
+        "text": "Label1-&gt;Caption = “Matn”;",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Text = “Matn”;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt; Caption = “Matn”;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "ColCount xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Ustunlar soni",
+        "correct": true
+      },
+      {
+        "text": "rangi",
+        "correct": false
+      },
+      {
+        "text": "Qator va ustunning sarlavha rangi",
+        "correct": false
+      },
+      {
+        "text": "Joylashuvi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Color xossasining vazifasi",
+    "answers": [
+      {
+        "text": "rangi",
+        "correct": true
+      },
+      {
+        "text": "Joylashuvi",
+        "correct": false
+      },
+      {
+        "text": "Ustunlar soni",
+        "correct": false
+      },
+      {
+        "text": "hajmi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda MaskEdit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "MaskEdit1-&gt;Text=TimeToStr(Now());",
+        "correct": true
+      },
+      {
+        "text": "MaskEdit1-&gt;Text=Time(Now());",
+        "correct": false
+      },
+      {
+        "text": "MaskEdit1-&gt;Text=Time( );",
+        "correct": false
+      },
+      {
+        "text": "MaskEdit1-&gt;Text=IntToStr(Now());",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O'rnatiluvchi dastur yaratishda foydalaniladigan dastur nomini toping?",
+    "answers": [
+      {
+        "text": "InnoSetup Compiler",
+        "correct": true
+      },
+      {
+        "text": "C++ Builder XE",
+        "correct": false
+      },
+      {
+        "text": "WinRAR",
+        "correct": false
+      },
+      {
+        "text": "Notepad",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Label komponentasida matn chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Label1-&gt;Caption = “Matn”;",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt; Text = “Matn”;",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Text = “Matn”;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt; Caption = “Matn”;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda int tipida ‘a=5, b=8, c=a+b; ’ o’zgaruvchilari berilgan, \"c\" o’zgaruvchini Label1 komponentasida chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Label1-&gt;Caption=IntToStr(c);",
+        "correct": true
+      },
+      {
+        "text": "Label1-&gt;Caption=c.StrToInt();",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Caption=FloatTo(c);",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Caption=StrToInt(c);",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini dastur ishchi holatida formada ko’rinmasligi uchun qanday amallarni bajarish kerak?",
+    "answers": [
+      {
+        "text": "Button1-&gt;Visible=false;",
+        "correct": true
+      },
+      {
+        "text": "Button1-&gt;Enabled=false;",
+        "correct": false
+      },
+      {
+        "text": "Button1-&gt;Visible=true;",
+        "correct": false
+      },
+      {
+        "text": "Button1-&gt;Enabled=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda joylashgan Edit1 komponentasidagi ma’lumotni Label1 komponentasiga chiqarish uchun qanday amallarni bajarish kerak?",
+    "answers": [
+      {
+        "text": "Label1-&gt;Caption=Edit1-&gt;Text;",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Text=Label1-&gt;Caption;",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Text=Edit1-&gt;Caption;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Caption=Label1-&gt;Text;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda asosiy menyular yaratishga mo’ljallangan komponenta nomini ko’rsating:",
+    "answers": [
+      {
+        "text": "MainMenu",
+        "correct": true
+      },
+      {
+        "text": "PopupMenu",
+        "correct": false
+      },
+      {
+        "text": "MenuMain",
+        "correct": false
+      },
+      {
+        "text": "TMenu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda kontekst menyular yaratishga mo’ljallangan komponenta nomini ko’rsating:",
+    "answers": [
+      {
+        "text": "PopupMenu",
+        "correct": true
+      },
+      {
+        "text": "MainMenu",
+        "correct": false
+      },
+      {
+        "text": "MenuMain",
+        "correct": false
+      },
+      {
+        "text": "TMenu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini bosganda Shape1 komponentasi kvadrat shaklini olishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Shape1-&gt;Shape=stSquare;",
+        "correct": true
+      },
+      {
+        "text": "Shape1-&gt;Shape=stCircle;",
+        "correct": false
+      },
+      {
+        "text": "Shape1-&gt;Shape=stRectangle;",
+        "correct": false
+      },
+      {
+        "text": "Shape1-&gt;Shape=stLine;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Label1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Label1-&gt;Caption=TimeToStr(Now( ));",
+        "correct": true
+      },
+      {
+        "text": "Label1-&gt;Caption=Time(Now( ));",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Caption=Time( );",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Caption=IntToStr(Now( ));",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Label1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Label1-&gt;Visible=false;",
+        "correct": true
+      },
+      {
+        "text": "Label1-&gt;Visible=true;",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Enabled=false;",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Enabled=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Button1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Button1-&gt;Visible=false;",
+        "correct": true
+      },
+      {
+        "text": "Button2-&gt;Visible=false;",
+        "correct": false
+      },
+      {
+        "text": "Button1-&gt;Enabled=false;",
+        "correct": false
+      },
+      {
+        "text": "Button2-&gt;Enabled=false;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Button2 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Button2-&gt;Enabled=false;",
+        "correct": true
+      },
+      {
+        "text": "Button2-&gt;Enabled=true;",
+        "correct": false
+      },
+      {
+        "text": "Button1-&gt;Enabled=false;",
+        "correct": false
+      },
+      {
+        "text": "Button1-&gt;Enabled=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Label1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Label1-&gt;Enabled=false;",
+        "correct": true
+      },
+      {
+        "text": "Label1-&gt;Enabled=true;",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Visible=false;",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Visible=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Button1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Button1-&gt;Enabled=false;",
+        "correct": true
+      },
+      {
+        "text": "Button1-&gt;Enabled=true;",
+        "correct": false
+      },
+      {
+        "text": "Button1-&gt;Visible=false;",
+        "correct": false
+      },
+      {
+        "text": "Button1-&gt;Visible=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini chertganga formaning sarlovhasiga (Form1) Edit1 komponentasiga kiritilgan qiymatni chiqarish uchun qanday dastur yozish kerak?",
+    "answers": [
+      {
+        "text": "Form1-&gt;Caption=Edit1-&gt;Text;",
+        "correct": true
+      },
+      {
+        "text": "Form1-&gt;Text=Edit1-&gt;Text;",
+        "correct": false
+      },
+      {
+        "text": "Form1-&gt;Caption=Edit1-&gt;Caption;",
+        "correct": false
+      },
+      {
+        "text": "Form1-&gt;Caption==Edit1-&gt;Caption;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Formaning “OnCreate” hodisasi qachon ishga tushadi?",
+    "answers": [
+      {
+        "text": "Forma (yaratilganda) ishga tushganda",
+        "correct": true
+      },
+      {
+        "text": "Forma faol bo’lganda",
+        "correct": false
+      },
+      {
+        "text": "Forma bir marta chertilganda",
+        "correct": false
+      },
+      {
+        "text": "Formaga sichqon ko’rsatkichi olib kelinishi bilan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Formaning “OnActivate” hodisasi qachon ishga tushadi?",
+    "answers": [
+      {
+        "text": "Forma faol bo’lganda",
+        "correct": true
+      },
+      {
+        "text": "Forma (yaratilganda) ishga tushganda",
+        "correct": false
+      },
+      {
+        "text": "Forma bir marta chertilganda",
+        "correct": false
+      },
+      {
+        "text": "Forma ikki marta chertilganda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda ADOTable komponentasiga bog'langan jadvalning aktiv satridan bitta oldingi satrni aktiv qilish buyrug'i qaysi?",
+    "answers": [
+      {
+        "text": "ADOTable1-&gt;Prior( );",
+        "correct": true
+      },
+      {
+        "text": "ADOTable1-&gt; Next( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Last( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Post( );",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda ADOTable komponentasiga bog'langan jadvalning aktiv satridan bitta keyingi satrni aktiv qilish buyrug'i qaysi?",
+    "answers": [
+      {
+        "text": "ADOTable1-&gt; Next( );",
+        "correct": true
+      },
+      {
+        "text": "ADOTable1-&gt;First( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Prior( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Last( );",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda ADOTable komponentasiga bog'langan jadvalning birinchi satrini aktiv qilish buyrug'i qaysi?",
+    "answers": [
+      {
+        "text": "ADOTable1-&gt;First( );",
+        "correct": true
+      },
+      {
+        "text": "ADOTable1-&gt;Last( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Prior( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Post( );",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda ADOTable komponentasiga bog'langan jadvalning oxirgi satrini aktiv qilish buyrug'i qaysi?",
+    "answers": [
+      {
+        "text": "ADOTable1-&gt;Last( );",
+        "correct": true
+      },
+      {
+        "text": "ADOTable1-&gt;First( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt; Next( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Prior( );",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dasturchi tomonidan dastur elementlari uchun ixtiyoriy tanlangan nom nima deyiladi?",
+    "answers": [
+      {
+        "text": "Identifikator",
+        "correct": true
+      },
+      {
+        "text": "Direktiva",
+        "correct": false
+      },
+      {
+        "text": "O’zgaruvchi",
+        "correct": false
+      },
+      {
+        "text": "Operator",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga katta harf registrida ma’lumot kiritish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;CharCase=ecUpperCase;",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;CharCase=ecLowerCase;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;CharCase=ecNormal;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;CharCase=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga 5 tagacha bo’lgan simvolda ma’lumot kiritish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;MaxLength=5;",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Length=5;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Max=5;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Min=5;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;Text=TimeToStr(Now( ));",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Text=Time(Now( ));",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Text=Time( );",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Text=IntToStr(Now( ));",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda LabeledEdit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "LabeledEdit1-&gt;Text=TimeToStr(Now());",
+        "correct": true
+      },
+      {
+        "text": "LabeledEdit1-&gt;Text=Time(Now());",
+        "correct": false
+      },
+      {
+        "text": "LabeledEdit1-&gt;Text=Time( );",
+        "correct": false
+      },
+      {
+        "text": "LabeledEdit1-&gt;Text=IntToStr(Now());",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasidagi ma’lumot Label1 komponentasiga o’tishi va Edit1 dagi ma’lumot o’chirilishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Label1-&gt;Caption=Edit1-&gt;Text; Edit1-&gt;Text=\"\";",
+        "correct": true
+      },
+      {
+        "text": "Label1-&gt;Caption=Edit1-&gt;Text;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Text=Label1-&gt;Caption; Edit1-&gt;Text=\" \";",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Caption=Edit1-&gt;Text; Label1-&gt;Text=\" \";",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Label1 komponentasidagi ma’lumot Edit1 komponentasiga o’tishi va Label1 dagi ma’lumot o’chirilishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;Text=Label1-&gt;Caption; Label1-&gt;Caption=\" \";",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Text=Label1-&gt;Caption;",
+        "correct": false
+      },
+      {
+        "text": "Label1-&gt;Caption;=Edit1-&gt;Text; Label1-&gt;Caption=\" \";",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Text=Label1-&gt;Caption; Text1-&gt;Caption=\" \";",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "FrameRect shakllarining vazifasi yoki qiymati",
+    "answers": [
+      {
+        "text": "To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz",
+        "correct": true
+      },
+      {
+        "text": "Nuqtalar bo’yicha soha chizadi",
+        "correct": false
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak.",
+        "correct": false
+      },
+      {
+        "text": "Chegarasiz to’g’ri burchakli to’rtburchakning foni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "FixedColor xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Qator va ustunning sarlavha rangi",
+        "correct": true
+      },
+      {
+        "text": "rangi",
+        "correct": false
+      },
+      {
+        "text": "Joylashuvi",
+        "correct": false
+      },
+      {
+        "text": "Ustunlar soni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Natijalarni jadval ko’rinishini ifodalash uchun C++ Builderda Additional qo’shimcha bo’limining qaysi elementlaridan foydalanamiz?",
+    "answers": [
+      {
+        "text": "TStringGrid",
+        "correct": true
+      },
+      {
+        "text": "Tcanvas",
+        "correct": false
+      },
+      {
+        "text": "TColor",
+        "correct": false
+      },
+      {
+        "text": "TPen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Grid  xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Bunday xossa mavjud emas",
+        "correct": true
+      },
+      {
+        "text": "Rangi aniqlaydi",
+        "correct": false
+      },
+      {
+        "text": "Nuqtaning bosh holati",
+        "correct": false
+      },
+      {
+        "text": "Chiziqning ko’rinishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Polygon shakllarining vazifasi yoki qiymati",
+    "answers": [
+      {
+        "text": "Nuqtalar bo’yicha soha chizadi",
+        "correct": true
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak.",
+        "correct": false
+      },
+      {
+        "text": "Chegarasiz to’g’ri burchakli to’rtburchakning foni",
+        "correct": false
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Rectangle shakllarining vazifasi yoki qiymati",
+    "answers": [
+      {
+        "text": "To’g’ri burchakli to’rtburchak",
+        "correct": true
+      },
+      {
+        "text": "Chegarasiz to’g’ri burchakli to’rtburchakning foni",
+        "correct": false
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz",
+        "correct": false
+      },
+      {
+        "text": "Nuqtalar bo’yicha soha chizadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "FillRect shakllarining vazifasi yoki qiymati",
+    "answers": [
+      {
+        "text": "Chegarasiz to’g’ri burchakli to’rtburchakning foni",
+        "correct": true
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz",
+        "correct": false
+      },
+      {
+        "text": "Nuqtalar bo’yicha soha chizadi",
+        "correct": false
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Grafikli matnlarni ekranga chiqaruvchi TextOut funksiyasininig vazifasi",
+    "answers": [
+      {
+        "text": "berilgan matnni kerakli nuqtaga chiqarish",
+        "correct": true
+      },
+      {
+        "text": "Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi",
+        "correct": false
+      },
+      {
+        "text": "Matnning uzunligi",
+        "correct": false
+      },
+      {
+        "text": "Matnning balandligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘@’ ko’rinishida chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;PasswordChar='@';",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Password='@';",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Char='@';",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;PassChar='@';",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "FixedCols xossasining vazifasi",
+    "answers": [
+      {
+        "text": "ustun bo’yicha sarlavha soni (odatda 1 ta)",
+        "correct": true
+      },
+      {
+        "text": "Qator bo’yicha sarlavha soni(odatda 1 ta)",
+        "correct": false
+      },
+      {
+        "text": "Chiziqlar qalinligi",
+        "correct": false
+      },
+      {
+        "text": "Qatorlar soni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "FixedRows xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Qator bo’yicha sarlavha soni(odatda 1 ta)",
+        "correct": true
+      },
+      {
+        "text": "ustun bo’yicha sarlavha soni (odatda 1 ta)",
+        "correct": false
+      },
+      {
+        "text": "Chiziqlar qalinligi",
+        "correct": false
+      },
+      {
+        "text": "Qatorlar soni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "GridLineWidth xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Chiziqlar qalinligi",
+        "correct": true
+      },
+      {
+        "text": "Qator bo’yicha sarlavha soni(odatda 1 ta)",
+        "correct": false
+      },
+      {
+        "text": "ustun bo’yicha sarlavha soni (odatda 1 ta)",
+        "correct": false
+      },
+      {
+        "text": "Joylashuvi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "RowCount xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Qatorlar soni",
+        "correct": true
+      },
+      {
+        "text": "* Qator bo’yicha sarlavha soni(odatda 1 ta)",
+        "correct": false
+      },
+      {
+        "text": "ustun bo’yicha sarlavha soni (odatda 1 ta)",
+        "correct": false
+      },
+      {
+        "text": "Chiziqlar qalinligi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Handle  xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Deskriptorop pen.",
+        "correct": true
+      },
+      {
+        "text": "Rangi aniqlaydi",
+        "correct": false
+      },
+      {
+        "text": "Nuqtaning bosh holati",
+        "correct": false
+      },
+      {
+        "text": "Chiziqning ko’rinishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mode  xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Nuqtaning bosh holati",
+        "correct": true
+      },
+      {
+        "text": "Deskriptorop pen.",
+        "correct": false
+      },
+      {
+        "text": "Rangi aniqlaydi",
+        "correct": false
+      },
+      {
+        "text": "Qatorlar soni",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Html kengaytmali fayllarni dasturga bog'lashda qaysi komponentadan foydalaniladi?",
+    "answers": [
+      {
+        "text": "TCppWebBrowser",
+        "correct": true
+      },
+      {
+        "text": "TPageProducer",
+        "correct": false
+      },
+      {
+        "text": "TDataSource",
+        "correct": false
+      },
+      {
+        "text": "TDataTable",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Variant tipi qanday o'zgaruvchilarga nisbatan qo'llaniladi?",
+    "answers": [
+      {
+        "text": "Tipi oldindan ma'lum bo'lmagan o'zgaruvchilarga",
+        "correct": true
+      },
+      {
+        "text": "Satrli o'zgaruvchilarga nisbatan",
+        "correct": false
+      },
+      {
+        "text": "Sonli o'zgaruvchilarga nisbatan",
+        "correct": false
+      },
+      {
+        "text": "Fayl tipiga nisbatan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda ADOTable komponentasiga bog'langan jadvalga yangi yozuv qo’shish funksiyasini toping?",
+    "answers": [
+      {
+        "text": "ADOTable1-&gt;Insert( );",
+        "correct": true
+      },
+      {
+        "text": "ADOTable1-&gt;Last( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Post( );",
+        "correct": false
+      },
+      {
+        "text": "ADOTable1-&gt;Edit( );",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini bosganda, agar CheckBox1 ob’yekti tanlangan (belgilangan) bo’lsa “Tanlangan” degan yozuvni chiqarish kodini ko’rsating:",
+    "answers": [
+      {
+        "text": "if (CheckBox1-&gt;Checked==true) ShowMessage(\"Tanlangan\");",
+        "correct": true
+      },
+      {
+        "text": "if (CheckBox1-&gt;Checked-&gt;false) ShowMessage(\"Tanlangan\");",
+        "correct": false
+      },
+      {
+        "text": "if (Button1-&gt;Checked==true) ShowMessage(\"Tanlangan\");",
+        "correct": false
+      },
+      {
+        "text": "if (CheckBox1-&gt;Checked-&gt;true) ShowMessage(\"Tanlangan\");",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘*’ ko’rinishida chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;PasswordChar='*';",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Password='*';",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Char='*';",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;PassChar='*';",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘&amp;’ ko’rinishida chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;PasswordChar='&amp;';",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Password='&amp;';",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Char='&amp;';",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;PassChar='&amp;';",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda BitBtn1 komponentasiga rasm qo’yishda qaysi hossadan foydalaniladi?",
+    "answers": [
+      {
+        "text": "Glyph",
+        "correct": true
+      },
+      {
+        "text": "Picture",
+        "correct": false
+      },
+      {
+        "text": "Image",
+        "correct": false
+      },
+      {
+        "text": "Graph",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda MaskEdit komponentasining qaysi hususiyati orqali maska(qolip) qo'yiladi?",
+    "answers": [
+      {
+        "text": "EditMask",
+        "correct": true
+      },
+      {
+        "text": "Text",
+        "correct": false
+      },
+      {
+        "text": "Mask",
+        "correct": false
+      },
+      {
+        "text": "CharCase",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Image komponentasining qaysi hususiyati orqali rasm qo'yiladi?",
+    "answers": [
+      {
+        "text": "Picture",
+        "correct": true
+      },
+      {
+        "text": "Glyph",
+        "correct": false
+      },
+      {
+        "text": "Image",
+        "correct": false
+      },
+      {
+        "text": "Graph",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini bosganda Shape1 komponentasi aylana shaklini olishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Shape1-&gt;Shape=stCircle;",
+        "correct": true
+      },
+      {
+        "text": "Shape1-&gt;Shape=Circle;",
+        "correct": false
+      },
+      {
+        "text": "Shape1-&gt;Shape==stCircle;",
+        "correct": false
+      },
+      {
+        "text": "Shape1-&gt;Shape==Circle;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bevosita rekursiv funksiya nima ish bajaradi?",
+    "answers": [
+      {
+        "text": "o’ziga -o’zi murojat qiladi",
+        "correct": true
+      },
+      {
+        "text": "o’zidan keyingisiga murojat qiladi",
+        "correct": false
+      },
+      {
+        "text": "ish bajarmaydi",
+        "correct": false
+      },
+      {
+        "text": "bir xil nomli boshqa funksiyaga murojat qiladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;Enabled=false;",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Enabled=true;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Visible=false;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Visible=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Formaning “OnClose” hodisasi qachon ishga tushadi?",
+    "answers": [
+      {
+        "text": "Forma yopilishidan oldin",
+        "correct": true
+      },
+      {
+        "text": "Forma ikki marta chertilganda",
+        "correct": false
+      },
+      {
+        "text": "Formaga sichqon ko’rsatkichi olib kelinishi bilan",
+        "correct": false
+      },
+      {
+        "text": "Forma faol bo’lganda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini chertganga formaning kenglik o’lchamini Edit1 komponentasiga kiritilgan qiymatga tenglash uchun qanday dastur yozish kerak?",
+    "answers": [
+      {
+        "text": "Form1-&gt;Width=StrToInt(Edit1-&gt;Text);",
+        "correct": true
+      },
+      {
+        "text": "Form1-&gt;Width=StrToChar(Edit1-&gt;Text);",
+        "correct": false
+      },
+      {
+        "text": "Form1-&gt;Width=IntToStr(Edit1-&gt;Text);",
+        "correct": false
+      },
+      {
+        "text": "Form1-&gt;Width=Edit1-&gt;Text;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Formaning “OnDblClick” hodisasi qachon ishga tushadi?",
+    "answers": [
+      {
+        "text": "Forma ikki marta chertilganda",
+        "correct": true
+      },
+      {
+        "text": "Forma yopilishidan oldin",
+        "correct": false
+      },
+      {
+        "text": "Forma bir marta chertilganda",
+        "correct": false
+      },
+      {
+        "text": "Forma faol bo’lganda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini chertganga formaning balandlik o’lchamini Edit1 komponentasiga kiritilgan qiymatga tenglash uchun qanday dastur yozish kerak?",
+    "answers": [
+      {
+        "text": "Form1-&gt;Height=StrToInt(Edit1-&gt;Text);",
+        "correct": true
+      },
+      {
+        "text": "Form1-&gt;Height=StrToChar(Edit1-&gt;Text);",
+        "correct": false
+      },
+      {
+        "text": "Form1-&gt;Height=IntToStr(Edit1-&gt;Text);",
+        "correct": false
+      },
+      {
+        "text": "Form1-&gt;Height=Edit1-&gt;Text;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini chertganga formaning rangini ko’k rangga o’zgartirish uchun qanday dastur yozish kerak?",
+    "answers": [
+      {
+        "text": "Form1-&gt;Color=clBlue;",
+        "correct": true
+      },
+      {
+        "text": "Form1-&gt;Color=Blue;",
+        "correct": false
+      },
+      {
+        "text": "Form1-&gt;FontColor=clBlue;",
+        "correct": false
+      },
+      {
+        "text": "Form1-&gt;Color==clBlue;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bir xil toifali, chekli qiymatlarning tartiblangan to’plamiga nima deb ataladi?",
+    "answers": [
+      {
+        "text": "massiv",
+        "correct": true
+      },
+      {
+        "text": "oqim",
+        "correct": false
+      },
+      {
+        "text": "funksiya",
+        "correct": false
+      },
+      {
+        "text": "rekursiv funksiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Katta va kichik harflardan, ostki chiziq bilan boshlanadigan ketma ketlik …. deyiladi.",
+    "answers": [
+      {
+        "text": "identifikator",
+        "correct": true
+      },
+      {
+        "text": "xizmatchi so'z",
+        "correct": false
+      },
+      {
+        "text": "massiv",
+        "correct": false
+      },
+      {
+        "text": "funksiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Parametrli takrorlash operatorini ko'rsating",
+    "answers": [
+      {
+        "text": "for",
+        "correct": true
+      },
+      {
+        "text": "if",
+        "correct": false
+      },
+      {
+        "text": "while",
+        "correct": false
+      },
+      {
+        "text": "switch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Formaning “OnClick” hodisasi qachon ishga tushadi?",
+    "answers": [
+      {
+        "text": "Forma bir marta chertilganda",
+        "correct": true
+      },
+      {
+        "text": "Forma (yaratilganda) ishga tushganda",
+        "correct": false
+      },
+      {
+        "text": "Forma ikki marta chertilganda",
+        "correct": false
+      },
+      {
+        "text": "Forma yopilishidan oldin",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘#’ ko’rinishida chiqarish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;PasswordChar='#';",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Password='#';",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Char='#';",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;PassChar='#';",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasini bosganda, agar RadioButton1 ob’yekti tanlangan (belgilangan) bo’lsa “Tanlangan” degan yozuvni chiqarish kodini ko’rsating:",
+    "answers": [
+      {
+        "text": "if (RadioButton1-&gt;Checked==true) ShowMessage(\"Tanlangan\");",
+        "correct": true
+      },
+      {
+        "text": "if (RadioButton1-&gt;Checked=true) ShowMessage(\"Tanlangan\");",
+        "correct": false
+      },
+      {
+        "text": "if (Radio1-&gt;Checked==true) ShowMessage(\"Tanlangan\");",
+        "correct": false
+      },
+      {
+        "text": "if (Radio1-&gt;Checked==false) ShowMessage(\"Tanlangan\");",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda 2 sonni ustida arifmetik amallar bajarish uchun ularni formaga qaysi komponenta orqali to'gridan-tog'ri kiritish mumkin?",
+    "answers": [
+      {
+        "text": "Edit",
+        "correct": true
+      },
+      {
+        "text": "Label",
+        "correct": false
+      },
+      {
+        "text": "Button",
+        "correct": false
+      },
+      {
+        "text": "BitBtn",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga ma’lumot kiritishni taqiqlash uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;ReadOnly=true;",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;CharCase=ecLowerCase;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;ReadOnly=false;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;ReadOnly==true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Edit1 komponentasiga kichik harf registrida ma’lumot kiritish uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;CharCase=ecLowerCase;",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;CharCase=ecUpperCase;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;CharCase=ecNormal;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;CharCase=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Button2 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Button2-&gt;Visible=false;",
+        "correct": true
+      },
+      {
+        "text": "Button1-&gt;Visible=false;",
+        "correct": false
+      },
+      {
+        "text": "Button2-&gt;Visible=true;",
+        "correct": false
+      },
+      {
+        "text": "Button1-&gt;Visible=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi?",
+    "answers": [
+      {
+        "text": "Edit1-&gt;Visible=false;",
+        "correct": true
+      },
+      {
+        "text": "Edit1-&gt;Visible=true;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Enabled=false;",
+        "correct": false
+      },
+      {
+        "text": "Edit1-&gt;Enabled=true;",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "C++ dasturlash tilida funksiyalar o’z –o’zini chaqirish imkoniyatiga qaysi funksiyada ega bo’ladi?",
+    "answers": [
+      {
+        "text": "rekursiv",
+        "correct": true
+      },
+      {
+        "text": "getline",
+        "correct": false
+      },
+      {
+        "text": "insert",
+        "correct": false
+      },
+      {
+        "text": "return",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Shart operatorini necha xil ko’rinishi mavjud ?",
+    "answers": [
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sharti keyin berilgan sikl operatori tuzilishini ko'rsating.",
+    "answers": [
+      {
+        "text": "do{sikl tanasi;} while(shart)",
+        "correct": true
+      },
+      {
+        "text": "while(shart) {sikl tanasi;}",
+        "correct": false
+      },
+      {
+        "text": "while(sikl tanasi) {shart;}",
+        "correct": false
+      },
+      {
+        "text": "do{shart} while(sikl tanasi;)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sharti keyin berilgan sikl operatorini ko'rsating.",
+    "answers": [
+      {
+        "text": "do{}while()",
+        "correct": true
+      },
+      {
+        "text": "for()",
+        "correct": false
+      },
+      {
+        "text": "while()",
+        "correct": false
+      },
+      {
+        "text": "if()",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Hoshiyalarning stilini o’zgartirish elementi nomini toping?",
+    "answers": [
+      {
+        "text": "Border Style",
+        "correct": true
+      },
+      {
+        "text": "Data access",
+        "correct": false
+      },
+      {
+        "text": "On close",
+        "correct": false
+      },
+      {
+        "text": "On hide",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "MoveTo  xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Berilgan nuqtaga o’tish.",
+        "correct": true
+      },
+      {
+        "text": "Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)",
+        "correct": false
+      },
+      {
+        "text": "Tpoin ning massiv obyektlarini birlashtirish",
+        "correct": false
+      },
+      {
+        "text": "Qator va ustunning sarlavha rangi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "LineTo  xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)",
+        "correct": true
+      },
+      {
+        "text": "Tpoin ning massiv obyektlarini birlashtirish",
+        "correct": false
+      },
+      {
+        "text": "Qator va ustunning sarlavha rangi",
+        "correct": false
+      },
+      {
+        "text": "Berilgan nuqtaga o’tish.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Polyline xossasining vazifasi",
+    "answers": [
+      {
+        "text": "Tpoin ning massiv obyektlarini birlashtirish",
+        "correct": true
+      },
+      {
+        "text": "Qator va ustunning sarlavha rangi",
+        "correct": false
+      },
+      {
+        "text": "Berilgan nuqtaga o’tish.",
+        "correct": false
+      },
+      {
+        "text": "Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Polygon shakllarining vazifasi yoki qiymati",
+    "answers": [
+      {
+        "text": "Nuqtalar bo’yicha soha chizadi",
+        "correct": true
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak.",
+        "correct": false
+      },
+      {
+        "text": "Chegarasiz to’g’ri burchakli to’rtburchakning foni",
+        "correct": false
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Rectangle shakllarining vazifasi yoki qiymati",
+    "answers": [
+      {
+        "text": "To’g’ri burchakli to’rtburchak",
+        "correct": true
+      },
+      {
+        "text": "Chegarasiz to’g’ri burchakli to’rtburchakning foni",
+        "correct": false
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz",
+        "correct": false
+      },
+      {
+        "text": "Nuqtalar bo’yicha soha chizadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "FillRect shakllarining vazifasi yoki qiymati",
+    "answers": [
+      {
+        "text": "Chegarasiz to’g’ri burchakli to’rtburchakning foni",
+        "correct": true
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz",
+        "correct": false
+      },
+      {
+        "text": "Nuqtalar bo’yicha soha chizadi",
+        "correct": false
+      },
+      {
+        "text": "To’g’ri burchakli to’rtburchak",
+        "correct": false
+      }
+    ]
+  }
+]
