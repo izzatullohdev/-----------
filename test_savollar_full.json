@@ -1,0 +1,4328 @@
+[
+  {
+    "question": "Dasturchi tomonidan ixtiyoriy kiritilgan mavjud tiplar asosida yaratilgan strukturalangan toifa nima deyiladi?",
+    "answers": [
+      {
+        "text": "Class.",
+        "correct": true
+      },
+      {
+        "text": "struct",
+        "correct": false
+      },
+      {
+        "text": "void",
+        "correct": false
+      },
+      {
+        "text": "char",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dek so‘zi qanday manoni anglatadi?",
+    "answers": [
+      {
+        "text": "2 ta chetga ega",
+        "correct": true
+      },
+      {
+        "text": "2 ta chiqishga ega",
+        "correct": false
+      },
+      {
+        "text": "orqaga va oldinga qaytish",
+        "correct": false
+      },
+      {
+        "text": "oldinga yurish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi saralash algoritmlari faylda (tashqi xotirada) saralash uchun qo’llaniladi?",
+    "answers": [
+      {
+        "text": "tashqi",
+        "correct": true
+      },
+      {
+        "text": "merge",
+        "correct": false
+      },
+      {
+        "text": "piramida",
+        "correct": false
+      },
+      {
+        "text": "counting",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi saralash algoritmlari massivda (ichki xotirada) saralash uchun qo’llaniladi?",
+    "answers": [
+      {
+        "text": "ichki",
+        "correct": true
+      },
+      {
+        "text": "merge",
+        "correct": false
+      },
+      {
+        "text": "piramida",
+        "correct": false
+      },
+      {
+        "text": "counting",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dinamik malumotlar tuzilmasi nechta xususiyatga ega?",
+    "answers": [
+      {
+        "text": "2 turga",
+        "correct": true
+      },
+      {
+        "text": "5 turga",
+        "correct": false
+      },
+      {
+        "text": "4 turga",
+        "correct": false
+      },
+      {
+        "text": "7 turga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Insertion saralash algoritmining go’yasi qanday?",
+    "answers": [
+      {
+        "text": "massivdagi elementlarni huddi karta o’yinidek, birma-bir o’z joyiga joylab chiqish",
+        "correct": true
+      },
+      {
+        "text": "massivdagi elementlarni kattasini chap tomonga kichigini o’ng tomonga tanlab saralash",
+        "correct": false
+      },
+      {
+        "text": "massivdagi elementlarni kattasini o’ng tomonga kichigini chap tomonga tanlab saralash",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Eng ko‘p foydalaniladigan daraxtlar turi qaysi?",
+    "answers": [
+      {
+        "text": "binar",
+        "correct": true
+      },
+      {
+        "text": "heap",
+        "correct": false
+      },
+      {
+        "text": "ko’p o’lchamli",
+        "correct": false
+      },
+      {
+        "text": "muvozanatlangan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Saralash algoritmlarining qay biri tez yoki sekin ishlashini, qaysi sayt orqali simulatsiyasini ko’rsak bo’ladi?",
+    "answers": [
+      {
+        "text": "toptal.com",
+        "correct": true
+      },
+      {
+        "text": "visualgo.net",
+        "correct": false
+      },
+      {
+        "text": "simulatorsort.net",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "EXM xotirasida daraxtni ifodalashning eng qulay usuli",
+    "answers": [
+      {
+        "text": "Uni bog`langan ro`yxatlar ko`rinishida tasvirlash",
+        "correct": true
+      },
+      {
+        "text": "Uni bog`lanmagan ro`yxatlar ko`rinishida tasvirlash",
+        "correct": false
+      },
+      {
+        "text": "Uni ro`yxatlar ko`rinishida tasvirlash",
+        "correct": false
+      },
+      {
+        "text": "Uni bog`lamli ro`yxatlar ko`rinishida tasvirlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Long double tipi xotiradan qancha joy egallaydi?",
+    "answers": [
+      {
+        "text": "8 bayt",
+        "correct": true
+      },
+      {
+        "text": "12 bayt",
+        "correct": false
+      },
+      {
+        "text": "14 bayt",
+        "correct": false
+      },
+      {
+        "text": "Kompyuter konfiguratsiyasiga qarab",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Fayl nima?",
+    "answers": [
+      {
+        "text": "Malumotlarni saqlash uchun tashqi xotiraning nomlangan qismi",
+        "correct": true
+      },
+      {
+        "text": "Baytlar yig`indisi",
+        "correct": false
+      },
+      {
+        "text": "Dasturda ishlashni osonlashtirish uchun kerakli funksiya",
+        "correct": false
+      },
+      {
+        "text": "Malumotlarning tartiblangan, ketma-ketlikdagi yig'indisi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "FIFO - ..",
+    "answers": [
+      {
+        "text": "First In - First Out",
+        "correct": true
+      },
+      {
+        "text": "First Income -First Output",
+        "correct": false
+      },
+      {
+        "text": "First Insert – First Output",
+        "correct": false
+      },
+      {
+        "text": "First Inter – First Output",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "FIFO navbat ko’rinishining ma’nosi nima?",
+    "answers": [
+      {
+        "text": "Birinchi kelgan birinchi ketadi,",
+        "correct": true
+      },
+      {
+        "text": "Ohirgi kelgan birinchi ketadi",
+        "correct": false
+      },
+      {
+        "text": "Birinchi kelgan ohiri ketadi",
+        "correct": false
+      },
+      {
+        "text": "Ohiri kelgan oxiri ketadi.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Funksiya deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "Dasturning istalgan qismidan murojat qilib, bir necha bor ishlatish mumkin bo’lgan operatorlar guruhi",
+        "correct": true
+      },
+      {
+        "text": "O’zining qiymati sifatida xotira adresini o’zlashtiruvchi va unga xizmat ko’rsatuvchi xususiyat",
+        "correct": false
+      },
+      {
+        "text": "o’zidan hech qanday qiymat qaytarmaydigan va kelgan qiymatlarni tartiblash orqali qayta ishlaydigan operatorlar guruhi",
+        "correct": false
+      },
+      {
+        "text": "Shartsiz qabul qilinadigan operatorga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Funksiya tanasida  olingan  o’zgaruvchilar  qachongacha  amal  qiladi?",
+    "answers": [
+      {
+        "text": "berilgan nuqtadan  blokkacha",
+        "correct": true
+      },
+      {
+        "text": "berilgan  nuqtadan  dastur  oxirgacha",
+        "correct": false
+      },
+      {
+        "text": "berilgan  nuqtadan  biz  xohlagan  joygacha",
+        "correct": false
+      },
+      {
+        "text": "faqat  blok tashqarisida",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Funksiyalar qiymat qaytarishiga  qarab  necha  turli  bo’ladi?",
+    "answers": [
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "turi yoq",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Global o’zgaruvchilar deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "ham asosiy programmada, ham funksiyada ishlatish mumkin bo’lgan o’zgaruvchi",
+        "correct": true
+      },
+      {
+        "text": "faqat funksiyada ishlatilishi mumkin bo’lgan o’zgaruvchilar",
+        "correct": false
+      },
+      {
+        "text": "asosiy funksiyadan chaqiriluvchi funksiyaga",
+        "correct": false
+      },
+      {
+        "text": "asosiy dasturdan funksiyaga uzatiladigan parametrlarni qabul qilib qayta  ishlovchi funksiyalar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Graf turlari qaysilar?",
+    "answers": [
+      {
+        "text": "Orgraf, gipergraf, graf",
+        "correct": true
+      },
+      {
+        "text": "Chiziqli graf, orgraf",
+        "correct": false
+      },
+      {
+        "text": "Gipergraf, Chiziqsiz graf, toifalangan graf",
+        "correct": false
+      },
+      {
+        "text": "Chiziqli va chiziqsiz",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ham asosiy dasturda ham funksiyada ishlashi mumkin bo’lgan o’zgaruvchilar bu …?",
+    "answers": [
+      {
+        "text": "global o’zgaruvchilar",
+        "correct": true
+      },
+      {
+        "text": "parametirsiz o’zgaruvchilar",
+        "correct": false
+      },
+      {
+        "text": "laokal o’zgaruvchilar",
+        "correct": false
+      },
+      {
+        "text": "parametirsiz va lokal o'zgaruvchilar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Haqiqiy tipga nisbatan unar amallar ishlatilsa natija qanday sonlar chiqadi?",
+    "answers": [
+      {
+        "text": "Haqiqiy",
+        "correct": true
+      },
+      {
+        "text": "Butun",
+        "correct": false
+      },
+      {
+        "text": "Mantiqiy",
+        "correct": false
+      },
+      {
+        "text": "Satrli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Har xil obyektlarni ifodalovchi baytlar ketma ketligi bu …?",
+    "answers": [
+      {
+        "text": "binar fayl",
+        "correct": true
+      },
+      {
+        "text": "binar va rekursiv",
+        "correct": false
+      },
+      {
+        "text": "rekursiv funksiya",
+        "correct": false
+      },
+      {
+        "text": "mantiqiy fayl",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ichki saralash nima?",
+    "answers": [
+      {
+        "text": "operativ hotiradagi saralash.",
+        "correct": true
+      },
+      {
+        "text": "tashqi hotiradagi saralash",
+        "correct": false
+      },
+      {
+        "text": "ichki ma’lumotlarni turlicha saralash",
+        "correct": false
+      },
+      {
+        "text": "tashqi ma’lumotlarni turlicha saralash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ikki o’lchovli massivda indekslar soni nechta bo’ladi?",
+    "answers": [
+      {
+        "text": "2 ta",
+        "correct": true
+      },
+      {
+        "text": "6 ta",
+        "correct": false
+      },
+      {
+        "text": "3 ta",
+        "correct": false
+      },
+      {
+        "text": "4 ta",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "isEmpty() ni vazifasi?",
+    "answers": [
+      {
+        "text": "navbatni bo‘shligini tekshirish",
+        "correct": true
+      },
+      {
+        "text": "navbatni bo’sh holga keltirish",
+        "correct": false
+      },
+      {
+        "text": "navbatni ochirish",
+        "correct": false
+      },
+      {
+        "text": "navbatga qoshish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kalitni berilgan argument bilan mosligini aniqlovchi algoritmga berilgan argument bo’yicha … deb ataladi. Nuqtalar o’rniga kerakli so’zni qo’ying.",
+    "answers": [
+      {
+        "text": "qidiruv",
+        "correct": true
+      },
+      {
+        "text": "tartib",
+        "correct": false
+      },
+      {
+        "text": "saralash",
+        "correct": false
+      },
+      {
+        "text": "kalitni tanlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kvadrat massiv deb qanday massivlarga aytiladi?",
+    "answers": [
+      {
+        "text": "ustunlar va satrlar soni teng bo’lgan massivga.",
+        "correct": true
+      },
+      {
+        "text": "faqat bir xil elementdan tashkil topgan massivga",
+        "correct": false
+      },
+      {
+        "text": "ustunlar soni satrlar sonidan ko’p bo’lgan massivga",
+        "correct": false
+      },
+      {
+        "text": "satrlar soni ustunlar sonidan ko’p bo’lgan massivga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Lokal o’zgaruvchilar dep nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "faqat funksiyada ishlatilishi mumkin bo’lgan o’zgaruvchilar",
+        "correct": true
+      },
+      {
+        "text": "ham asosiy programmada, ham funksiyada ishlatish mumkin bo’lgan o’zgaruvchi",
+        "correct": false
+      },
+      {
+        "text": "Asosiy funksiyadan chaqiriluvchi funksiyaga",
+        "correct": false
+      },
+      {
+        "text": "asosiy dasturdan funksiyaga uzatiladigan parametrlarni qabul qilib qayta ishlovchi funksiyalar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma`lumotlar tuzilmasini …. tasvirlash - bunda qaralayotgan ma`lumotlar tuzilmasi kompyuter xotirasida, aniqrog`I operativ xotirada qanday joylashishi tushuniladi.",
+    "answers": [
+      {
+        "text": "Fizik",
+        "correct": true
+      },
+      {
+        "text": "Matematik",
+        "correct": false
+      },
+      {
+        "text": "Konisturiktiv",
+        "correct": false
+      },
+      {
+        "text": "Matematik va konisturiktiv",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma‘lumotlar tuzilmasini …. tasvirlash - bu tuzilmani biror bir dasturlash tilida ifodalashdir.",
+    "answers": [
+      {
+        "text": "Mantiqiy",
+        "correct": true
+      },
+      {
+        "text": "An`anaviy",
+        "correct": false
+      },
+      {
+        "text": "Modulli",
+        "correct": false
+      },
+      {
+        "text": "Maqsadli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma’lumotlar tuzilmasi va algoritmi fanida saralashning necha turi mavjud?",
+    "answers": [
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma'lumotlar tuzilmasi fanida daraxt so`zi ko`pincha qanday nomlanadi?",
+    "answers": [
+      {
+        "text": "Tree",
+        "correct": true
+      },
+      {
+        "text": "Heap",
+        "correct": false
+      },
+      {
+        "text": "Heap tree",
+        "correct": false
+      },
+      {
+        "text": "Binar daraxt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Malumotlar tuzilmasining asosiy ko’rinishi necha turga bo’linadi?",
+    "answers": [
+      {
+        "text": "6",
+        "correct": true
+      },
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar saralanayotgan yozuvlar xotirada katta xajmni egallasa, u holda ularni almashtirishlar ko’p vaqt va katta hajmdagi xotira sarfini talab qiladi. Ushbu sarfni kamaytirish maqsadida, saralash kalitlar adresi jadvalida amalga oshiriladi. Bunda faqatgina ma’lumot ko’rsatkichlari almashtirilib, elementlar o’z joyida qoladi. Bu usul qanday usul deyiladi?",
+    "answers": [
+      {
+        "text": "adreslar jadvalini saralash",
+        "correct": true
+      },
+      {
+        "text": "xotiradan unomli foydalanish",
+        "correct": false
+      },
+      {
+        "text": "vaqt va xotirali saralash",
+        "correct": false
+      },
+      {
+        "text": "vaqt va xotiradan unumli foydalanish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mantiqiy operatsiyalar toifasidagi o’zgaruvchining qabul qiladigan qiymat oralig’i qanday?",
+    "answers": [
+      {
+        "text": "true, false",
+        "correct": true
+      },
+      {
+        "text": "0 va 1",
+        "correct": false
+      },
+      {
+        "text": "or va not",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar xato",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Massiv elementlari indeksi nechchidan boshlanadi?",
+    "answers": [
+      {
+        "text": "0",
+        "correct": true
+      },
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "istalgan nomerdan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "... — belgilangan miqdordagi elementlarni oʻz ichiga oladigan konteyner va ushbu elementlar bir xil turdagi boʻlishi kerak.",
+    "answers": [
+      {
+        "text": "Massiv",
+        "correct": true
+      },
+      {
+        "text": "Element",
+        "correct": false
+      },
+      {
+        "text": "Rekursiya",
+        "correct": false
+      },
+      {
+        "text": "Qiymat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Massivda bo’luvchi element X tanlanadi. Elementlarni shunday joylashtiramizki, dastlab X dan kichik yoki teng bo’lgan elementlar joylashsin, keyin undan katta bo’lgan elementlar joylashsin. Keyin ularni alohida saralaymiz. Bu qaysi algoritm g’oyasi?",
+    "answers": [
+      {
+        "text": "Tezkor saralash",
+        "correct": true
+      },
+      {
+        "text": "Pufakcha metodi",
+        "correct": false
+      },
+      {
+        "text": "Hoar metodi",
+        "correct": false
+      },
+      {
+        "text": "Merge metodi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Massivlarning qanday turlari mavjud?",
+    "answers": [
+      {
+        "text": "dinamik va static massivlar",
+        "correct": true
+      },
+      {
+        "text": "statik va chekli massivlar",
+        "correct": false
+      },
+      {
+        "text": "dinamik va bog’lamli massivlar",
+        "correct": false
+      },
+      {
+        "text": "konvaersativ va chekli massivlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Massivni necha xil ko’rinishi mavjud?",
+    "answers": [
+      {
+        "text": "2 xil",
+        "correct": true
+      },
+      {
+        "text": "3 xil",
+        "correct": false
+      },
+      {
+        "text": "4 xil",
+        "correct": false
+      },
+      {
+        "text": "turli xil",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Matritsa elementlari indekisi doimo qaysi raqamdan boshlanadi?",
+    "answers": [
+      {
+        "text": "0",
+        "correct": true
+      },
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "m tartibli daraxt nima?",
+    "answers": [
+      {
+        "text": "Agar maksimal chiqish darajasi m bo`lsa",
+        "correct": true
+      },
+      {
+        "text": "Agar maksimal chiqish darajasi minimal bo`lsa",
+        "correct": false
+      },
+      {
+        "text": "Agar maksimal chiqish darajasi maximal bo`lsa",
+        "correct": false
+      },
+      {
+        "text": "Agar maksimal chiqish darajasi array(m) bo`lsa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "O`ziga murojaat qiluvchi funksiya?",
+    "answers": [
+      {
+        "text": "Rekursiv",
+        "correct": true
+      },
+      {
+        "text": "Elementar",
+        "correct": false
+      },
+      {
+        "text": "Return",
+        "correct": false
+      },
+      {
+        "text": "Xesh funksiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Daraxt yordamida saralashning yaxshilangan variant nima deb ataladi?",
+    "answers": [
+      {
+        "text": "piramidali saralash",
+        "correct": true
+      },
+      {
+        "text": "binary tree saralash",
+        "correct": false
+      },
+      {
+        "text": "heap tree saralash)",
+        "correct": false
+      },
+      {
+        "text": "perfect tree saralash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Piramidali saralashni ixtirochisi kim?",
+    "answers": [
+      {
+        "text": "Dj. Uillyams",
+        "correct": true
+      },
+      {
+        "text": "Mark Tomphson",
+        "correct": false
+      },
+      {
+        "text": "T. Oliver",
+        "correct": false
+      },
+      {
+        "text": "F. Allen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "... - almashinish prinsipiga asoslangan mukammallashgan saralashning bir usuli.",
+    "answers": [
+      {
+        "text": "Tez saralash",
+        "correct": true
+      },
+      {
+        "text": "Pufakchali saralash",
+        "correct": false
+      },
+      {
+        "text": "Element chiqarish orqali saralash",
+        "correct": false
+      },
+      {
+        "text": "Selection saralash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tez saralash algoritmining ixtirochisi kim?",
+    "answers": [
+      {
+        "text": "Toni Xoar",
+        "correct": true
+      },
+      {
+        "text": "Mark Tomphson",
+        "correct": false
+      },
+      {
+        "text": "T. Oliver",
+        "correct": false
+      },
+      {
+        "text": "Feldher Allen",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qanday fayllar binar fayllar deyiladi?",
+    "answers": [
+      {
+        "text": "Har xil obyektlarni ifodalovchi baytlar ketma –ketligi",
+        "correct": true
+      },
+      {
+        "text": "Bir xil obyektlarni ifodalovchi baytlar ketma –ketligi",
+        "correct": false
+      },
+      {
+        "text": "Faylning aynan bir joyga yo`naltirilgani",
+        "correct": false
+      },
+      {
+        "text": "Aynan bir malumot kiritish yoki chiqarish uchun mo`jallangan faylga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - bu dasturchilarga navbat, ro'yxat va stek kabi keng tarqalgan ma'lumotlar tuzilmalarini osonlikcha amalga oshirishga imkon beradigan sinf andozalari va algoritmlarning universal to'plamidir.",
+    "answers": [
+      {
+        "text": "Konteynerlar kutubxonasi",
+        "correct": true
+      },
+      {
+        "text": "Ma’lumot tuzilmalari",
+        "correct": false
+      },
+      {
+        "text": "Universal algoritmlar",
+        "correct": false
+      },
+      {
+        "text": "Bo’lib tashla va hukumronlik qil algoritmi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi toifa faqat butun sonlarni o’z ichiga oladi?",
+    "answers": [
+      {
+        "text": "int",
+        "correct": true
+      },
+      {
+        "text": "float",
+        "correct": false
+      },
+      {
+        "text": "double",
+        "correct": false
+      },
+      {
+        "text": "long",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ro’yxatning oxiridan kirish uchun qaysi ko’rsatkichdan foydalanmiz?",
+    "answers": [
+      {
+        "text": "Tail",
+        "correct": true
+      },
+      {
+        "text": "Main",
+        "correct": false
+      },
+      {
+        "text": "Last in",
+        "correct": false
+      },
+      {
+        "text": "LIFO",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qiymatlar parametri deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "asosiy dasturdan funksiyaga uzatiladigan o’zgaruvchilar qiymatini qabul qilib oluvchi parametrlar",
+        "correct": true
+      },
+      {
+        "text": "asosiy funksiyadan chaqiriluvchi funksiya",
+        "correct": false
+      },
+      {
+        "text": "ham asosiy programmada, ham funksiyada ishlatish mumkin bo’lgan parameter",
+        "correct": false
+      },
+      {
+        "text": "asosiy dasturdan funksiyaga uzatiladigan parametrlarni qabul qilib qayta ishlovchi va o’zida doimiy saqlovchi parametr",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bir bog’lamli ro’yhatlarda indeksni saqlovchi nechtaga ajratiladi?",
+    "answers": [
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "1",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "istalgancha",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bir bog’lamli ro’yhatning xar bir indeksida nima saqlanadi?",
+    "answers": [
+      {
+        "text": "ma’lumot va o’zidan oldingi ma’lumot indeksi",
+        "correct": true
+      },
+      {
+        "text": "o’zidan olindingi va keying ma’lumotlar",
+        "correct": false
+      },
+      {
+        "text": "ro’yhatning massivlari soni",
+        "correct": false
+      },
+      {
+        "text": "ro’yhatning ketma-ketlik zanjiri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "To’liq binar daraxt nima?",
+    "answers": [
+      {
+        "text": "chiqish darajasi 0 yoki 2 bo’lsa",
+        "correct": true
+      },
+      {
+        "text": "chiqish darajasi 1 yoki 2 bo’lsa",
+        "correct": false
+      },
+      {
+        "text": "chiqish darajasi 0 yoki 1 bo’lsa",
+        "correct": false
+      },
+      {
+        "text": "chiqish darajasi faqat 2 bo’lsa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma’lumotlarni tasvirlashning mantiqiy bosqichi deganda nimani tushunasiz?",
+    "answers": [
+      {
+        "text": "ma’lumotlar tuzilmasini biror  bir  dasturlash  tilida  ifodalanishi tushuniladi",
+        "correct": true
+      },
+      {
+        "text": "ushbu  bosqichda  EHM  xotirasi chekli bo`lganligi sababli, xotirani taqsimlash va uni boshqarish muammosi hal qilinadi",
+        "correct": false
+      },
+      {
+        "text": "ob’yekt, xodisa yoki biror bir jarayonni matematik model qurildi degani osha qaralayotgan tizimni ma’lum bir matematik qonuniyatlar orqali, ya’ni matematik formulalar orqali ifodalanishidir",
+        "correct": false
+      },
+      {
+        "text": "ma’lumotlarning abstrakt turlarini tavsiflash uchun o’zida o’zgaruvchilarning aniq to’plamini, mumkin bo’lgan ma’lumotlar turini mujassamlashtirgan ma’lumotlar tuzilmasidan foydalaniladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma’lumotlarning abstrakt (mavhum) turlari nima?",
+    "answers": [
+      {
+        "text": "bu matematik model va shu model doirasida aniqlangan turli xil operatorlardir",
+        "correct": true
+      },
+      {
+        "text": "bu mavhum elementlarni jamlovchi ma'lumotlar tuzilmasi",
+        "correct": false
+      },
+      {
+        "text": "bu abstrakt elementlarni massivda e'lon qilish orqali algoritmda ifodalash nazariyasi",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to'g'ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "... - bu biror bir ob’ekt, jarayon, hodisa yoki voqelikni ifodalab (tasniflab) beruvchi belgi yoki belgilar majmuasidir.",
+    "answers": [
+      {
+        "text": "ma'lumot",
+        "correct": true
+      },
+      {
+        "text": "algoritm",
+        "correct": false
+      },
+      {
+        "text": "dastur",
+        "correct": false
+      },
+      {
+        "text": "dastur kodi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Rekursiv algoritm nima?",
+    "answers": [
+      {
+        "text": "bu algoritmni aniqlashda o’ziga bevosita va bilvosita murojaat qilishdir",
+        "correct": true
+      },
+      {
+        "text": "bu algoritmni aniqlashda o’ziga bevosita murojaat qilishdir",
+        "correct": false
+      },
+      {
+        "text": "tadqiq qilinayotgan jarayonni aniqlash shu jarayonni o'rin almashtirish orqali amalga oshiriladi",
+        "correct": false
+      },
+      {
+        "text": "bu algaritim oziga qilingan murojarlarni ochiriadi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Rekursiya nima?",
+    "answers": [
+      {
+        "text": "tadqiq qilinayotgan jarayonni aniqlash mazkur jarayonga murojaat qilish orqali amalga oshiriladi",
+        "correct": true
+      },
+      {
+        "text": "tadqiq qilinayotgan jarayonni aniqlash mazkur jarayonga qaytish orqali amalga oshiriladi",
+        "correct": false
+      },
+      {
+        "text": "tadqiq qilinayotgan jarayonni aniqlash shu jarayonni takrorlash orqali amalga oshiriladi",
+        "correct": false
+      },
+      {
+        "text": "tadqiq qilinayotgan jarayonni aniqlash shu jarayonni o'rin almashtirish orqali amalga oshiriladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ro`yxat elementlari soni n ga teng. Ro`yxat uzunligi nechiga teng?",
+    "answers": [
+      {
+        "text": "n",
+        "correct": true
+      },
+      {
+        "text": "n-1",
+        "correct": false
+      },
+      {
+        "text": "n*2",
+        "correct": false
+      },
+      {
+        "text": "logn",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tuzilmada  elementlar  o‘zidan  keyingi  element  bilan  bog‘langan  bolsa qanday ro’yhat deyiladi",
+    "answers": [
+      {
+        "text": "bir bog’lamli",
+        "correct": true
+      },
+      {
+        "text": "ikki bog’lamli",
+        "correct": false
+      },
+      {
+        "text": "bog’lamli ro'yhat",
+        "correct": false
+      },
+      {
+        "text": "ketma-ketli bog’langan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "To’tr nafar inson A dan B ga osma ko’prik orqali imkoni boricha tezroq o’tib olishi kerak. Ko’prik ko’pi bilan bir vaqtda 2 kishini ko’taradi xolos. Qorong’u bo’lgani uchun fonarsiz o’tib bo’lmaydi. Fonar faqat 1 ta. To’rt nafar insonnning ko’prikdan o’tish vaqti turlicha, ya’ni mos ravishda 1, 3, 6, 9 daqiqa. Ko’prikdan o’tib olish vaqtining optimal qiymatini toping.",
+    "answers": [
+      {
+        "text": "19",
+        "correct": true
+      },
+      {
+        "text": "17",
+        "correct": false
+      },
+      {
+        "text": "18",
+        "correct": false
+      },
+      {
+        "text": "20",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stack ustida amallar bajarishimizda PUSH nima vazifa bajaradi",
+    "answers": [
+      {
+        "text": "element qo’shish",
+        "correct": true
+      },
+      {
+        "text": "element sug’urib olish",
+        "correct": false
+      },
+      {
+        "text": "o’tadagi elementni ko’rish",
+        "correct": false
+      },
+      {
+        "text": "elementlar sonini hisoblash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stack ustida amallar bajarishimizda POP nima vazifa bajaradi",
+    "answers": [
+      {
+        "text": "element sug’urib olish",
+        "correct": true
+      },
+      {
+        "text": "element qo’shish",
+        "correct": false
+      },
+      {
+        "text": "o’tadagi elementni ko’rish",
+        "correct": false
+      },
+      {
+        "text": "elementlar sonini hisoblash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stack ustida amallar bajarishimizda isFull nima vazifa bajaradi",
+    "answers": [
+      {
+        "text": "to’plam to’la ekenligini tekshirish",
+        "correct": true
+      },
+      {
+        "text": "element qo’shish va element sug’urib olish",
+        "correct": false
+      },
+      {
+        "text": "o’tadagi elementni ko’rish",
+        "correct": false
+      },
+      {
+        "text": "elementlar sonini hisoblash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stack asosida qaysi funksiya ishlaydi?",
+    "answers": [
+      {
+        "text": "Rekursiv funksiya",
+        "correct": true
+      },
+      {
+        "text": "Xesh funksiya",
+        "correct": false
+      },
+      {
+        "text": "Call stack funksiya",
+        "correct": false
+      },
+      {
+        "text": "Program stack funksiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Call Stack qaysi funksiya asosida ishlaydi?",
+    "answers": [
+      {
+        "text": "Rekursiv funksiya",
+        "correct": true
+      },
+      {
+        "text": "Xesh funksiya",
+        "correct": false
+      },
+      {
+        "text": "Conquer funksiya",
+        "correct": false
+      },
+      {
+        "text": "Program stack funksiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – bu elementlarning tartiblangan to’plami bo’lib, bunda elementlarni qo’shish bir tomondan – tuzilma oxiridan (bu navbat oxiri deb ataladi), elementlarni o’chirish esa, tuzilmaning ikkinchi oxiri – navbat boshi deb ataluvchi tomonidan ruxsat beriladi.",
+    "answers": [
+      {
+        "text": "Navbat",
+        "correct": true
+      },
+      {
+        "text": "Dek",
+        "correct": false
+      },
+      {
+        "text": "Conquer funksiya",
+        "correct": false
+      },
+      {
+        "text": "Program stack",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ulardan qaysi biri additiv binar amal?",
+    "answers": [
+      {
+        "text": "(+) qo’shish",
+        "correct": true
+      },
+      {
+        "text": "(*) ko’paytirish",
+        "correct": false
+      },
+      {
+        "text": "(:) bo’lish",
+        "correct": false
+      },
+      {
+        "text": "(%) modul olish ya’ni qoldiqli bo’lish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma'lumotlar tuzilmasi va algoritmlar fanining vazifasi nima?",
+    "answers": [
+      {
+        "text": "talabalarni turli xil ma’lumotlar tuzilmalari bilan tanishtirish, yangi tuzilmalarni ishlab chiqish va o’quv jarayonlariga tadbiq etish usullari o’rgatishdan iboratdir",
+        "correct": true
+      },
+      {
+        "text": "turli dasturlash tizimlarida loyihalash usullari, ma’lumotlar tuzilmasini ishlab chiqish hamda algoritmlar bo’yicha nazariy va amaliy bilimlar berish",
+        "correct": false
+      },
+      {
+        "text": "Kurs talabalarni tuzilmalar ko’rinishida ma’lumotlarni gayta ishlash, optimal algoritimlar ishlab chiqish va dasturlash ko’nikmalarini takomillashtirishga yo’naltiradi",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to'g'ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma’lumotlarni tasvirlash nechta ko`rinishdagi bosqichlarga ajratiladi?",
+    "answers": [
+      {
+        "text": "3",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Balanced search tree‘da Big O nimaga teng?",
+    "answers": [
+      {
+        "text": "logn",
+        "correct": true
+      },
+      {
+        "text": "n*logn",
+        "correct": false
+      },
+      {
+        "text": "n*edges",
+        "correct": false
+      },
+      {
+        "text": "n",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - daraxtni balansda ushlab turish uchun node’larni chapga yoki o’ngga burish yoki ranglarni almashtirish amallarini bajarardi.",
+    "answers": [
+      {
+        "text": "Red-black tree",
+        "correct": true
+      },
+      {
+        "text": "AVL tree",
+        "correct": false
+      },
+      {
+        "text": "Balanced tree",
+        "correct": false
+      },
+      {
+        "text": "Perfect tree",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Binar daraxtning asosiy nechta turi mavjud?",
+    "answers": [
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - daraxtni balansda ushlab turish uchun node’larni chapga yoki o’ngga burish amallarini bajarardi.",
+    "answers": [
+      {
+        "text": "AVL tree",
+        "correct": true
+      },
+      {
+        "text": "Binary complate tree",
+        "correct": false
+      },
+      {
+        "text": "Balanced tree",
+        "correct": false
+      },
+      {
+        "text": "Perfect tree",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Har bir node 0 yoki 2 children node’ga ega bo’lgan binary tree nima deb ataladi?",
+    "answers": [
+      {
+        "text": "Full binary tree",
+        "correct": true
+      },
+      {
+        "text": "Binary complate tree",
+        "correct": false
+      },
+      {
+        "text": "Balanced tree",
+        "correct": false
+      },
+      {
+        "text": "Perfect binary tree",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar barcha internal node’larda ikkitadan child bo’lsa va barcha external childlar bir darajada bo’lsa qanday daraxt deb ataladi?",
+    "answers": [
+      {
+        "text": "Perfect binary tree",
+        "correct": true
+      },
+      {
+        "text": "Binary complate tree",
+        "correct": false
+      },
+      {
+        "text": "Balanced tree",
+        "correct": false
+      },
+      {
+        "text": "Fullt binary tree",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar har bir parent node’ning faqat bitta child node’i bo’lsa qanday daraxt deb ataladi?",
+    "answers": [
+      {
+        "text": "Degenerate binary tree",
+        "correct": true
+      },
+      {
+        "text": "Binary complate tree",
+        "correct": false
+      },
+      {
+        "text": "Balanced tree",
+        "correct": false
+      },
+      {
+        "text": "Fullt binary tree",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Red-black tree hususiyatlariqaysi javobda to’g’ri berilgan?",
+    "answers": [
+      {
+        "text": "Barcha javoblar to’g’ri",
+        "correct": true
+      },
+      {
+        "text": "Node’da ikki qizil bog’lanish bo’lishi mumkin emas, bu holda 4-node bo’lib qoladi va 2-3 tree’dagi kabi u uchta 2-node’ga ajratiladi",
+        "correct": false
+      },
+      {
+        "text": "root’dan leaf’gacha barcha yo’nalishlarda bir xil sonda qora bog’lanishlar (odatiy bog’lanishlar) bo’ladi – ya’ni mukammal qora balansga ega",
+        "correct": false
+      },
+      {
+        "text": "3-node’ning katta qiymati parent’ga o’tadi, shu sababli qizil bog’lanish node’ning faqat chap tarafida bo’ladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ma'lumotlar tuzilmasi va algoritmlar fanining maqsadi nima?",
+    "answers": [
+      {
+        "text": "turli dasturlash tizimlarida loyihalash usullari, ma’lumotlar tuzilmasini ishlab chiqish hamda algoritmlar bo’yicha nazariy va amaliy bilimlar berish",
+        "correct": true
+      },
+      {
+        "text": "talabalarni turli xil ma’lumotlar tuzilmalari bilan tanishtirish, yangi tuzilmalarni ishlab chiqish va o’quv jarayonlariga tadbiq etish usullari o’rgatishdan iboratdir",
+        "correct": false
+      },
+      {
+        "text": "Kurs talabalarni tuzilmalar ko’rinishida ma’lumotlarni gayta ishlash, optimal algoritimlar ishlab chiqish va dasturlash ko’nikmalarini takomillashtirishga yo’naltiradi",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to'g'ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Algoritm samaradorligi nima bilan o'lchanadi?",
+    "answers": [
+      {
+        "text": "tezlik va xotira",
+        "correct": true
+      },
+      {
+        "text": "xatosiz va tez",
+        "correct": false
+      },
+      {
+        "text": "algoritmlar to'g'ri ishlatilganligiga",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to'g'ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - muammoning qadam-baqadam yechimi.",
+    "answers": [
+      {
+        "text": "algoritm",
+        "correct": true
+      },
+      {
+        "text": "loyiha",
+        "correct": false
+      },
+      {
+        "text": "dastur",
+        "correct": false
+      },
+      {
+        "text": "dastur kodi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dasturga to'g'ri tarif berilgan javobni tanlang.",
+    "answers": [
+      {
+        "text": "qo'yilgan muammoga yechim topish uchun kompyuterga qaysi amallarni qanday ketma-ketlikda bajarishni aytuvchi ko'rsatmalar to'plami",
+        "correct": true
+      },
+      {
+        "text": "aniq sondagi amallarni bajarish nazarda tutilib, ijrochiga joriy qadam tugatilishi bilan keyin bajariladigan qadam aniq ko’rsatilishi kerak",
+        "correct": false
+      },
+      {
+        "text": "berilgan ko’rsatmalar ijrochiga tushunarli bo’lishi va uning talablariga to’liq javob berishi kerak",
+        "correct": false
+      },
+      {
+        "text": "ma’lum kiruvchi ma’lumotlardan izlanayotgan yechimga olib keluvchi hisoblash jarayoni to’g’risidagi ko’rsatma",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Unda elementlarni kiritish va o'qish, elementlar uchidan amalga oshiriladi. U nima?",
+    "answers": [
+      {
+        "text": "Stek",
+        "correct": true
+      },
+      {
+        "text": "Dek",
+        "correct": false
+      },
+      {
+        "text": "Qator",
+        "correct": false
+      },
+      {
+        "text": "Navbat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Algoritmlarda natijaviylik nima?",
+    "answers": [
+      {
+        "text": "Har bir algoritm chekli sondagi qadamlardan so‘ng albatta natija berishi shart.",
+        "correct": true
+      },
+      {
+        "text": "aniq sondagi amallarni bajarish nazarda tutilib, ijrochiga joriy qadam tugatilishi bilan keyin bajariladigan qadam aniq ko’rsatilishi kerak",
+        "correct": false
+      },
+      {
+        "text": "berilgan ko’rsatmalar ijrochiga tushunarli bo’lishi va uning talablariga to’liq javob berishi kerak",
+        "correct": false
+      },
+      {
+        "text": "hal qilinayotgan jarayonni qadamma-qadam ko’rinish tasvirlanishi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Algoritmning qanday xossalari mavjud?",
+    "answers": [
+      {
+        "text": "Barcha javoblar to'g'ri",
+        "correct": true
+      },
+      {
+        "text": "diskretlik va ommaviylik",
+        "correct": false
+      },
+      {
+        "text": "tushunarlilik va aniqlik",
+        "correct": false
+      },
+      {
+        "text": "natijaviylik, tushunarlilik va aniqlik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Algoritmlar nazariyasini o'rgangan olim D.E.Knut algoritmga qanday ta'rif bergan?",
+    "answers": [
+      {
+        "text": "Algoritm – bu aniq masalalar to’plamini yechish uchun amallar ketma-ketligini aniqlovchi tugallangan qoidalar majmuasi bo’lib, u 5 ta muhim xossalarga ega bo’ladi: tugallanganlik, aniqlik, kirish, chiqish, samaradorlik.",
+        "correct": true
+      },
+      {
+        "text": "Algoritm – bu ma’lum kiruvchi ma’lumotlardan izlanayotgan yechimga olib keluvchi hisoblash jarayoni to’g’risidagi ko’rsatma",
+        "correct": false
+      },
+      {
+        "text": "Algoritm – bu qat’iy belgilangan qoidalarga muvofiq amalga oshiriladigan muayyan sondagi qadamlardan keyin masalaning yechimiga olib keluvchi hisoblash tizimidir.",
+        "correct": false
+      },
+      {
+        "text": "Algoritm — bu bir turdagi masalalarni yechishga olib keladigan aniq operatsiya (amal)lar tizimini muayyan tartibda bajarish to’g’risidagi ko’rsatma",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Algoritmlar nazariyasini o'rgangan olim A.Markov algoritmga qanday ta'rif bergan?",
+    "answers": [
+      {
+        "text": "Algoritm – bu ma’lum kiruvchi ma’lumotlardan izlanayotgan yechimga olib keluvchi hisoblash jarayoni to’g’risidagi ko’rsatma",
+        "correct": true
+      },
+      {
+        "text": "Algoritm – bu qat’iy belgilangan qoidalarga muvofiq amalga oshiriladigan muayyan sondagi qadamlardan keyin masalaning yechimiga olib keluvchi hisoblash tizimidir.",
+        "correct": false
+      },
+      {
+        "text": "Algoritm — bu bir turdagi masalalarni yechishga olib keladigan aniq operatsiya (amal)lar tizimini muayyan tartibda bajarish to’g’risidagi ko’rsatma",
+        "correct": false
+      },
+      {
+        "text": "Algoritm – bu aniq masalalar to’plamini yechish uchun amallar ketma-ketligini aniqlovchi tugallangan qoidalar majmuasi bo’lib, u 5 ta muhim xossalarga ega bo’ladi: tugallanganlik, aniqlik, kirish, chiqish, samaradorlik.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stek qanday prinsip boyicha ishlaydi",
+    "answers": [
+      {
+        "text": "oxirgi  kelgan  birinchi  ketadi",
+        "correct": true
+      },
+      {
+        "text": "oxirgi  kelgan  oxiri  ketadi",
+        "correct": false
+      },
+      {
+        "text": "birinchi  kelgan  birinchi  ketadi",
+        "correct": false
+      },
+      {
+        "text": "birinchi  ketgan  oxiri  keladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"String a(\"\"yaxshi\"\");",
+    "answers": [
+      {
+        "text": "\"yaxshikun\"",
+        "correct": true
+      },
+      {
+        "text": "\"yaxshi+kun\"",
+        "correct": false
+      },
+      {
+        "text": "\"a+b\"",
+        "correct": false
+      },
+      {
+        "text": "\"yaxshi kun\"",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Algoritmlar nazariyasini o'rgangan olim A.Kolmogorov algoritmga qanday ta'rif bergan?",
+    "answers": [
+      {
+        "text": "Algoritm – bu qat’iy belgilangan qoidalarga muvofiq amalga oshiriladigan muayyan sondagi qadamlardan keyin masalaning yechimiga olib keluvchi hisoblash tizimidir.",
+        "correct": true
+      },
+      {
+        "text": "Algoritm — bu bir turdagi masalalarni yechishga olib keladigan aniq operatsiya (amal)lar tizimini muayyan tartibda bajarish to’g’risidagi ko’rsatma",
+        "correct": false
+      },
+      {
+        "text": "Algoritm – bu ma’lum kiruvchi ma’lumotlardan izlanayotgan yechimga olib keluvchi hisoblash jarayoni to’g’risidagi ko’rsatma",
+        "correct": false
+      },
+      {
+        "text": "Barcha javoblar to'g'ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "M.M.Rozental tahriri ostida chop etilgan falsafa lug’atida algoritmga qanday ta'rif berilgan?",
+    "answers": [
+      {
+        "text": "Algoritm — bu bir turdagi masalalarni yechishga olib keladigan aniq operatsiya (amal)lar tizimini muayyan tartibda bajarish to’g’risidagi ko’rsatma",
+        "correct": true
+      },
+      {
+        "text": "Algoritm – bu qat’iy belgilangan qoidalarga muvofiq amalga oshiriladigan muayyan sondagi qadamlardan keyin masalaning yechimiga olib keluvchi hisoblash tizimidir.",
+        "correct": false
+      },
+      {
+        "text": "Algoritm – bu ma’lum kiruvchi ma’lumotlardan izlanayotgan yechimga olib keluvchi hisoblash jarayoni to’g’risidagi ko’rsatma",
+        "correct": false
+      },
+      {
+        "text": "Barcha javoblar to'g'ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - bu qo’yilgan masalani  yechilishiga olib keluvchi aniq harakatlarning chekli ketma-ketligidir.",
+    "answers": [
+      {
+        "text": "algoritm",
+        "correct": true
+      },
+      {
+        "text": "Rekursiv funksiya",
+        "correct": false
+      },
+      {
+        "text": "rekursiya",
+        "correct": false
+      },
+      {
+        "text": "parametirsiz va lokal o'zgaruvchilar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "switch quyidagi tiplarning qaysi biri bilan ishlaydi?",
+    "answers": [
+      {
+        "text": "int",
+        "correct": true
+      },
+      {
+        "text": "float",
+        "correct": false
+      },
+      {
+        "text": "double",
+        "correct": false
+      },
+      {
+        "text": "while",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tanlash operatori nima dep nomlanadi?",
+    "answers": [
+      {
+        "text": "switch",
+        "correct": true
+      },
+      {
+        "text": "if",
+        "correct": false
+      },
+      {
+        "text": "for",
+        "correct": false
+      },
+      {
+        "text": "while",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tanlash operatorini birorta ham qiymatiga to’gri kelmagan holda qaysi operator qo’yiladi?",
+    "answers": [
+      {
+        "text": "default",
+        "correct": true
+      },
+      {
+        "text": "case",
+        "correct": false
+      },
+      {
+        "text": "else",
+        "correct": false
+      },
+      {
+        "text": "if",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tashqi saralash nima?",
+    "answers": [
+      {
+        "text": "tashqi hotiradagi saralash",
+        "correct": true
+      },
+      {
+        "text": "operativ hotiradagi saralash",
+        "correct": false
+      },
+      {
+        "text": "ichki ma’lumotlarni turlicha saralash",
+        "correct": false
+      },
+      {
+        "text": "tashqi ma’lumotlarni turlicha saralash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "To`liq m-tartibli daraxt nima?",
+    "answers": [
+      {
+        "text": "Agar chiqish darajasi 0 yoki m bo’lsa",
+        "correct": true
+      },
+      {
+        "text": "chiqish darajasi 0 yoki 2 bo’lsa",
+        "correct": false
+      },
+      {
+        "text": "chiqish darajasi 0 yoki 1 bo’lsa",
+        "correct": false
+      },
+      {
+        "text": "chiqish darajasi 0 yoki n bo’lsa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"Uni ikkita bo’lakga ajratamiz.",
+    "answers": [
+      {
+        "text": "Bo’lib tashlab hukumronlik qil metodi",
+        "correct": true
+      },
+      {
+        "text": "Quick sort",
+        "correct": false
+      },
+      {
+        "text": "Qo'shib  hukumronlik qil metodi",
+        "correct": false
+      },
+      {
+        "text": "Barcha javoblar to'g'ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ushbu algoritmlar ishlab chiqarilayotganda, ko’proq, jadvaldagi kalitlarni taqqoslash soniga e’tibor qaratiladi. Qaysi algoritmlar haqida gap ketmoqda?",
+    "answers": [
+      {
+        "text": "Qidiruv algoritmlari",
+        "correct": true
+      },
+      {
+        "text": "Saralash algoritmlar",
+        "correct": false
+      },
+      {
+        "text": "Hisoblash algoritmlari",
+        "correct": false
+      },
+      {
+        "text": "Navbat algoritmlari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Xotiradan 8 bayt joy egallaydigan butun qiymatli o’zgaruvchini ko’rsating",
+    "answers": [
+      {
+        "text": "double a",
+        "correct": true
+      },
+      {
+        "text": "long a",
+        "correct": false
+      },
+      {
+        "text": "long long a",
+        "correct": false
+      },
+      {
+        "text": "long double a",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Yarimstatik  ma‘lumotlar  tuzilmasiga nimalar kiradi",
+    "answers": [
+      {
+        "text": "stek, dek, navbat",
+        "correct": true
+      },
+      {
+        "text": "qator, dek, navbat",
+        "correct": false
+      },
+      {
+        "text": "stek, dek, ustun",
+        "correct": false
+      },
+      {
+        "text": "qator, dek, ustun",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – node’lar o’rtasidagi bog’lanish bir tomonlama bo’ladi.",
+    "answers": [
+      {
+        "text": "yo’nalishli tomonlar",
+        "correct": true
+      },
+      {
+        "text": "stack",
+        "correct": false
+      },
+      {
+        "text": "navbat",
+        "correct": false
+      },
+      {
+        "text": "Butun tipli stack",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – node’lar ikki taraflama bog’langan bo’ladi.",
+    "answers": [
+      {
+        "text": "yo’nalishsiz tomonlar",
+        "correct": true
+      },
+      {
+        "text": "stack",
+        "correct": false
+      },
+      {
+        "text": "dek",
+        "correct": false
+      },
+      {
+        "text": "navbat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – ikki va undan ko’p node’lar orasidagi yo’l.",
+    "answers": [
+      {
+        "text": "Path",
+        "correct": true
+      },
+      {
+        "text": "Degree",
+        "correct": false
+      },
+      {
+        "text": "Dek",
+        "correct": false
+      },
+      {
+        "text": "Binar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – node’ning boshqa node’larga bog’lanishlari soni.",
+    "answers": [
+      {
+        "text": "Degree",
+        "correct": true
+      },
+      {
+        "text": "Cycle",
+        "correct": false
+      },
+      {
+        "text": "Directed",
+        "correct": false
+      },
+      {
+        "text": "Vertex",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - algoritmi oson klassik graph algoritmlaridan biri bo’lib, u rekursiya ichida graph’dagi barcha vertex’larni tekshirib chiqishga yordam beradi.",
+    "answers": [
+      {
+        "text": "Depth first search",
+        "correct": true
+      },
+      {
+        "text": "Trémaux maze exploration",
+        "correct": false
+      },
+      {
+        "text": "Traversal",
+        "correct": false
+      },
+      {
+        "text": "Breadth first search",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Vaznli graf deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "har bir yoyga mos ravishda qandaydir sonli qiymatlar – og’irlik qo’yilgan graflar",
+        "correct": true
+      },
+      {
+        "text": "ularda yo’naltrilgan, shuningdek yo’naltirilmagan bog’lovchi yoylar bo’lishi mumkin",
+        "correct": false
+      },
+      {
+        "text": "ikkila tomonga ham harakatlanish mumkin va uning og’irligi mavjud",
+        "correct": false
+      },
+      {
+        "text": "faqar ikkila tomonga ham harakatlanish mumkin va uning og’irligi manfiy yoki musbat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Aralash graf deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "ularda yo’naltrilgan va yo’naltirilmagan bog’lovchi yoylar bo’lishi mumkin",
+        "correct": true
+      },
+      {
+        "text": "har bir yoyga mos ravishda qandaydir sonli qiymatlar – og’irlik qo’yilgan graflar",
+        "correct": false
+      },
+      {
+        "text": "ikkila tomonga ham harakatlanish mumkin va uning og’irligi mavjud",
+        "correct": false
+      },
+      {
+        "text": "faqar ikkila tomonga ham harakatlanish mumkin va uning og’irligi manfiy yoki musbat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bir toifaga mansub elementlar to’plami nima dep nomlanadi?",
+    "answers": [
+      {
+        "text": "massiv",
+        "correct": true
+      },
+      {
+        "text": "enum",
+        "correct": false
+      },
+      {
+        "text": "matritsa",
+        "correct": false
+      },
+      {
+        "text": "korsatkich",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "LIFO bu nimaning ta’rifi?",
+    "answers": [
+      {
+        "text": "Stek",
+        "correct": true
+      },
+      {
+        "text": "Navbat",
+        "correct": false
+      },
+      {
+        "text": "Dek",
+        "correct": false
+      },
+      {
+        "text": "Qator",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Massiv bu …",
+    "answers": [
+      {
+        "text": "Bir toifali chekli qiymatlarning tartiblangan to’plami.",
+        "correct": true
+      },
+      {
+        "text": "Bir toifali cheksiz qiymatlarning tartiblangan to’plami",
+        "correct": false
+      },
+      {
+        "text": "Turli toifali cheksiz qiymatlarning tartiblangan to’plami",
+        "correct": false
+      },
+      {
+        "text": "Turli toifali chekli qiymatlarning tartiblangan to’plami",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Massivni initsalizatsiyalash to’g’ri ko’rsatilgan javobni toping?",
+    "answers": [
+      {
+        "text": "int a[3]={45,12,1}.",
+        "correct": true
+      },
+      {
+        "text": "int a[4]={12,3,4,43,2}",
+        "correct": false
+      },
+      {
+        "text": "int a[5]={“12,3,4”}",
+        "correct": false
+      },
+      {
+        "text": "float j[]={‘1,2,3,4,5.5,5.6’}",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Multiplikativ binar amallarni ko’rsating.",
+    "answers": [
+      {
+        "text": "(*), (/) , (%)",
+        "correct": true
+      },
+      {
+        "text": "(+), (-), (*), (/)",
+        "correct": false
+      },
+      {
+        "text": "(%), (!), (),",
+        "correct": false
+      },
+      {
+        "text": "(!), (), (=)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "pop() qanday vazifa bajaradi?",
+    "answers": [
+      {
+        "text": "stekdan elemantni o’chiradi",
+        "correct": true
+      },
+      {
+        "text": "stekka element qo’shadi",
+        "correct": false
+      },
+      {
+        "text": "stek elementini o’zgartiradi",
+        "correct": false
+      },
+      {
+        "text": "vazifa bajarmaydi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mavjud saralash algoritmlarini qanday guruhga ajratish mumkin?",
+    "answers": [
+      {
+        "text": "ichki va tashqi saralash algoritmlari",
+        "correct": true
+      },
+      {
+        "text": "merge va selection saralash algoritmlari",
+        "correct": false
+      },
+      {
+        "text": "bubble va insertion saralash algoritmlari",
+        "correct": false
+      },
+      {
+        "text": "piramidali va quick saralash algoritmlari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Massivlarda saralash usullarini nechta sinfga ajratish mumkin?",
+    "answers": [
+      {
+        "text": "3",
+        "correct": true
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qanday tip matematikada matritsa yoki jadval tushunchasiga mos keladi",
+    "answers": [
+      {
+        "text": "Ikki o’lchovli massiv",
+        "correct": true
+      },
+      {
+        "text": "Double float",
+        "correct": false
+      },
+      {
+        "text": "Boolen",
+        "correct": false
+      },
+      {
+        "text": "Uch o’lchovli massiv",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Massivlarda saralash usullarini qanday sinflari mavjud?",
+    "answers": [
+      {
+        "text": "qo’yish orqali va tanlash asosida saralash",
+        "correct": true
+      },
+      {
+        "text": "tanlash va qo’yish asosida saralash",
+        "correct": false
+      },
+      {
+        "text": "tanlash va belgilash asosida saralash",
+        "correct": false
+      },
+      {
+        "text": "belgilash va qo’yish orqali saralash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quick sort qaysi metodga asoslanadi?",
+    "answers": [
+      {
+        "text": "Bo’lib tashla va hukumronlik qil metodiga",
+        "correct": true
+      },
+      {
+        "text": "Sheyker saralash usul metodiga",
+        "correct": false
+      },
+      {
+        "text": "Merge va tanlash metodiga",
+        "correct": false
+      },
+      {
+        "text": "Pufakcha metodiga",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Stephen Hawking rekursiyaga qanday ta’rif bergan?",
+    "answers": [
+      {
+        "text": "Rekursiya nimaligini tushunish uchun oldin rekursiya nimagligini tushunish kerak",
+        "correct": true
+      },
+      {
+        "text": "rekursiya dasturlashning eng murakkab masalalarining asosi hisoblanadi, shuning uchun ham uni yaxshi tushunish va to’g’ri ishlata olish juda ham muhim",
+        "correct": false
+      },
+      {
+        "text": "Rekursiv funksiya qaysidir vaqtga kelib o’ziga murojaat qilishni to’xtatishi kerak bo’ladi.",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Double Float tipi xotiradan qancha joy egallaydi?",
+    "answers": [
+      {
+        "text": "8 bayt",
+        "correct": true
+      },
+      {
+        "text": "12 bayt",
+        "correct": false
+      },
+      {
+        "text": "16 bayt",
+        "correct": false
+      },
+      {
+        "text": "Kompyuter konfiguratsiyasiga qarab",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "...- bu elementlari soni bir hil faqatgina teskari ketma- ketlikda yozilgan ikkita bir bog‘lamli ro‘yxatdir.",
+    "answers": [
+      {
+        "text": "Ikki bog‘lamli ro‘yxat",
+        "correct": true
+      },
+      {
+        "text": "Bir bog‘lamli ro‘yxat",
+        "correct": false
+      },
+      {
+        "text": "Navbat",
+        "correct": false
+      },
+      {
+        "text": "Dek",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bazaviy ma’lumotlar toifasiga nima kiradi?",
+    "answers": [
+      {
+        "text": "bo’sh va skalyar",
+        "correct": true
+      },
+      {
+        "text": "skalyar va tuzilmaviy",
+        "correct": false
+      },
+      {
+        "text": "butun sonli va xaqiqiy",
+        "correct": false
+      },
+      {
+        "text": "binar va tuzilmaviy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "“oxirgi kelgan - birinchi ketadi” bu nimaning ta’rifi?",
+    "answers": [
+      {
+        "text": "Stek",
+        "correct": true
+      },
+      {
+        "text": "Navbat",
+        "correct": false
+      },
+      {
+        "text": "Dek",
+        "correct": false
+      },
+      {
+        "text": "Qator",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – ixtiyoriy uzunlikdagi kirish ma’lumotini chiqishda belgilangan uzunlikdagi xesh qiymatga aylantirib beruvchi bir tomonlama funksiyalarga aytiladi.",
+    "answers": [
+      {
+        "text": "Xesh funksiyalar",
+        "correct": true
+      },
+      {
+        "text": "Xesh rekursiya",
+        "correct": false
+      },
+      {
+        "text": "Xesh jadval",
+        "correct": false
+      },
+      {
+        "text": "Barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Yahshi xesh funksiya belgisi nima?",
+    "answers": [
+      {
+        "text": "bir xil matn uchun bir xil son qaytariladi",
+        "correct": true
+      },
+      {
+        "text": "bir xil matn uchun turli xil son qaytariladi",
+        "correct": false
+      },
+      {
+        "text": "turli xil matn uchun bir xil son qaytariladi",
+        "correct": false
+      },
+      {
+        "text": "bir xil matn uchun  turli xil shifr qaytariladi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Float tipi xotiradan qancha joy egallaydi?",
+    "answers": [
+      {
+        "text": "4 bayt",
+        "correct": true
+      },
+      {
+        "text": "12 bayt",
+        "correct": false
+      },
+      {
+        "text": "8 bayt",
+        "correct": false
+      },
+      {
+        "text": "Kompyuter Konfiguratsiyasiga qarab",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Haqiqiy toifaga nisbatan binar amallar bajarilsa natija qanday tipga tegishli bo’ladi?",
+    "answers": [
+      {
+        "text": "Mantiqiy",
+        "correct": true
+      },
+      {
+        "text": "Haqiqiy",
+        "correct": false
+      },
+      {
+        "text": "Butun",
+        "correct": false
+      },
+      {
+        "text": "Satrli",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ikki o’lchovli massiv nima dep nomlanadi?",
+    "answers": [
+      {
+        "text": "matritsa",
+        "correct": true
+      },
+      {
+        "text": "2 parametrli massiv",
+        "correct": false
+      },
+      {
+        "text": "enum",
+        "correct": false
+      },
+      {
+        "text": "switch",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi javobda xesh funksiya turlari ko’rsatilgan?",
+    "answers": [
+      {
+        "text": "Barcha javoblar to’g’ri",
+        "correct": true
+      },
+      {
+        "text": "MD2, MD5, MD4, MD6",
+        "correct": false
+      },
+      {
+        "text": "SHA-1, SHA-2",
+        "correct": false
+      },
+      {
+        "text": "CubeHash, BMW",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Saralashdan asosiy maqsad nima?",
+    "answers": [
+      {
+        "text": "saralangan ma’lumotlarni qayta ishlash jarayonida zarur bo’ladigan elementni tez va oson qidirib topishni soddalashtirish",
+        "correct": true
+      },
+      {
+        "text": "Elementlarni kalit bo’yicha tartiblashda har bir keyingi elementning kaliti oldingisidan kichik bo’lsa kamayish tartibida, kalit maydon qiymati oldingisidan katta bo’lsa o’sish tartibida saralash",
+        "correct": false
+      },
+      {
+        "text": "saralash algoritmlarining asosiy xususiyati tezkor xotirada ishlashni minimallashtirish",
+        "correct": false
+      },
+      {
+        "text": "Barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Istalgan tugunlari qo'shni bo'lgan graf xisoblanadi yani barcha tugunlar o'zaro birlashtirilgan bo'lsa bu..?",
+    "answers": [
+      {
+        "text": "to'liq graf (complete graph)",
+        "correct": true
+      },
+      {
+        "text": "yagona graf(only graph)",
+        "correct": false
+      },
+      {
+        "text": "yarim graf(half graph)",
+        "correct": false
+      },
+      {
+        "text": "graf(graph)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mavjud saralash algoritmlarini nechta guruhga ajratish mumkin?",
+    "answers": [
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "... – elementlarni ma‘lum bir tartibda joylashtirish amali",
+    "answers": [
+      {
+        "text": "Saralash",
+        "correct": true
+      },
+      {
+        "text": "ma‘lumotlarning sodda toifalari",
+        "correct": false
+      },
+      {
+        "text": "Qidirish",
+        "correct": false
+      },
+      {
+        "text": "Muvozanatlash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "indeks – bu ….",
+    "answers": [
+      {
+        "text": "massiv xadining joylashgan o’rnini anglatuvchi taktik qiymat",
+        "correct": true
+      },
+      {
+        "text": "massivlar qitymati xadining matematik qiymati",
+        "correct": false
+      },
+      {
+        "text": "o’zgaruvchiga  yozilgan tartib xadi",
+        "correct": false
+      },
+      {
+        "text": "chekli qiymatlarning tartiblangan to’plamidir",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "…  – bu tur o‘zgaruvchilari ma‘lumotlarni ko‘rsatkichlari yoki manzillari (adres) to‘plamini namoyon qiladi.",
+    "answers": [
+      {
+        "text": "Ko‘rsatkichli tur",
+        "correct": true
+      },
+      {
+        "text": "Ifodaviy tur",
+        "correct": false
+      },
+      {
+        "text": "Belgisiz tur",
+        "correct": false
+      },
+      {
+        "text": "Algoritm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… -  bu yozuvning chekli majmuasidir.",
+    "answers": [
+      {
+        "text": "Jadval",
+        "correct": true
+      },
+      {
+        "text": "Massiv",
+        "correct": false
+      },
+      {
+        "text": "Yozuv",
+        "correct": false
+      },
+      {
+        "text": "Belgi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "…  - bunda tizimga kelib tushgan oxirgi talabga birinchi bo‘lib xizmat ko‘rsatiladi va tizimdan chiqariladi.",
+    "answers": [
+      {
+        "text": "Stek",
+        "correct": true
+      },
+      {
+        "text": "Dek",
+        "correct": false
+      },
+      {
+        "text": "MEK",
+        "correct": false
+      },
+      {
+        "text": "Jadval",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… -  elementlari bir turga tegishli, ketma-ket joylashgan va umumiy nomga ega bo‘lgan tuzilmadir.",
+    "answers": [
+      {
+        "text": "Massiv",
+        "correct": true
+      },
+      {
+        "text": "To`plam",
+        "correct": false
+      },
+      {
+        "text": "Bo'lak",
+        "correct": false
+      },
+      {
+        "text": "Qism",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… -  ro‘yxat elementlari ko‘rsatkichlari maydoni yagona bo‘ladi",
+    "answers": [
+      {
+        "text": "Bir bog‘lamli ro‘yxat",
+        "correct": true
+      },
+      {
+        "text": "ko`p bog`lamli",
+        "correct": false
+      },
+      {
+        "text": "Ayana yo`nalgan",
+        "correct": false
+      },
+      {
+        "text": "Qattiq ro`yxat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… -  tuzilmadan bironta elementni joylashgan o‘rnini aniqlash amali",
+    "answers": [
+      {
+        "text": "Qidirish",
+        "correct": true
+      },
+      {
+        "text": "Saralash",
+        "correct": false
+      },
+      {
+        "text": "Kiritish",
+        "correct": false
+      },
+      {
+        "text": "O‘chirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – bu bir turga tegishli bo‘lgan elementlar ketma-ketligidir.",
+    "answers": [
+      {
+        "text": "Ro`yxat",
+        "correct": true
+      },
+      {
+        "text": "Jadval",
+        "correct": false
+      },
+      {
+        "text": "Satr",
+        "correct": false
+      },
+      {
+        "text": "Yozuv",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – bu butun sonlar to‘plamini qandaydir qism to‘plamini ifodalab, uning qiymatlar sohasi kompyuter konfigurasiyasiga bog‘liq ravishda o‘zgarib turadi",
+    "answers": [
+      {
+        "text": "Butun tur",
+        "correct": true
+      },
+      {
+        "text": "Maxfiy tur",
+        "correct": false
+      },
+      {
+        "text": "Ochiq tur",
+        "correct": false
+      },
+      {
+        "text": "Yopiq tur",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – bu ikki chetga ega bo‘lgan navbatdir. Talabga xizmat ko‘rsatish tizimning har ikkala tomonidan amalga oshirilishi mumkin.",
+    "answers": [
+      {
+        "text": "Dek",
+        "correct": true
+      },
+      {
+        "text": "Stek",
+        "correct": false
+      },
+      {
+        "text": "Rep",
+        "correct": false
+      },
+      {
+        "text": "MEK",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – bu yozuv identifikatori. Ushbu identifikatorni saqlash uchun maxsus maydon ajratiladi",
+    "answers": [
+      {
+        "text": "Kalit",
+        "correct": true
+      },
+      {
+        "text": "Matn",
+        "correct": false
+      },
+      {
+        "text": "Dinamika",
+        "correct": false
+      },
+      {
+        "text": "Jadval",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – bunda ro‘yxatni tashkil etuvchi elementlar mavjud emas.",
+    "answers": [
+      {
+        "text": "Bo‘sh ro‘yxat",
+        "correct": true
+      },
+      {
+        "text": "Belgili ro`yxat",
+        "correct": false
+      },
+      {
+        "text": "Jadvalli ro`yxat",
+        "correct": false
+      },
+      {
+        "text": "Chizili ro‘yxat , Belgili ro`yxat, Jadvalli ro`yxat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – bunda ro‘yxatni tashkil etuvchi elementlar orasidagi bog‘liqlik ko‘rsatkichlar orqali amalga oshiriladi.",
+    "answers": [
+      {
+        "text": "Bog‘langan ro‘yxat",
+        "correct": true
+      },
+      {
+        "text": "Belgili ro`yxat",
+        "correct": false
+      },
+      {
+        "text": "Jadvalli ro`yxat",
+        "correct": false
+      },
+      {
+        "text": "Bog‘langan ro‘yxat , Belgili ro`yxat, Jadvalli ro`yxat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "…  ko‘rinishidagi ma‘lumotlar tuzilmasi- bu shunday tuzilmaki, uning elementlari orasida hech qanday munosabat o‘rnatilmagan.",
+    "answers": [
+      {
+        "text": "To`plam",
+        "correct": true
+      },
+      {
+        "text": "Mantiqiy",
+        "correct": false
+      },
+      {
+        "text": "Rost",
+        "correct": false
+      },
+      {
+        "text": "Yolg'on",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - maydon deb ataluvchi chekli sondagi ma‘lumotlar tuzilmasidir. Turli maydon o‘zgaruvchilari turli turga tegishli bo‘lishi mumkin.",
+    "answers": [
+      {
+        "text": "Yozuv",
+        "correct": true
+      },
+      {
+        "text": "Massiv",
+        "correct": false
+      },
+      {
+        "text": "To'plam",
+        "correct": false
+      },
+      {
+        "text": "Jadval",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"… - mazkur tur mantiqiy mulohazalarni to‘g‘ri yoki noto‘g‘riliginii aniqlash uchun ishlatilib, ushbu turdagi o‘zgaruvchi 2 ta qiymatdan faqatgina bittasini qabul qiladi: 0 (false) yoki 1 (true).\"",
+    "answers": [
+      {
+        "text": "Matiqiy tur",
+        "correct": true
+      },
+      {
+        "text": "Butun tur",
+        "correct": false
+      },
+      {
+        "text": "Soxta tur",
+        "correct": false
+      },
+      {
+        "text": "Ochiq tur",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – mazkur tur o‘zgaruvchilari belgili qiymatlarni qabul qilishadi, masalan, harflar, raqamlar, matematik belgilar va boshqalar.",
+    "answers": [
+      {
+        "text": "Belgili tur",
+        "correct": true
+      },
+      {
+        "text": "Butun tur",
+        "correct": false
+      },
+      {
+        "text": "Qiymatsiz tur",
+        "correct": false
+      },
+      {
+        "text": "Qiymatli tur",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bir xil hisoblash jarayonini bir necha bor takrorlanishi nima deyiladi?",
+    "answers": [
+      {
+        "text": "sikl",
+        "correct": true
+      },
+      {
+        "text": "takrorlanish",
+        "correct": false
+      },
+      {
+        "text": "shart",
+        "correct": false
+      },
+      {
+        "text": "qiymat qaytarish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bir xil toifali, chekli qiymatlarning tartiblanganto’plamiga nima deb ataladi?",
+    "answers": [
+      {
+        "text": "Massiv",
+        "correct": true
+      },
+      {
+        "text": "Rekursiv funksiya",
+        "correct": false
+      },
+      {
+        "text": "register",
+        "correct": false
+      },
+      {
+        "text": "oqim",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bir yoki bir necha belgilar birlashmasi nima dep ataladi?",
+    "answers": [
+      {
+        "text": "satr",
+        "correct": true
+      },
+      {
+        "text": "soz",
+        "correct": false
+      },
+      {
+        "text": "gap",
+        "correct": false
+      },
+      {
+        "text": "belgilash birlashmasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bironta tugundan boshqa bir tugungacha bo'lgan yonma-yon joylashgan tugunlar ketma-ketligi nima?",
+    "answers": [
+      {
+        "text": "yo'l",
+        "correct": true
+      },
+      {
+        "text": "daraxt soni",
+        "correct": false
+      },
+      {
+        "text": "ildiz",
+        "correct": false
+      },
+      {
+        "text": "navbat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bitta asosdan tarqalgan tuzilma qaysi tuzlimaga misol bo’ladi?",
+    "answers": [
+      {
+        "text": "daraxt",
+        "correct": true
+      },
+      {
+        "text": "ketma ket",
+        "correct": false
+      },
+      {
+        "text": "to’plam",
+        "correct": false
+      },
+      {
+        "text": "graf",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Boshi va oxiri tutashuvchi tugundan iborat yo'l nima hisoblanadi?",
+    "answers": [
+      {
+        "text": "Halqa",
+        "correct": true
+      },
+      {
+        "text": "Vertex Degree(tugun darajasi)",
+        "correct": false
+      },
+      {
+        "text": "root(ildiz)",
+        "correct": false
+      },
+      {
+        "text": "left(chap)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Butun qiymat qabul qiluvchi tiplarni ko`rsating",
+    "answers": [
+      {
+        "text": "short int, int",
+        "correct": true
+      },
+      {
+        "text": "float, double",
+        "correct": false
+      },
+      {
+        "text": "\" float,  long long;\"",
+        "correct": false
+      },
+      {
+        "text": "long, float",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - bu tuzilma elementlarini qandaydir kriteriya asosida tartiblash.",
+    "answers": [
+      {
+        "text": "saralash",
+        "correct": true
+      },
+      {
+        "text": "kamayish tartibida saralash",
+        "correct": false
+      },
+      {
+        "text": "o’sish tartibida saralash",
+        "correct": false
+      },
+      {
+        "text": "qidirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Elementlarni kalit maydonlarining har bir keyingisi o’zidan oldingisidan kichik bo’lsa, bunday saralash nima deyiladi.",
+    "answers": [
+      {
+        "text": "kamayish tartibida saralash",
+        "correct": true
+      },
+      {
+        "text": "saralash maqsadi",
+        "correct": false
+      },
+      {
+        "text": "saralash xususiyati",
+        "correct": false
+      },
+      {
+        "text": "saralashning optimal yechimi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "– bu elementlarni saralash uchun qo’llaniladigan algoritm hisoblanadi.",
+    "answers": [
+      {
+        "text": "Saralash algoritmi",
+        "correct": true
+      },
+      {
+        "text": "Saralash maqsadi",
+        "correct": false
+      },
+      {
+        "text": "Sorting problem",
+        "correct": false
+      },
+      {
+        "text": "Sorting goals",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Char tipidagi o’zgaruvchiga necha bayt kerak bo’ladi?",
+    "answers": [
+      {
+        "text": "1",
+        "correct": true
+      },
+      {
+        "text": "2",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bazaviy ma’lumotlar toifasiga nima kiradi?",
+    "answers": [
+      {
+        "text": "butun sonli va xaqiqiy",
+        "correct": true
+      },
+      {
+        "text": "skalyar va tuzilmaviy",
+        "correct": false
+      },
+      {
+        "text": "bo’sh va skalyar",
+        "correct": false
+      },
+      {
+        "text": "binar va tuzilmaviy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar daraxtning maksimal chiqish darajasi 2 bo’lsa, bunday daraxt nima deb ataladi?",
+    "answers": [
+      {
+        "text": "Binar daraxt",
+        "correct": true
+      },
+      {
+        "text": "Indekslangan daraxt",
+        "correct": false
+      },
+      {
+        "text": "Binar rekursiya",
+        "correct": false
+      },
+      {
+        "text": "Juft bog’lami daraxt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Belgili toifalar necha xil bo’ladi?",
+    "answers": [
+      {
+        "text": "2",
+        "correct": true
+      },
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Belgili toifalar qaysilar?",
+    "answers": [
+      {
+        "text": "o’zlashtirish va taqqoslash",
+        "correct": true
+      },
+      {
+        "text": "faqat taqqoslash",
+        "correct": false
+      },
+      {
+        "text": "taqqoslash, o’zlashtirish va munosabati",
+        "correct": false
+      },
+      {
+        "text": "faqat o’zlashtirish",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Binar daraxtlarda ota o’g’illari bilan qanday bog’lanadi?",
+    "answers": [
+      {
+        "text": "Gorizontal chiziq bilan",
+        "correct": true
+      },
+      {
+        "text": "Tog’ri chiziq bilan",
+        "correct": false
+      },
+      {
+        "text": "Vertical chiziq bilan",
+        "correct": false
+      },
+      {
+        "text": "Ixtiyoriy tarzda",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Boolen tipi kompyuter xotirasidan qancha hajm egallaydi",
+    "answers": [
+      {
+        "text": "1 bayt",
+        "correct": true
+      },
+      {
+        "text": "2 bayt",
+        "correct": false
+      },
+      {
+        "text": "4 bayt",
+        "correct": false
+      },
+      {
+        "text": "8 bayt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Bu algoritmni aniqlashda o’ziga bevosita yoki bilvosita muroojat qilishdir. Qanday algoritm haqida gap ketmoqda?",
+    "answers": [
+      {
+        "text": "Rekursiv algoritm",
+        "correct": true
+      },
+      {
+        "text": "Stuctiv algoritm",
+        "correct": false
+      },
+      {
+        "text": "Classlar algorimi",
+        "correct": false
+      },
+      {
+        "text": "Navbatlar algoritmi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – obyektga yo’naltirilgan dasturlash (OYD) asosiy printsiplaridan biri. Bunda, sinf boshqa sinflarning o‘zgaruvchilari va metodlaridan o‘zining o‘zgaruvchisi va metodi sifatida foydalanishi mumkin.",
+    "answers": [
+      {
+        "text": "merosxo’rlik",
+        "correct": true
+      },
+      {
+        "text": "dinamik massivlar",
+        "correct": false
+      },
+      {
+        "text": "algoritm",
+        "correct": false
+      },
+      {
+        "text": "rekursiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – ikki yoki undan ortiq o'xshash, ammo texnik jihatdan har xil vazifalarni hal qilish uchun bir xil funksiya nomidan foydalanishga imkon beruvchi xususiyat.",
+    "answers": [
+      {
+        "text": "Polimorfizm",
+        "correct": true
+      },
+      {
+        "text": "Dinamik massiv",
+        "correct": false
+      },
+      {
+        "text": "Statik massiv",
+        "correct": false
+      },
+      {
+        "text": "Rekursiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Quyidagilardan qaysi biri rekursiv triadaga kirmaydi?",
+    "answers": [
+      {
+        "text": "Daraxtni asoslashtirish",
+        "correct": true
+      },
+      {
+        "text": "Rekursiya bazasi",
+        "correct": false
+      },
+      {
+        "text": "Parametrizatsiya qilish",
+        "correct": false
+      },
+      {
+        "text": "Dekompozitsiya",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Saralashning maqsadi?",
+    "answers": [
+      {
+        "text": "tartiblangan to’plamda kerakli elementni tartiblashdan iborat bo’ladi",
+        "correct": true
+      },
+      {
+        "text": "tartiblangan to’plamda kerakli elementni indeksatsiyasini osonlashtirishdan iborat",
+        "correct": false
+      },
+      {
+        "text": "tartiblangan to’plamda kerakli elementni parametrizatsiyalashni osonlashtirishdan iborat",
+        "correct": false
+      },
+      {
+        "text": "tartiblangan to’plamda kerakli elementni bir biriga bog’lashnini osonlashtirishdan iborat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - bu ma’lum bir ma’lumotlar tuzilmasidagi tartibsiz ma’lumotlarni ularning qandaydir xususiyatiga ko’ra tartiblab chiqish.",
+    "answers": [
+      {
+        "text": "saralash",
+        "correct": true
+      },
+      {
+        "text": "ketma-ket tartiblash",
+        "correct": false
+      },
+      {
+        "text": "tanlab saralash",
+        "correct": false
+      },
+      {
+        "text": "pufakchali saralash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Saralashning qanday turlari mavjud?",
+    "answers": [
+      {
+        "text": "Selection, insertion, merge, radix",
+        "correct": true
+      },
+      {
+        "text": "Bubble, stack, quick, shell",
+        "correct": false
+      },
+      {
+        "text": "Bubble, shell, deque, selection",
+        "correct": false
+      },
+      {
+        "text": "Barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Uni omborxona yoki kutubxonaning bir turi sifatida ko'rish mumkin.",
+    "answers": [
+      {
+        "text": "Ma’lumotlar strukturasini",
+        "correct": true
+      },
+      {
+        "text": "Classlar tarkibini",
+        "correct": false
+      },
+      {
+        "text": "Ma’lumotlar tarkibini",
+        "correct": false
+      },
+      {
+        "text": "Steklar jadvalini",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nima uchun turli xil saralash algoritmlari ishlatiladi?",
+    "answers": [
+      {
+        "text": "Saralash algoritmlari turli ma’lumotlar tuzilmasida turlicha ishlashi mumkin",
+        "correct": true
+      },
+      {
+        "text": "Bubble saralashdan ko’ra quick saralash tez ishlganligi uchun",
+        "correct": false
+      },
+      {
+        "text": "Saralash algoritmlari turg’un holatda ishlagani uchun",
+        "correct": false
+      },
+      {
+        "text": "Barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nima uchun turli xil saralash algoritmlari ishlatiladi?",
+    "answers": [
+      {
+        "text": "Saralash algoritmlari turg’unlik jihatidan farq qilishi mumkin",
+        "correct": true
+      },
+      {
+        "text": "Bubble saralashdan ko’ra quick saralash tez ishlganligi uchun",
+        "correct": false
+      },
+      {
+        "text": "Saralash algoritmlarida turlicha algoritmlardan foydalaniladi",
+        "correct": false
+      },
+      {
+        "text": "Barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Saralash qanday toifaga bo’linadi?",
+    "answers": [
+      {
+        "text": "turg’un va noturg’un",
+        "correct": true
+      },
+      {
+        "text": "bubble, selection, insertion",
+        "correct": false
+      },
+      {
+        "text": "tez va yomon ishlovchi",
+        "correct": false
+      },
+      {
+        "text": "best, average, worst",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\".. – bunda tizimga kelib tushgan birinchi talabga birinchi bo‘lib xizmat ko‘rsatiladi va tizimdan chiqariladi\"",
+    "answers": [
+      {
+        "text": "Navbat",
+        "correct": true
+      },
+      {
+        "text": "Qator",
+        "correct": false
+      },
+      {
+        "text": "Bosqich",
+        "correct": false
+      },
+      {
+        "text": "Baxo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "\"… – mazkur turga kasr qismlari bor haqiqiy chekli sonlar to‘plami kiradi. To‘plamni chekli bo‘lish sharti kompyuterda sonlarni ifodalash chegaralanganligi bilan bog‘liq.\"",
+    "answers": [
+      {
+        "text": "Haqiqiy tur",
+        "correct": true
+      },
+      {
+        "text": "Soxta tur",
+        "correct": false
+      },
+      {
+        "text": "Butun tur",
+        "correct": false
+      },
+      {
+        "text": "Odatiy tur",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… ro‘yxat – bunda tuzilma elementlari ko‘pi bilan tuzilmaning m ta elementi bilan bog‘langan bo‘ladi",
+    "answers": [
+      {
+        "text": "m bog`lamli",
+        "correct": true
+      },
+      {
+        "text": "Ko`p bog`lamli",
+        "correct": false
+      },
+      {
+        "text": "Jadvalli ro`yxat",
+        "correct": false
+      },
+      {
+        "text": "m bog`lamli, Ko`p bog`lamli, Jadvalli ro`yxat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar har bir element o’zidan  oldingi  va  o’zidan  keyingi  element  bilan  bog’langan  bolsa qanday ro’yhat deyiladi",
+    "answers": [
+      {
+        "text": "ikki bog’lamli",
+        "correct": true
+      },
+      {
+        "text": "uch bog’lamli",
+        "correct": false
+      },
+      {
+        "text": "bir bog’lamli",
+        "correct": false
+      },
+      {
+        "text": "ketma-ketli bog’langan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Agar ikki qo’shni element noto’g’ri tartibda joylashib qolgan bo’lsa, ularning o’rnini almashtiramiz. Elementlar o’z o’rinlariga pufakga o’xshab siljib boradi. Yuqorida qaysi usul algoritmi keltirilgan?",
+    "answers": [
+      {
+        "text": "Bubble sort",
+        "correct": true
+      },
+      {
+        "text": "Quick sort",
+        "correct": false
+      },
+      {
+        "text": "Merge sort",
+        "correct": false
+      },
+      {
+        "text": "Tanlash orqali saralash",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Algoritm xossalari nechta?",
+    "answers": [
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Asosiy programmadan hech qanday parameter qabul qilib olmaydigan funksiyalar nima dep aytiladi?",
+    "answers": [
+      {
+        "text": "parametrsiz funksiya.",
+        "correct": true
+      },
+      {
+        "text": "parametrli funfsiya",
+        "correct": false
+      },
+      {
+        "text": "takrorlanuvchi funksiya",
+        "correct": false
+      },
+      {
+        "text": "void funksiyasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Balandlik bu nima?",
+    "answers": [
+      {
+        "text": "bu daraxt bosqichi soni",
+        "correct": true
+      },
+      {
+        "text": "daraxt soni",
+        "correct": false
+      },
+      {
+        "text": "shoxlari",
+        "correct": false
+      },
+      {
+        "text": "daraxt ildizlri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kriteriya sifatida odatda nima deb ataluvchi sonli maydon qo’llaniladi?",
+    "answers": [
+      {
+        "text": "kalit",
+        "correct": true
+      },
+      {
+        "text": "yasheyka",
+        "correct": false
+      },
+      {
+        "text": "maydon hajmi",
+        "correct": false
+      },
+      {
+        "text": "string son",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Binar daraxt deb nimaga aytiladi?",
+    "answers": [
+      {
+        "text": "Agar maksimal chiqish darajasi 2 bo`lsa",
+        "correct": true
+      },
+      {
+        "text": "Agar maksimal chiqish darajasi 2 va undan ko’p bo`lsa",
+        "correct": false
+      },
+      {
+        "text": "Agar chiqish darajasi faqat 2 bo`lsa",
+        "correct": false
+      },
+      {
+        "text": "Agar maksimal chiqish darajasi n bo`lsa",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… - ma’lumotlarni qayta ishlashda berilgan qiymat (kalit) bo’yicha elementni qidirib topishni yengillashtirishdan iborat.",
+    "answers": [
+      {
+        "text": "Saralash maqsadi",
+        "correct": true
+      },
+      {
+        "text": "Saralash xususiyati",
+        "correct": false
+      },
+      {
+        "text": "Sorting problem",
+        "correct": false
+      },
+      {
+        "text": "Sorting algoritm",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ichki saralash algoritmlari qaerda qo’llaniladi?",
+    "answers": [
+      {
+        "text": "massivda",
+        "correct": true
+      },
+      {
+        "text": "faylda",
+        "correct": false
+      },
+      {
+        "text": "tartibsiz ma’lumotlarda",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Daraxt – bu nima?",
+    "answers": [
+      {
+        "text": "chiziqsiz bog‘langan ma‘lumotlar tuzilmasidir",
+        "correct": true
+      },
+      {
+        "text": "chiziqli bog’angan malumotlar tuzilmasi",
+        "correct": false
+      },
+      {
+        "text": "ketma ket bog’langan malumotlar tuzilmasi",
+        "correct": false
+      },
+      {
+        "text": "parallel bog’langan malumotlar tuzilmasi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tashqii saralash algoritmlari qaerda qo’llaniladi?",
+    "answers": [
+      {
+        "text": "faylda",
+        "correct": true
+      },
+      {
+        "text": "xotira maydonida",
+        "correct": false
+      },
+      {
+        "text": "tartibsiz ma’lumotlarda",
+        "correct": false
+      },
+      {
+        "text": "barcha javoblar to’g’ri",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Daraxt baalandligi nima?",
+    "answers": [
+      {
+        "text": "daraxt bosqichlari soni",
+        "correct": true
+      },
+      {
+        "text": "daraxt ildizlari",
+        "correct": false
+      },
+      {
+        "text": "daraxt barglari",
+        "correct": false
+      },
+      {
+        "text": "daraxt barglari va shoxlari",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Daraxt bu …. .Jumlani davom ettiting:",
+    "answers": [
+      {
+        "text": "tugun deb ataladigan bir yoki bir nechta elementlardan tashkil topgan cheksiz to'plamdir",
+        "correct": true
+      },
+      {
+        "text": "ma’lumotlarni bir-biriga bog’liq ekanligini tavsiflovchi vosita",
+        "correct": false
+      },
+      {
+        "text": "\"tugun deb ataladigan bir yoki bir nechta elementlardan tashkil topgan chekli to'plamdir;\"",
+        "correct": false
+      },
+      {
+        "text": "bir yoki bir nechta elementlardan tashkil topgan cheksiz to'plamdir",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Daraxt turlari qaysilar?",
+    "answers": [
+      {
+        "text": "Binar daraxtlar, ko’p o’lchamli daraxtlar",
+        "correct": true
+      },
+      {
+        "text": "Unar daraxtlar, ko’p o’lchamli daraxtlar",
+        "correct": false
+      },
+      {
+        "text": "Binar daraxtlar, cheksiz  o’lchamli daraxtlar",
+        "correct": false
+      },
+      {
+        "text": "Unar daraxtlar, chekli  o’lchamli daraxtlar",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dastur  bajarilishi  mobaynida  o‘zgarib  turadigan  tuzilmaga nima deyiladi",
+    "answers": [
+      {
+        "text": "dinamik",
+        "correct": true
+      },
+      {
+        "text": "static",
+        "correct": false
+      },
+      {
+        "text": "fizik",
+        "correct": false
+      },
+      {
+        "text": "mexanik",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dastur bajarilayotganda vujudga keladigan yoki o`lchamlari dastur bajarilishi mobaynida aniqlanadigan ob`yektlar qanday ob`yektlar deyiladi?",
+    "answers": [
+      {
+        "text": "Dinamik",
+        "correct": true
+      },
+      {
+        "text": "Statik",
+        "correct": false
+      },
+      {
+        "text": "Massiv",
+        "correct": false
+      },
+      {
+        "text": "Mantiqiy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Qaysi dasturlash tillarida umuman takrorlanish operatorlari yo’q va bu borada butunlay rekursiyaga tayanadi C++tilida belgili toifalarning qiymatlari qanday belgi orqali belgilanadi?",
+    "answers": [
+      {
+        "text": "Erlang",
+        "correct": true
+      },
+      {
+        "text": "Python",
+        "correct": false
+      },
+      {
+        "text": "C++",
+        "correct": false
+      },
+      {
+        "text": "JavaScript",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Daraxtning har bir tugunida katta o’g’ilga mos shoxidan tashqari barha shohlari kesib tashlanadi. Bunday holatda qaysi shox katta o’g’il vazifasida bo’ladi?",
+    "answers": [
+      {
+        "text": "Chetki chap shox",
+        "correct": true
+      },
+      {
+        "text": "Tugun pastidagi shox",
+        "correct": false
+      },
+      {
+        "text": "Eng pastki shox",
+        "correct": false
+      },
+      {
+        "text": "Chetki o’ng shox",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dasturda Amallar necha xil bo’ladi?",
+    "answers": [
+      {
+        "text": "2 xil (binar va unar)",
+        "correct": true
+      },
+      {
+        "text": "2 xil (sonli va satrli)",
+        "correct": false
+      },
+      {
+        "text": "Aniqlab bo’lmaydi",
+        "correct": false
+      },
+      {
+        "text": "Dastur tipiga qarab",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Dasturlash tillarida ma’lumotlar necha turga bo’linadi?",
+    "answers": [
+      {
+        "text": "bazaviy va keltirilgan",
+        "correct": true
+      },
+      {
+        "text": "Rost va yolg’on",
+        "correct": false
+      },
+      {
+        "text": "Fizik va biologik",
+        "correct": false
+      },
+      {
+        "text": "Skalyar va bo’sh",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "“….” - so'zi ingliz tilidan olingan bo’lib, uning ma'nosi “shovqin” yoki “aralash” kabi ta'riflanadi.",
+    "answers": [
+      {
+        "text": "Xesh",
+        "correct": true
+      },
+      {
+        "text": "Rekursiya",
+        "correct": false
+      },
+      {
+        "text": "Shifrlash",
+        "correct": false
+      },
+      {
+        "text": "Vector",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "… – bu ma'lum bir turdagi va ixtiyoriy uzunlikdagi kirish ma'lumotlari massivini fiksirlangan uzunlikdagi chiquvchi bitlar qatoriga aylantirish.",
+    "answers": [
+      {
+        "text": "Xeshlash",
+        "correct": true
+      },
+      {
+        "text": "Rekursiya",
+        "correct": false
+      },
+      {
+        "text": "Ma’lumotni ifodalash",
+        "correct": false
+      },
+      {
+        "text": "Tiplar va float",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "... – bu shunday kalitki, u ikkidan ortiq maydonni o‘z ichiga oladi.",
+    "answers": [
+      {
+        "text": "Qo`shimcha kalit",
+        "correct": true
+      },
+      {
+        "text": "Kalitlar maydoni",
+        "correct": false
+      },
+      {
+        "text": "Yozuv kaliti",
+        "correct": false
+      },
+      {
+        "text": "Qulfli shifr",
+        "correct": false
+      }
+    ]
+  }
+]
